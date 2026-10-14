@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10151,
+    "title": "出价设置指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 操作说明\r\n* **计费方式**：oCPC、oCPM、CPM、CPC\r\n\r\n* **出价类型**：稳定拿量、最大转化量投放（仅oCPX计费方式需要设置）\r\n\r\n建议使用最大转化量投放，可投放根据客户的投放诉求和预算，在尽可能花完设定预算的基础上、努力为客户达成最大转化量的投放目标。\r\n\r\n[腾讯营销 | 帮助中心](https://e.qq.com/ads/helpcenter/detail?cid=3162&pid=9387)\r\n\r\n* **出价**：输入对应出价，可参考系统建议的出价\r\n* **一方数据跑量加强**：开启后，基于回传的一方数据，系统将其作为补充样本针对性优化OCPX模型，并助力提升投放拿量能力\r\n* **一键起量**：开启后，给该营销提供一笔起量预算，系统尽可能在6 小时内，以这笔预算争取曝光，帮助营销激进探索\r\n* **营销日预算**：可选不限或指定日预算，最低为50元/天\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319163738_843956.png\" style=\"width: 600px;\">",
+    "catalogs": [
+      {
+        "catalog_id": 3773,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:45:25"
+      },
+      {
+        "catalog_id": 4597,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:14:19"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】新投放模式营销创建指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/5EDZQGGo?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164446_043031.png\",\"uploadTime\":1740735921457,\"videoId\":\"007c50f0-5440-498d-8079-e15bdd464f7d\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:09:15",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

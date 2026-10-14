@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10327,
+    "title": "商品模版",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年04月09日     | 新建文档     |\r\n\r\n# 一、能力介绍\r\n\r\n## 1、什么是商品模版\r\n\r\n商品模版是创意的展现样式，决定创意呈现的布局和非主体元素;客户可使用模版创建工具复用创意的展现样式，提高投放效率\r\n\r\n# 二、操作说明\r\n\r\n进入[创意中心](https://chuangyi.qq.com/dpa/my-template)创建MPA创意模版\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426173823_600557.png)\r\n\r\n## 1、图片商品模版\r\n\r\n新建MPA营销的创意模版， 选择该模版用于投放商品库，与后续投放营销绑定商品库一致。\r\n\r\n模板需要绑定商品库才能创建;若选择投放多商品形式，商品数量可选择1-10；\r\n\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426173842_107196.png)\r\n\r\n![w1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426173920_490716.png)\r\n\r\n可上传背景、Logo、商品等图片，本地上传图片不得大于2M；\r\n\r\n可添加文案、名称、价格等信息，文本框的宽高影响文字的显示范围；\r\n\r\n可拖拽位置、锁定和删除图层；\r\n\r\n现支持将静态图片和文案(如品牌、价格、折扣等)设置为动态商品图片和文案;以实现更丰富的千人千面效果。\r\n\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426173943_047442.png)\r\n\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426173958_370690.png)\r\n\r\n保存提交，模版在通过审核后才能在投放过程中使用，审核内容为文案和图片审核周期控制在一个工作日内，客户可在创意模版制作工具前端跟进模版状态；在后续用于创建该商品库投放的营销即可选用；\r\n\r\nPS：建议创意模版重点突出商品屏占比，避免过多干扰信息。\r\n\r\n## 2、视频商品模版\r\n\r\nMPA营销视频创意投放前需前置渲染转码，申请白名单可联系创意中心处理。\r\n\r\n## 3、模版管理\r\n\r\n支持查看模版ID 缩略图 所属商品库 使用权限和状态。\r\n\r\n支持对草稿态模版进行编辑 复制 预览 提交删除。\r\n\r\n支持对审核和发布态模版进行预览 复制 撤回。\r\n\r\n![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426174043_035799.png)\r\n\r\n# 三、Q&A专题\r\n\r\n**Q1:模板支持哪些动态字段?**\r\n\r\n根据商品库的类型，每个商品库类型所以支持的动态字段不一样。除了最基础的字段(商品图片、商品名称、商品价格、商品)，其他字段如需要在超模中支持，需要联系您的运营经理。\r\n\r\n**Q2:模板上是否可以不使用任何动态元素?**\r\n\r\n不可以，模版必须要绑定动态元素才能提交发布。",
+    "catalogs": [
+      {
+        "catalog_id": 3782,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:27:25"
+      },
+      {
+        "catalog_id": 4550,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:24:03"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-26 17:40:56",
+    "updated_at": "2025-01-14 14:24:03",
+    "nav_flag": 0
+  }
+}

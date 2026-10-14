@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10207,
+    "title": "素材分析应用",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、功能介绍\r\n素材分析包含图片素材和视频素材两张报表，供客户查看内容素材的效果数据，并根据数据调整和优化相关素材，提升投放效果。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320142703_974703.png\" style=\"width: 1040px;\">\r\n\r\n# 二、使用指引\r\n**步骤①：选择报表类型**\r\n* 在素材分析报表中选择需要查看的图片素材/视频素材\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320142747_728079.png\" style=\"width: 1040px;\">\r\n\r\n**步骤②：设置筛选项**\r\n* 可根据图片名称/图片id筛选所需查看的图片（可复选）\r\n* 可根据花费、曝光量、点击量、目标转化量、目标转化成本、目标转化率6个数据指标进行筛选，筛选方式包括大于/小于某数值\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320142854_708049.png\" style=\"width: 1040px;\">\r\n\r\n**步骤③：选择数据口径**\r\n* 营销播放：转化数据统计至营销播放时间点。适合场景：营销整体生命周期表现。\r\n* 转化回传：转化数据统计至行为上报时间点。适合场景：实时查看当日上报数据情况。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320142924_124919.png\" style=\"width: 1040px;\">\r\n\r\n**步骤④：选择时间维度**\r\n* 可选择分日、合计两种类型的时间维度。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143017_142379.png\" style=\"width: 1040px;\">\r\n\r\n**步骤⑤：选择时间范围**\r\n* 可选择今天、昨天、最近7天、最近30天、最近90天等时间维度，也可自定义时间范围。自定义时间范围最常为1年。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143422_705814.png\" style=\"width: 1040px;\">\r\n\r\n**步骤⑥：数据对比（根据实际需求自行选择是否进行数据对比）**\r\n* 点击【数据对比】按钮，选择需要对比的时间段即可。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143444_757977.png\" style=\"width: 1040px;\">\r\n\r\n**步骤⑦：选择需要展示的指标和展示方式**\r\n* 选择指标：\r\n\r\n  点击【自定义展示指标】和【自定义列】，选择所需查看的数据指标，分别展示在数据趋势和数据报表中。\r\n\r\n  可选择的指标类型有：属性指标、基础指标、互动指标、转化及生命周期、视频号、公众号等。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143608_605117.png\" style=\"width: 1040px;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143629_953229.png\" style=\"width: 1040px;\">\r\n\r\n* 选择展示方式：\r\n\r\n  数据趋势展示框内，可对指标进行单选和复选进行趋势展示，同时可选择展开/折叠趋势图。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143654_700823.png\" style=\"width: 1040px;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143718_873024.png\" style=\"width: 1040px;\">\r\n\r\n**步骤⑧：查看版位细分数据、查看汇总数据（根据实际需求自行选择）**\r\n* 可分别点击【版位细分】、【查看汇总数据】来查看\r\n* 版位细分暂只支持时间维度为分日数据，只支持查询前一天及以前的数据；不支持实时数据查询，不支持选择今日数据。由于流量差异较大，极少量数据可能会显示版位“未知”，属于正常情况。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143752_353995.png\" style=\"width: 1040px;\">\r\n\r\n**步骤⑨：下载数据（根据实际需求自行选择）**\r\n* 可点击【下载】按钮，将数据以excel形式下载至本地用于分析。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320143807_663298.png\" style=\"width: 1040px;\">\r\n\r\n# 三、常见问题\r\n**1、新投放的素材报表可以查看当天的数据吗？**\r\n\r\n新投放的素材报表更新频率为T+1，无法查看当天的数据。\r\n\r\n**2、投放搜索营销，素材报表为什么没有数据？**\r\n\r\n搜索营销不支持素材报表，您可通过创意组件报表查看相关数据。",
+    "catalogs": [
+      {
+        "catalog_id": 3786,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:58:08"
+      },
+      {
+        "catalog_id": 4547,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:28:27"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-20 14:38:49",
+    "updated_at": "2025-01-14 14:28:27",
+    "nav_flag": 0
+  }
+}

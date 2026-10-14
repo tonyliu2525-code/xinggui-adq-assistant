@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10136,
+    "title": "帮助中心-ADX",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |提交人  |\r\n| -------- | -------- | -------- |\r\n| 2023年10月17日  | 新建文档    |junzhigao  |\r\n| 2024年01月30日 | 流量量级更新  | junzhigao |\r\n|2025年11月7日  | 产品简介更新、删除使用门槛内容 | kyriekduan |\r\n# 一、产品介绍\r\n程序化出价产品是腾讯营销与客户之间实现程序化交易的模块名称，包含RTA、ADX两种类型，是在腾讯营销和客户之间搭建一条实时接口，能够让客户将自有的数据能力实时作用在营销决策环节，从而达到媒体与客户共建和提升营销效果的能力。  \r\nADX是Ad exchange的简称，客户可以通过接入腾讯营销ADX，来对腾讯营销的流量进行实时竞价，即实现RTB(real-time bidding)。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319155533_970899.png\" style=\"\r\n    width: 600px;\r\n\">\r\n\r\n## 1. 流量&形态覆盖和规模\r\n当前腾讯营销ADX已基本支持腾讯营销全流量，包括朋友圈、视频号等头部资源。\r\n|流量|请求规模（天） |\r\n| -------- | -------- | -------- |\r\n| 腾讯新闻＆视频| 约80亿 |\r\n| 腾讯QQ系| 约180亿 |\r\n| 微信| 约150亿 |\r\n| 腾讯营销联盟| 约550亿 |\r\n\r\n## 2. 计费模式\r\n当前腾讯营销ADX支持按曝光出价和按点击出价两种出价方式\r\n\r\n# 二、适用客户&场景\r\n## 1. 平台型客户\r\n### 1.1. 客户定位\r\n●客户自身是程序化技术代理商角色，帮助其子客户全渠道投放和优化效果；  \r\n●客户自身为营销平台，其生态体系内的商家是其子客户，如京东京准通、阿里妈妈。\r\n### 1.2. 客户资产\r\n●客户的目标人群；  \r\n●客户生态体系内的核心用户行为数据，如购买。\r\n### 1.3. 投放目标\r\n●站外流量扩展  \r\n●优化子客户（商家）投放ROI\r\n## 2. 直客型客户\r\n### 2.1. 客户定位\r\n●客户自身是某集团的增长团队，通过程序化营销手段来优化投放带来的用户增长效果。\r\n### 2.2. 客户资产\r\n●客户生态体系内的核心用户行为数据，如下载、沉默时间等。\r\n### 2.3. 投放目标\r\n●优化拉活、拉新ROI，如DAU成本、激活成本\r\n\r\n# 三、实时竞价流程说明\r\n1.客户在腾讯营销完成DSP身份入驻和联调;  \r\n2.客户在DSP下创建账户与营销，生成营销ID用于参竞;  \r\n3.用户浏览媒体产生营销请求，ADX系统将营销请求转发给客户，客户自行决策是否参竞&参竞营销ID及出价；  \r\n4.参竞的营销在腾讯营销总营销池内统一竞价；  \r\n5.若竞价胜出并产生曝光，曝光营销的相关展点消数据回传给客户。\r\n# 四、常见问题\r\n## 1. 响应时延要求\r\n腾讯营销联盟：200ms  \r\n微信：160ms  \r\nQ系：120~200ms  \r\n新闻&视频：120~150ms  \r\n## 2. 投放审核要求\r\n接入ADX的客户（DSP）以代理商身份入驻腾讯营销，投放营销前的账户创建和营销/创意创建在审核要求上与普通代理商并无差别。详见：[腾讯营销 | 帮助中心](https://support.e.qq.com/detail?cid=3843&pid=6312 )\r\n\r\n# 五、联系我们\r\n对接合作，请优先联系对接客户运营接口人或者销售。  \r\n若无法联系接口人，可以邮件形式联系程序化出价产品技术团队：gdtadx@tencent.com",
+    "catalogs": [
+      {
+        "catalog_id": 3808,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:10:25"
+      },
+      {
+        "catalog_id": 4525,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:57:13"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-13 15:34:46",
+    "updated_at": "2025-11-18 17:07:29",
+    "nav_flag": 0
+  }
+}

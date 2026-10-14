@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12628,
+    "title": "闪屏联投",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"闪屏联投\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"产品优势\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"一键覆盖9大场景16个优质APP用户，实现海量TA触达\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持媒体\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯视频、腾讯新闻、QQ浏览器、QQ音乐、酷狗音乐、全民K歌、酷我音乐、腾讯体育、虎牙、水印相机、英雄联盟手游、QQ阅读、腾讯动漫、腾讯文档、搜狗输入法、微云等\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"合约：CPM\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"   \"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_SxV5x\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144529_648695.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1006,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5031,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:44:08"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-22 10:25:50",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

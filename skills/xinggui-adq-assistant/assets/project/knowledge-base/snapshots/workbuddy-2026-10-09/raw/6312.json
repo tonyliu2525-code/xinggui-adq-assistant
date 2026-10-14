@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 6312,
+    "title": "总则及规范",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 总则\r\n本规范作为《腾讯营销营销服务商合作协议》《腾讯营销营销客户合作协议》《腾讯程序化营销交易平台合作协议》等使用腾讯营销相关的各类协议（统称“服务协议”）的一部分，与服务协议有冲突的以本规范内容为准。本规范自公布之日起生效，腾讯有权根据运营需要，随时对本规范进行完善、调整。您在使用腾讯营销时，均应当遵守本规范\r\n\r\n## 规范目的\r\n为了规范腾讯营销接入、审核、发布等相关流程及标准，为客户提供一个公开、明确的平台使用规范，保护广大用户合法权益，维护腾讯营销的合法有序，特制定本规范。",
+    "catalogs": [
+      {
+        "catalog_id": 3843,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-08-12 15:47:53"
+      }
+    ],
+    "created_by_name": "nancysi",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-01-10 17:06:43",
+    "updated_at": "2024-08-12 15:47:53",
+    "nav_flag": 0
+  }
+}

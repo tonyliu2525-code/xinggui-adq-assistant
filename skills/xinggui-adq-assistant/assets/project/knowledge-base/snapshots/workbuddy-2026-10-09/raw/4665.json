@@ -1,0 +1,51 @@
+{
+  "data": {
+    "post_id": 4665,
+    "title": "格子营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 产品特点\r\n\r\n* 支持小游戏推广目标\r\n* 基于开发者设定，格子营销一次曝光展示 1 个或多个不同的格子营销\r\n* 自动拉取小游戏头像/昵称，作为营销外层图片与文案，同时支持自定义上传与修改文案\r\n<br>\r\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220617120431_372527.jpg' \r\nstyle='width:200px;margin-top:10px'></img>\r\n\r\n## 适用场景\r\n\r\n格子营销展现场景由自定义，根据各自小程序的特点，灵活设置展现页面与位置。格子营销的常见展现场景为：小游戏场景切换、通关场景、更多游戏推荐页。\r\n\r\n## 适用样式及规范\r\n\r\n*\r\n### 方形头像\r\n\r\n  * 素材尺寸：512 × 512 像素\r\n  * 大小不能超过 120KB，支持 bmp，png，jpeg，jpg 等格式\r\n  * 文案规格：可以完整展示至少 4 个文字，超出 4 个文字的部分可能会被省略号代替",
+    "catalogs": [
+      {
+        "catalog_id": 3718,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:25:15"
+      }
+    ],
+    "created_by_name": "宇逸-付梦妤",
+    "tags": [
+      {
+        "tag_id": 99,
+        "name": "小程序",
+        "tag_category_name": "微信",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-04-14 15:27:04",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9543,
+    "title": "创意预览",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.10.9   | \r\n\r\n# 一、能力简介\r\n## 1. 什么是创意预览\r\n\r\n创意预览是投放平台为客户在创意创建环节 提供的“实时确认素材样式”的「**模拟预览**」；仅用于提供基础素材的正确性+素材符合审核要求的安全区域预览\r\n\r\n* 素材正确性：营销创意素材设置的品牌形象、图片/视频、文案、创意组件\r\n\r\n* 安全区域预览：极端情况下，部分机型在展示闪屏营销、视频号营销等场景时，会进行部分裁剪，为保障确保素材信息完整展示，提供预览的“安全区域”能力\r\n具体产品位置：\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017110709_103301.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017110709_103301.png\" style='width:600px'/></a>\r\n\r\n## 2. 创意预览与在线预览的区别\r\n\r\n在线预览与创意预览是两种完全不同的预览能力，服务的场景功能也有所不同：\r\n\r\n### 类型\r\n* 在线预览\r\n  * 使用场景：可通在对应的营销位上刷到营销的**实际展示及跳转效果**，感受营销创意的真实播放体验，以此确保营销创意素材符合投放预期\r\n详细操作指引：[在线预览功能使用指南](https://docs.qq.com/doc/DQU5uaUtYcUNLdHh4)\r\n  * 投放平台能力展示：\r\n\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111058_843381.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111058_843381.png\" style='width:600px'/></a>\r\n\r\n* 创意预览&扫码预览\r\n  * 使用场景：\r\n    * 创意预览：是通过H5拼接高保真拼接出来的模拟仿真预览，仅自己上传的素材是可播放的\r\n    * 扫码预览：创意预览的附加能力，可以通过手机扫码打开，预览的H5页面内容与PC端创意预览体验一致\r\n  * 投放平台能力展示：投放流程/推广列表中直接展示\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111314_142668.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111314_142668.png\" style='width:600px'/></a>\r\n\r\n**创意预览为模拟预览能力，仅为素材确认提供参考；**\r\n\r\n因受到用户机型、系统，平台形态优化等因素影响，营销预览样式和实际展示样式可能存在细微的差异，实际效果以“在线预览”以及营销上线播放为准\r\n\r\n**如果遇到在线预览和创意预览不一致的问题，请以“在线预览”为准**\r\n\r\n# 二、使用指引\r\n## 1. 按管理场景划分\r\n### 1.1. 营销创建环节：\r\n在营销创意素材上传时，再创意层级右侧，提供实时素材确认\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111716_857611.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111716_857611.png\" style='width:600px'/></a>\r\n\r\n### 1.2. 营销管理环节：\r\n\r\n通过预览快速定位具体营销，提高管理操作效率\r\n* 通过列表“详情”点击，展开营销列表有侧边栏\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111830_224600.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017111830_224600.png\" /></a>\r\n\r\n* 点击对应的“营销创意”层级素材，展开大图预览，查看完整创意预览\r\n\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017114814_704193.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017114814_704193.png\" style='width:600px'/></a>\r\n\r\n## 2. 按预览场景划分\r\n\r\n目前支持“安全区域预览”、“扫码预览”、“查看全部版位预览”3种细分预览能力\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017114944_567838.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017114944_567838.png\" style='width:600px'/></a>\r\n### 2.1. 安全区域预览：\r\n点击后可查看对应素材是否在安全区域内\r\n\r\n**极端情况下部分机型播放营销会出现裁剪，故需要关注素材的关键提示信息是否在安全区域内，不在安全区域内会导致审核不通过**\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115105_051641.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115105_051641.png\" style='width:600px'/></a>\r\n### 2.2. 查看全部版位预览：\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115214_738727.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115214_738727.png\" style='width:400px'/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115246_371731.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115246_371731.png\" style='width:600px'/></a>\r\n\r\n### 2.3. 扫码预览：\r\n**模拟真实播放**，支持使用手机自带扫码工具，扫二维码查看模拟拼接状态\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115639_439598.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115639_439598.png\" style='width:400px'/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115616_395795.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017115616_395795.png\" style='width:400px'/></a>\r\n\r\n# 三、常见问题\r\n## 1. 创意预览-扫码预览不支持点击跳转至落地页？\r\n\r\n* 创意预览的功能定位为，为客户提供素材正确性+安全性的确认，不提供点击跳转能力\r\n\r\n* 如需体验完整的点击跳转能力，体验完整营销形态，请在内容审核通过后，使用在线预览能力直接在客户端体验真实的营销预览[在线预览功能使用指南](https://docs.qq.com/doc/DQU5uaUtYcUNLdHh4)\r\n\r\n\r\n## 2. 创意预览与在线预览形态有差异，应该以哪个为准？\r\n\r\n以在线预览为准；\r\n\r\n投放平台涵盖的媒体流量多、各流量媒体的营销形态更新迭代速度快，且不真实播放环境下，部分机型可能被覆盖不同的流量实验，无法确保形态变更后能实时更新创意预览\r\n\r\n## 3. 创意预览显示“暂不支持预览”需要如何确认到创意样式？\r\n\r\nstep1 如需体验到预览确保营销设置正确，对于未支持预览的可使用在线预览进行查看\r\n\r\nstep2 通过需求反馈，将“暂不支持预览”的营销附带如下信息，在社区反馈给我们；具体提供信息包含：营销版位、创意预览形式名称\r\n\r\n# 四、问题反馈渠道\r\n## 1. 线上问题反馈\r\n如在使用「创意预览」时出现问题，**且上述文档不能直接解答**，请您通过投放平台右上角“反馈中心-营销创意”向我们反馈解决\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120325_329318.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120325_329318.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120405_214178.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120405_214178.png\"/></a>\r\n## 2. 需求反馈\r\n如线上存在“xxx暂不支持预览”或者有其他为满足的产品需求，请将产品需求提交至“[营销社区](https://c.ad.qq.com)“（点击可跳转）\r\n <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120540_472781.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017120540_472781.png\"/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3776,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:22:50"
+      },
+      {
+        "catalog_id": 4553,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:17:37"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-17 12:06:19",
+    "updated_at": "2025-01-24 11:26:02",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "post_id": 12851,
+    "title": "《保证金退款场景所需材料及要求》",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 100572,
+        "name": "保证金结算确认函.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623145601_308353.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 12797,
+        "size_format": "12.5KB"
+      },
+      {
+        "attachment_id": 100581,
+        "name": "个体工商户保证金退款说明.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623145949_020705.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 292020,
+        "size_format": "285.18KB"
+      },
+      {
+        "attachment_id": 100584,
+        "name": "企业主体保证金退款说明.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623150011_791440.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 16973,
+        "size_format": "16.58KB"
+      },
+      {
+        "attachment_id": 100585,
+        "name": "企业注销保证金退款说明.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623150041_584894.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 284031,
+        "size_format": "277.37KB"
+      },
+      {
+        "attachment_id": 100586,
+        "name": "保证金代缴协议.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623150050_080557.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 924573,
+        "size_format": "902.9KB"
+      },
+      {
+        "attachment_id": 100587,
+        "name": "委托代收保证金退款说明.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260623150055_047326.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 323019,
+        "size_format": "315.45KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "《保证金退款场景所需材料及要求》\n## 一、收款账户类型：企业\n| **场景** | **需提交材料** |**签章要求** |\n| -------- | -------- | -------- |\n| 客户主体对公账户| ①客户主体营业执照 ② 收款银行账户开户证明③【保证金结算确认函】④涉及工商变更的，补充工商变更证明     |主体存续企业 / 个体户：加盖公章；无公章个体户：经营者签字按手印 +经营者手持身份证原件照片  |\n| 代缴公司对公账户|①双方营业执照②【保证金结算确认函】③【保证金代缴协议】、【委托代收保证金退款说明】、付款凭证④收款银行账户开户证明⑤涉及工商变更的，补充工商变更证明 |主体存续企业 / 个体户：加盖公章；无公章个体户：经营者签字按手印 +经营者手持身份证原件照片|\n| 其他第三方对公账户（主体注销）|①主体注销证明②注销前股权关系证明③收款方营业执照④收款银行账户开户证明⑤【保证金结算确认函】⑥【企业注销保证金退款说明】⑦涉及工商变更的，补充工商变更证明| 主体已注销无法加盖公章：原法人/经营者签字按手印 +法人/经营者手持身份证原件照片|\n## 二、收款账户类型：个人\n| **场景** | **需提交材料** |**签章要求** |\n| -------- | -------- | -------- |\n| 法人个人账户| ①客户主体营业执照②收款人身份证③收款银行账户开户证明④【保证金结算确认函】⑤【个体工商户保证金退款说明】/【企业主体保证金退款说明】⑥涉及工商变更的，补充工商变更证明|主体存续企业 / 个体户：加盖公章；无公章个体户：经营者签字按手印 +经营者手持身份证原件照片  |\n| 代缴个人账户|①客户主体营业执照②【保证金结算确认函】③【保证金代缴协议】、【委托代收保证金退款说明】 付款凭证④收款人身份证⑤收款银行账户开户证明⑥涉及工商变更的，补充工商变更证明|主体存续企业 / 个体户：加盖公章；无公章个体户：经营者签字按手印 +经营者手持身份证原件照片|\n| 其他第三方个人账户（主体注销）|①主体注销证明②注销前股权关系证明③收款人身份证④收款银行账户开户证明⑤【保证金结算确认函】⑥【企业注销保证金退款说明】| 主体已注销无法加盖公章：原法人/经营者签字按手印 +法人/经营者手持身份证原件照片|\n## 三、其他材料要求\n1.需上传JPG/PNG/PDF文件，且字迹清晰可见\n\n2.身份证：正反两面都需要上传\n![身份证模板.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/367_20260528120820_357897.png)\n\n3.客户保证金退款补充资料模板详见以下附件",
+    "catalogs": [
+      {
+        "catalog_id": 5100,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-10 16:25:56"
+      },
+      {
+        "catalog_id": 4091,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-10 16:36:31"
+      }
+    ],
+    "created_by_name": "emmagrzhang",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-12-10 16:25:37",
+    "updated_at": "2026-06-23 16:02:35",
+    "nav_flag": 0
+  }
+}

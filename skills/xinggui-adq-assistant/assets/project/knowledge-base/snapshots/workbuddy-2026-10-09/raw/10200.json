@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10200,
+    "title": "工作台-多账户报表",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、能力介绍\r\n跨账户报表可以查看当前登陆用户所管理的所有腾讯营销平台账户的指标报表数据。\r\n\r\n**【支持的报表】**\r\n* 在2.0的投放端多账户报表中，支持推广分析-账户、素材分析-图片素材/视频素材、商品分析-商品库/商品、推广目标分析-推广目标/目标详情/渠道包共计8个维度的数据分析。\r\n* 在3.0的投放端多账户报表中，支持营销分析-账户、推广内容分析-推广产品分析（开发中）/应用渠道包、素材分析-图片素材/视频素材共计5个维度的数据分析。\r\n\r\n**【支持的功能】**\r\n* 账户筛选和指标筛选：支持对希望查询的账户进行筛选，并按日期区别查看多项指标趋势\r\n* 分时间维度：支持分日、分时、分时段、合计维度进行查看\r\n* 拆分版位数据：支持细分版位查看详情数据\r\n* 切换计算口径：营销播放口径、转化回传口径、转化激活口径\r\n\r\n# 二、操作说明\r\n## 1. 版本说明\r\n**【产品入口】**\r\n\r\n腾讯营销工作台-报表\r\n\r\n**【产品版本】**\r\n\r\n通过工作台登录查看的旧版本多账户报表， 由于数据接口访问地址为v2.0，以下统一称为2.0版本； 通过业务单元登录查看新版本多账户报表，由于数据接口访问地址为v3.0，统一称为3.0版本。 \r\n\r\n当前阶段仍有部分2.0版本营销正在投放，需要在2.0查看效果数据；新建营销并在3.0版本中投放，需要在3.0查看效果数据。请注意，2.0和3.0版本的所有效果数据当前是隔离，需要切换产品版本（ 工作台概览页面可以查看到所有版本的营销消耗数据，近期会完成数据融合）。\r\n\r\n**【版本切换】**\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319184849_011045.png\" style='width:1040px; margin-top:10px'>\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319184939_274431.png\" style='width:1040px; margin-top:10px'>\r\n\r\n* 当您使用的是新版工作台登录3.0的账户（以业务单元登录进入工作台），选择报表模块所查看到的数据为3.0系统内创建的所有营销效果数据， 此时仅展示在当前3.0投放端或API地址内创建的3.0营销，您可以选择所需要分析的账户进行数据分析。\r\n* 如图中橙色部分提示，您可以在顶部提示位置或左下角切换位置，切换至2.0系统内查看您之前在2.0系统内创建的投放效果数据。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319185030_500775.png\" style='width:1040px; margin-top:10px'>\r\n\r\n* 当进入2.0系统查看数据时，您可以在左下角切换回到3.0系统。\r\n\r\n## 2. 账户分析\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319185213_004342.png\" style='width:1040px; margin-top:10px'>\r\n\r\n* 请首先选择需要分析的账户，可以在该维度下分析您所选择所有账户的效果数据。请注意，至少需要选择1个账户，最多选择50个账户，如果您有更多的账户需要进行分析，请进行多次操作或者联系我们。\r\n* 在账户分析中支持的主要字段为账户名称和账户ID，您可以在该维度内快速查看所有账户的花费及具体的数据指标情况。\r\n\r\n## 3.  素材分析\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319185252_218786.png\" style='width:1040px; margin-top:10px'>\r\n\r\n* 请首先选择需要分析的账户。\r\n* 渠道包分析的筛选项包含素材及数据指标， 数据指标支持筛选花费、曝光量、点击量、目标转化量、目标转化成本、目标转化率，最终的数据呈现为同时满足您所选择的素材及您所选择的数据指标的全部效果数据。\r\n* 其中，当您查看素材报表时，可以在页面左下角选择是否包含授权数据，即所管理账户的素材授权给其他账户时产生的数据。\r\n\r\n## 4. 渠道包分析\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319185337_002994.png\" style='width:1040px; margin-top:10px'>\r\n\r\n* 请首先选择需要分析的账户。\r\n* 渠道包分析的筛选项包含渠道包及营销版位，由于渠道包是跟随营销载体的，所以请首先选择营销载体名称，再继续选择关联的渠道包；最终的数据呈现为同时满足您所选择的渠道包及您所选择的营销版位的全部效果数据。",
+    "catalogs": [
+      {
+        "catalog_id": 3749,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:15:02"
+      },
+      {
+        "catalog_id": 4600,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:34:30"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741082302228,\"videoId\":\"bb16019f-f9a7-42a2-b89d-fb90f1e44ed1\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-19 18:55:37",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

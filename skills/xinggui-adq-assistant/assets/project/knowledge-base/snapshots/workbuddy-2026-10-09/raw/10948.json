@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10948,
+    "title": "搜索营销商品直投操作指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年9月27日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n搜索营销商品直投主要服务于电商行业客户，在搜索直投营销上绑定商品库和商品系列，无需买词，通过简单的创意设置，即可投放商品样式营销。\r\n\r\n# 二、使用门槛\r\n\r\n商品直投是白名单能力，客户需要联系运营经理开白才能投放。\r\n\r\n# 三、操作说明\r\n\r\n商品直投仅支持搜索直投营销。\r\n\r\n### 3.1 创建计划\r\n\r\n推广目标支持商品推广、应用推广、销售线索收集、品牌活动推广\r\n\r\n### 3.2 创建营销\r\n\r\n营销形式选择搜索动态商品营销，并填写商品库和商品系列。\r\n\r\n版位支持微信搜一搜及QQ浏览器等的移动QQ浏览器等流量场景。\r\n\r\n其他配置项与常规搜索营销相同。\r\n\r\n编辑营销时，不支持修改营销形式、商品库和商品系列。\r\n\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018143845_952049.png)\r\n\r\n### 3.3 创建关键词\r\n\r\n不添加关键词。\r\n\r\n### 3.4 创建创意\r\n\r\n微信搜一搜版位：只需设置品牌形象、落地页跳转链接、创意名称。\r\n\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018143937_958302.png)\r\n\r\nQQ浏览器等版位：只需设置品牌形象、落地页跳转链接、商品标题和描述、附加跳转能力、创意名称。\r\n\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018144007_468040.png)\r\n\r\n# 四、常见问题\r\n\r\nQ1：常规搜索营销配置商品库和商品系列，是否一定出商品样式？\r\n\r\nA1：是的。\r\n\r\nQ2：搜索商品快投能绑定的商品库有哪些要求？\r\n\r\nA2：需要满足以下要求：（1）商品库类型为搜索；（2）搜索商品库创建后，需将商品库授权至具体的投放账户；（3）商品库需要审核通过。",
+    "catalogs": [
+      {
+        "catalog_id": 3763,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-10-18 14:41:01"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:42:07"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741147205926,\"videoId\":\"3623d6ae-82af-4b82-9807-126337b2b756\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-10-18 14:40:45",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9562,
+    "title": "发票",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.9  | \r\n# 一、 充值后应如何获取发票？\r\n自助注册的客户与代理商在充值后，请点击【财务管理】—【发票开具】，在打开的页面中完成发票申请； 由代理商提供服务的客户请向所属代理商索要发票。\r\n# 二、 在“发票开具”页面应如何操作？\r\n1. 功能入口：点击财务管理-发票开具后，您可以查看当前已开具发票列表，如未开具过发票，则列表默认为空\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122013_369812.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122013_369812.png\"/></a>\r\n2. 申请开票：点击“发票开具”按钮后，进入发票申请页面如下\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122155_670057.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122155_670057.png\"/></a>\r\n3. 如果您的账户是初次申请开具发票，请按要求填写发票信息（包括发票类型、发票项目、充值对应月份及发票金额）、一般纳税人信息（企业客户必须填写）、邮寄地址\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122302_944109.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122302_944109.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122306_347925.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122306_347925.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122309_784231.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231019122309_784231.png\"/></a>\r\n4. 完成填写后，点击“提交”按钮，则成功发起发票开具申请，腾讯营销官方会对您所填写的信息进行审核，如无问题，则按照您填写的地址邮寄发票。\r\n\r\n5. 仅账号主管理员、管理员及财务员可以申请开具发票。",
+    "catalogs": [
+      {
+        "catalog_id": 3742,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:24:59"
+      },
+      {
+        "catalog_id": 4585,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 16:46:14"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销投放平台开户指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/Spf21CMS?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164832_397522.png\",\"uploadTime\":1740734748716,\"videoId\":\"974b38e3-0ca6-445e-b50f-1a8d8ef6b733\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-19 12:25:55",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

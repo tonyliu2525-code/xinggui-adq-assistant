@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9363,
+    "title": "竞价投放",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2025.09  | \r\n\r\n# 一、能力介绍\r\n在营销进行投放时，客户创建的营销会通过定向表达自己的目标受众，平台会对满足目标设置的营销开放竞价窗口，使营销能够公平竞争获得曝光。竞价投放在不同版位、场景的售卖规则不同，目前提供5种售卖方式：CPC、CPM、CPA、oCPC、oCPM\r\n\r\n# 二、售卖方式介绍\r\n\r\n* **CPM:** Cost Per Mille (每千次曝光的花费)，按展示出价，按展示计费\r\n \r\n* **CPC:** Cost Per Click(每次点击的花费)，按点击出价，按点击计费\r\n\r\n*  **CPA:** Cost Per Actio(按每次下载付费)\r\n\r\n*  **oCPM:** Optimized CPM，以展示计费的智能出价。选择特定优化目标，并提供期望平均转化成本后，系统预估每一次展示的转化价值，自动出价，按照展示扣费\r\n\r\n* **oCPC:** Optimized CPC，以点击计费的智能出价。选择特定优化目标，并提供期望平均转化成本后，系统预估每一次展示的转化价值，自动出价，按照点击扣费\r\n\r\n# 三、不同版位的创意形式对应售卖规则\r\n\r\n## 计划类型\r\n\r\n### **1. 展示营销**\r\n<table>\r\n    <thead>\r\n        <tr class=\"firstRow\">\r\n            <th>\r\n                版位\r\n            </th>\r\n            <th>\r\n                售卖方式\r\n            </th>\r\n           <tbody>\r\n        <tr>\r\n            <td>\r\n                微信视频号\r\n            </td>\r\n            <td>\r\n              CPM、oCPM\r\n            </td>\r\n               <tbody>\r\n        <tr>\r\n            <td>\r\n              微信朋友圈\r\n            </td>\r\n            <td>\r\n             CPM、oCPM\r\n            </td>\r\n    <tr>\r\n            <td>\r\n              微信公众号与小程序\r\n            </td>\r\n            <td>\r\n             CPC、CPM、oCPC、oCPM\r\n            </td><tr>\r\n            <td>\r\n             微信小游戏\r\n            </td>\r\n            <td>\r\n             CPM、oCPM\r\n            </td>\r\n\t\t\t\t\t\t<tr>\r\n            <td>\r\n              腾讯平台与内容媒体\r\n            </td>\r\n            <td>\r\n          CPC、CPM、oCPC、oCPM\r\n            </td>\r\n\t\t\t\t\t\t\t<tr>\r\n            <td>\r\n           腾讯营销联盟\r\n            </td>\r\n            <td>\r\n          CPC、CPM、oCPC、oCPM\r\n            </td>\r\n\t\t\t\t\t\t\t\t<tr>\r\n            <td>\r\n              腾讯视频电视端\r\n            </td>\r\n            <td>\r\n          CPC、CPM、oCPC、oCPM\r\n            </td>\r\n\t\t\t\t\t\t\t\t\t<tr>\r\n            <td>\r\n              PCQQ、QQ空间、腾讯音乐、PC腾讯视频\r\n            </td>\r\n            <td>\r\n         CPC、CPM\r\n            </td>\r\n</table>\r\n\t\t\t\t\t\r\n### **2. 搜索营销**\r\n<table>\r\n    <thead>\r\n        <tr class=\"firstRow\">\r\n            <th>\r\n                版位\r\n            </th>\r\n            <th>\r\n                售卖方式\r\n            </th>\r\n           <tbody>\r\n        <tr>\r\n            <td>\r\n                微信搜一搜\r\n            </td>\r\n            <td>\r\n              CPC、oCPC\r\n            </td>\r\n               <tbody>\r\n        <tr>\r\n            <td>\r\n              QQ浏览器等\r\n            </td>\r\n            <td>\r\n             CPC、oCPC\r\n            </td>",
+    "catalogs": [
+      {
+        "catalog_id": 3743,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:30:28"
+      },
+      {
+        "catalog_id": 4609,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-02-11 17:07:17"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-19 11:00:58",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

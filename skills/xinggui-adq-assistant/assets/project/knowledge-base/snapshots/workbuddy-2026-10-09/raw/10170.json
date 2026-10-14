@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10170,
+    "title": "设置营销内容操作流程指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、能力介绍\r\n营销内容表达客户的营销诉求，包含要推广的某个产品，通过什么转换路径推广，以及希望在这个产品上达成的目标，即通过某条营销链路推广某个营销对象，达成某种营销目标。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115042_955835.png\" style=\"width: 600px;\">\r\n# 二、操作说明\r\n## 1、营销目的：\r\n选取想要达成的营销营销目标。行业不同，可设置的营销目的不同，比如：教育行业可选线索留资、商品销售\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115113_855049.png\" style=\"width: 600px;\">\r\n## 2、推广产品\r\n选择要推广的具体产品，指本次投放的标的物。比如，消费品行业可以是某一个商品实体；电商行业可以是商品类目；教育行业可以是某一低价课。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115139_277250.png\" style=\"width: 600px;\">\r\n推广产品需先在 客户工作台>-业务单元>-资产>-推广产品中 进行创建。推广产品必须设置，否则无法成功创建营销。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115159_684774.png\" style=\"width: 600px;\">\r\n\r\n## 3、营销载体\r\n营销载体是落地页类型的聚类，指选择通过什么路径推广。\r\n不同行业营销载体类型不同，如教育行业可选择页面跳转、微信公众号\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115242_827538.png\" style=\"width: 600px;\">\r\n\r\n## 4、优化目标\r\n选择你希望高效获取的转化行为作为优化目标。需先在工具箱-转化归因模块进行转化配置。\r\n设置转化后，计费方式将默认选择智能出价，即oCPX模式，CPC和CPM暂不可选\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115258_662266.png\" style=\"width: 600px;\">",
+    "catalogs": [
+      {
+        "catalog_id": 3770,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:06:44"
+      },
+      {
+        "catalog_id": 4559,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:42:00"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】新投放模式营销创建指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/5EDZQGGo?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164446_043031.png\",\"uploadTime\":1740734986954,\"videoId\":\"fdca30ff-b57a-4fe8-a2a9-8e979c497ee4\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 14:34:44",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

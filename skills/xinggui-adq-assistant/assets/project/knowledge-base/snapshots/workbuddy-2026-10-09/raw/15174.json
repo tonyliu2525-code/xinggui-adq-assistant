@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 15174,
+    "title": "视频编辑器",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 「视频编辑器」产品介绍\n## 1. 产品定位\n腾讯妙思视频编辑器是一款面向广告创作者的 AI 广告视频快修工作台，主要解决妙思用户 AI 成片局部修改困难、二编需要跨工具完成的问题，帮助用户在妙思内快速将成片优化至可投放状态，打通“生成—二编—投放”全链路。\n\n## 2.产品优势\n●**轨道资产编辑**：支持字幕、花字、视频、图片、音频等轨道资产的局部编辑与 AI 辅助调整。  \n●**编辑器&资产库闭环**：支持从资产库调用素材进行编辑，并将编辑完成的成片一键保存至资产库，无需反复下载和上传。\n\n## 3.产品功能介绍\n●**视频编辑器入口**：\n\n| **入口**\t| **图示**| \t**入口**\t|**图示**| \n| -------- | -------- | -------- | -------- |\n| **数字人视频**|    ![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103429_932112.png) \t\t| **无限画布**\t|   ![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103434_179492.png)      | \n| **爆款混剪**|    ![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103522_820948.png)    | \t\t**短剧精剪**\t|    ![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103527_237759.png)      | \n| **资产**|   ![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103534_778287.png)      | | | \t\n\n●**核心功能**：\n\n| **功能**\t| **功能简述**\t| **图示**| \n| -------- | -------- | -------- |\n| **素材添加**| \t●素材支持本地上传和资产库导入，支持视频、图片、音频等文件类型\t|      ![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103454_036421.png)      | \n| **视频编辑**\t| ●支持变速、蒙版、混合等编辑能力<br>●支持前后贴添加\t|       ![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103620_502324.png)        | \n| **音频编辑**\t| ●提供多种背景音乐，支持搜索查找<br>●支持视频声画分离，单元素编辑\t|          ![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103627_406566.png)       | \n| **文字编辑**\t| ●提供多种花字、动态/静态文字模版\t|      ![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103633_553563.png)          | \n|  **文字编辑**        | \t●支持字幕一键识别，批量编辑操作\t|       ![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103639_965810.png)      | \n| **其他编辑**\t| ●支持多种转场、特效<br>●提供多种贴纸元素\t|         ![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260831103644_564343.png)     | \n\n<br>\n<br>\n<br>",
+    "catalogs": [
+      {
+        "catalog_id": 6062,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-08-31 10:41:01"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-08-31 10:40:27",
+    "updated_at": "2026-08-31 11:03:56",
+    "nav_flag": 0
+  }
+}

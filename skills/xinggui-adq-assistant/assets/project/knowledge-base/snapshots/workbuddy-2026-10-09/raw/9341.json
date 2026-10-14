@@ -1,0 +1,66 @@
+{
+  "data": {
+    "post_id": 9341,
+    "title": "查询资金到账",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 查询资金到账\n\n| *更新日期* | *2023-10-19* | *内容更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要查询账户的资金到账情况\t，请通过以下方式发起：\n\n## 客户在“工作台”查询充值到账情况\n\n登录工作台 → 顶端“财务”标签 → 进入资金管理\n\n选择具体账号后，点击“查看财务记录”\n\n![工作台-老-资金管理.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20230918143613_950980.jpg)\n\n![工作台-老-资金管理-查看财务记录.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20230918143620_334666.jpg)\n\n## 客户在“投放管理平台”查询充值到账情况\n\n登录投放管理平台 → 顶端“财务”标签 → “财务记录”二级标签 → 进入记录列表\n\n查阅时请注意筛选项，默认“广告充值金”，若需查看专用赠送金，请这资金类型处进行切换\n\n![投放管理平台-财务记录.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20230918143624_796112.jpg)\n\n## 服务商在“服务商系统”查询充值到账情况\n\n登录腾讯广告服务商系统 → 顶端“财务”标签 → “财务记录”二级标签 → 进入财务列表\n\n请注意“ADQ广告”和“MP广告”在不同标签页，需分别查阅\n\n![服务商系统-财务-财务记录.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20230918143629_833969.jpg)",
+    "catalogs": [
+      {
+        "catalog_id": 4066,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:06:55"
+      },
+      {
+        "catalog_id": 4071,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:07:19"
+      },
+      {
+        "catalog_id": 4067,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:07:52"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-18 14:47:08",
+    "updated_at": "2026-04-28 11:21:43",
+    "nav_flag": 0
+  }
+}

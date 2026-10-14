@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11167,
+    "title": "第32期-新投放3.0操作全解（第四弹）",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**Q1：** 老营销素材会衰退，在目前跑量还不错的情况下，如何进行新创意的测试？\r\n\r\n**A1：** 在老的营销里每天保持5-20条新创意的上新，并尽量保持创意形式的单一性，例如竖版图片营销就只放竖版图片，横版视频营销就只放横版视频。这样可以避免不同版位素材在同一营销下竞争，造成素材浪费。要持续保持上新，因为营销素材必然会衰退，不上新就会被其他新的创意挤掉。\r\n</br></br>\r\n**Q2：** 将新创意放在老营销里，老营销是否有前置条件，例如需要是跑量的老营销吗？\r\n\r\n**A2：** 没有任何前置条件。无论老营销是否跑量，都可以直接将新创意放在其中进行测试，无需为了测试新创意而专门新建营销。\r\n</br></br>\r\n**Q3：** 增加营销和素材的数量是否就能提高曝光机会？\r\n\r\n**A3：** 不一定。平台目前更加注重新的推广产品和创意，而不是单纯的营销数量。虽然新营销和新创意仍然有机会获得曝光，但仅仅是增加营销数量并不能保证曝光的增加，反而，平台会将重复的营销合并，减少无效曝光。\r\n</br></br>\r\n**Q4：** 具体创建多少个营销最合适？\r\n\r\n**A4：** 创建多少个营销最合适取决于行业、转化成本和目标人群的覆盖范围。\r\n</br></br>\r\n**Q5：** 如果老营销里已经存在跑得特别好的创意，新创意还有机会获得曝光和流量吗？\r\n\r\n**A5：** 新创意仍然有机会获得曝光和流量。因为在新的竞价链路中，创意是有单独的预估的。新创意实际上是在与大盘所有创意竞争，而不是仅仅与同一营销内的其他创意竞争。所以，即使老营销中已经存在跑量很好的创意，也不会导致新创意完全没有流量。",
+    "catalogs": [
+      {
+        "catalog_id": 4500,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 15:12:54"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:30:35"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"新投放3.0上手指南\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/66?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/sign-img/2024/7/75372b592e3f45d9a95c32eadc5c61e4.png\",\"uploadTime\":1741146609718,\"videoId\":\"d7dc9088-80f1-4ce8-93f8-a0bbca0922c8\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 15:12:37",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

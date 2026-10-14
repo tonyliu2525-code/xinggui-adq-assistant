@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12304,
+    "title": "202506第一期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 【规则新增】教育-复读\r\n1. 禁止投放中考复读\r\n2. 高考复读不支持使用低龄化素材、学校教师面向孩子的场景\r\n\r\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\">学校老师面向孩子的场景，涉及擦边K12，不支持 | \r\n|  :--------:  | \r\n|\r\n![教育-高考复读不支持.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250605112711_347497.png)  | \r\n\r\n\r\n\r\n\r\n# 【规则调整】电商- 虚假人设或事件\r\n1. 虚构人物行为类：不支持编造违背常理的人物行为，借此宣传产品\r\n2. 过度神化身份类：不支持采用过度神化人物身份及状态，借此宣传产品\r\n3. 借高龄老人博眼球暗示功效类：不支持利用高龄老人形象博人眼球，暗示产品具有特殊功效\r\n4. 过度渲染身份影响力类：不支持过度渲染人物身份影响力来推广产品\r\n\r\n# 【规则放宽】金融-基金名称及代码使用规范\r\n金融/基金行业允许在营销中使用基金名称及代码，但须符合以下要求\r\n1. 不支持明示或暗示保本/保收益，预测基金的证券投资业绩及其他夸大类描述；包括但不限于”稳赚不赔“、”收益稳冲4%“、“历史100%兑付”“爆款产品已超募集金额”等\r\n2. 不支持虚假营销活动的描述，包括但不限于“限时限量”、“最后一波”等\r\n3. 不支持引用未经核实、预测性或者模拟的数据\r\n\r\n|  <font color=\"#008000\">**√仅供参考**  | \r\n| :--------: | \r\n|\r\n![企业微信截图_20250604095215_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250605112732_618183.png)  | \r\n\r\n# 【规则放宽】牛肉干准入\r\n1. 可支持牛肉干投放",
+    "catalogs": [
+      {
+        "catalog_id": 4766,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-17 10:06:40"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-06-05 11:29:26",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

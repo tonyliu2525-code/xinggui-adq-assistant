@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10485,
+    "title": "营销链路管理",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、产品介绍\r\n\r\n## 1.1. 链路定义\r\n\r\n营销链路（Conversion Link）是客户在投放中设置的、引导消费者（Who）从点击到产生消费的主干路径，是客观事实的提炼与抽象，由载体（Where）下的关键行为事件（What）按照一定序列（When）串联构成。\r\n\r\n以一条典型的营销链路为例，其组成要素如下：\r\n\r\n● 在什么场景/环境（Where）：用户关键行为事件发生的载体，如示例中链路经过的载体有官方落地页、企业微信、外部微信小程序三种\r\n\r\n● 按照什么样的时序（When）：用户在载体内的关键行为事件序列，代表不同行为事件的发生顺序，如示例中企业微信载体内的”加群→点击链接”\r\n\r\n● 发生了哪些关键行为事件（What）：用户关键行为事件的具体类型，如示例中浏览商详页、下单等\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240613141013_402440.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240613141013_402440.png\" style='width:600px'/></a>\r\n\r\n## 1.2. 产品简介\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919015139_304455.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919015139_304455.png\" style='width:600px'/></a>\r\n\r\n在「转化归因」工具（转化归因功能介绍参考[帮助中心-产品介绍说明](https://e.qq.com/ads/helpcenter/detail?cid=3556&pid=10217)）中，为客户提供了「营销链路」能力，供客户在投放前，管理营销链路的配置信息、数据回传和数据联调，实现客户在投放过程中的营销链路表达，并保障在选择对应优化目标时，已满足链路的数据回传要求。\r\n\r\n## 1.3. 产品功能\r\n\r\n| 功能 | 介绍 |\r\n| -------- | -------- |\r\n| 营销链路选择 | 在新建转化规则时，选择对应分类和适用营销链路，并配置上报数据的链路节点。 |\r\n| 链路数据联调 | 支持在自带的联调工具中，对营销链路要求回传的节点数据进行联调。 |\r\n| 营销链路共享 | 设置转化规则的共享范围，无需重复创建相同营销链路的转化规则。 |\r\n\r\n## 1.4. 概念说明\r\n\r\n| 名词 | 说明 |\r\n| -------- | -------- |\r\n| 营销链路 | 营销链路是指用户在营销活动中，从点击到完成转化所经过的完整路径，由承接转化的营销载体和多个行为节点序列组成。客户通过在营销创编中选择带有营销链路的转化规则，精准表达营销标的和转化路径。 |\r\n| 转化类型 | 转化类型对应投放的「营销载体」概念，是营销链路的优化目标（或生意目标）发生的场所。例如某次投放的优化目标是促进用户在某小程序上完成交易，那么在为该营销选择营销链路时，需要选择小程序作为转化类型。 |\r\n| 上报节点 | 在营销链路的节点序列中，客户需回传对应数据的节点，即上报节点。上报节点既包括所选优化节点要求的必传节点和推荐回传节点，也包括客户自行选择的非必传节点，所选的上报节点均需在联调工具中完成数据联调。 |\r\n\r\n## 1.5. 链路分类\r\n\r\n| 链路分类 | 说明：客户引导用户发生转化行为的核心场景（载体） | 举例 |\r\n| -------- | -------- | -------- |\r\n| Android应用 | 希望用户在应用发生转化行为 | 引导用户进行应用的激活 |\r\n| iOS应用 | 希望用户在应用发生转化行为 | 引导用户进行应用的激活 |\r\n| 快应用 | 希望用户在快应用发生转化行为 | 引导用户在快应用进行付费 |\r\n| 网页 | 希望用户在客户自定义页面/微信客服页面发生转化行为 | 引导客户在H5页面进行留资 |\r\n| 微信公众号 | 希望用户在公众号发生转化行为 | 引导用户进行公众号关注 |\r\n| 微信视频号 | 希望用户在视频号（直播间）里发生转化行为 | 引导用户在直播间留咨 |\r\n| 微信小程序 | 希望用户在小程序里发生转化行为 | 引导用户在小程序留资 |\r\n| 企业微信 | 希望用户在企业微信里发生转化行为 | 引导用户在企业微信进行咨询 |\r\n| 微信小游戏 | 希望用户在微信小游戏里发生转化行为 | 引导用户在微信小游戏进行注册 |\r\n| QQ小游戏 | 希望用户在 QQ 小游戏里发生转化行为 | 引导用户在 QQ 小游戏进行注册 |\r\n\r\n# 二、操作指南\r\n\r\n**完整流程：「创建营销链路」—「数据联调」—「使用营销链路」**\r\n\r\n## 2.1. 如何找到功能入口\r\n\r\n功能描述：进入「营销链路列表」页面。\r\n\r\n操作流程：「投放管理平台」—「资产」—「转化」—「营销链路管理」\r\n\r\n| 详细步骤 | 示意图 |\r\n| -------- | -------- |\r\n| 步骤1：进入[投放管理平台](https://ad.qq.com)，登录账号。</br>（若您尚未注册账号，请点击[注册](https://ad.qq.com/account-center/register)） | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240613143141_527782.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240613143141_527782.png\" style='width:600px'/></a> |\r\n| 步骤2：点击「资产」，找到「效果分析」类目，点击「转化归因」。 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919015955_303279.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919015955_303279.png\" style='width:600px'/></a> |\r\n| 步骤3：进入转化归因列表页面。 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919020036_811717.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919020036_811717.png\" style='width:600px'/></a> |\r\n\r\n## 2.2. 如何选择营销链路\r\n\r\n功能描述：新建并配置一条营销链路。\r\n\r\n操作流程：「转化归因列表」—「新建转化」—「填写信息」—「创建」\r\n\r\n| 详细步骤 | 示意图 |\r\n| -------- | -------- |\r\n| 步骤1：在转化归因列表页面，点击「新建转化」。 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021712_420256.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021712_420256.png\" style='width:600px'/></a> |\r\n| 步骤2：按照界面提示，选择链路分类，填写分类对应的应用ID/URL等信息。</br>● Android 应用：输入应用推广管理工具上架后生成的应用ID（请参考[应用推广管理工具使用指南](https://e.qq.com/ads/helpcenter/detail?cid=3192&pid=4492)）</br>● IOS 应用：输入App Store ID</br>● 快应用：输入准确的快应用包名</br>● 网页：输入有效的网页链接（与投放营销时推广的网页链接一致）</br>● 微信公众号：选择在微信生态授权管理工具中已完成授权的公众号（请参考[公众号授权](https://e.qq.com/ads/helpcenter/detail?cid=3554&pid=9550)）</br>● 微信小程序：输入微信小程序的原始 ID (gh 开头)</br>● 企业微信：输入企业微信绑定的公众号或小程序的appid（请参考[如何绑定微信开发者ID](https://developer.work.weixin.qq.com/document/path/92114#%E5%A6%82%E4%BD%95%E7%BB%91%E5%AE%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E8%80%85ID)）</br>● 微信小游戏：输入准确的小游戏 AppID（wx 开头）</br>● QQ 小游戏：输入准确的小游戏 ID | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021759_671266.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021759_671266.png\" style='width:600px'/></a> |\r\n| 步骤3：选择优化目标后，选择合适的营销链路。 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021907_796990.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021907_796990.png\" style='width:600px'/></a> |\r\n| 步骤4：按照界面提示，选择上报节点。界面会根据所选的优化目标，自动提示需要上报数据的节点，用于后续的链路数据联调 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021947_506065.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919021947_506065.png\" style='width:600px'/></a> |\r\n| 步骤5：按照界面提示，选择监测链接组和其他基本信息，确认无误后，点击「创建」提交。</br>● 归因方式：选择该营销链路所有优化目标使用的归因方式</br>● 监测链接组：如需要接收平台下发的点击/曝光信息，请参考[DataNexus监测链接组配置指引](https://datanexus.qq.com/web/doc/manual/2841/10243)完成监测链接组配置和选择 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919022038_837946.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919022038_837946.png\" style='width:600px'/></a> |\r\n| 步骤6：创建完成后，显示创建成功，并可在「转化规则」页面查看到此次新建的营销链路。</br></br>注：完成上述步骤后，您已成功创建新的营销链路。为确保其可用性，请进行联调。 |  |\r\n\r\n## 2.3. 如何完成数据联调\r\n\r\n功能描述：对新建的营销链路转化规则进行联调。\r\n\r\n操作流程：「转化规则列表」—「转化联调」—「完成联调」\r\n\r\n| 详细步骤 | 示意图 |\r\n| -------- | -------- | -------- |\r\n| 步骤1：在营销链路列表/详情页面，点击「转化联调」。 |\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919024348_545287.png) |\r\n| 步骤2：根据提示页面提示确认联调信息。完成数据上报开发工作后，即可点击「开始联调」按钮，系统将生成联调营销</br></br>● 配置信息部分提供了转化归因进行数据对接所需的信息，数据对接过程请参考[点击监测链接使用指南](https://datanexus.qq.com/doc/develop/guider/interface/conversion/ad_track_click)；</br>● 其中action_type字段需要上报与优化目标对应的行为类型及辅助参数。请优化师和开发确认配置细节。</br>注意！：点击开始后，需在 1 小时内完成联调工作 |\r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919024458_475167.png) |\r\n| 步骤 3：联调任务顶部展示了需要联调的链路必报节点列表，需在任务有效时间内，完成联调任务</br>● 营销预览：使用手机QQ扫描二维码/填写微信号，在手机 QQ 好友动态/朋友圈中找到联调营销并点击</br>● 数据回传：点击数据并按照营销链路完成转化，上报对应必报节点的数据 |\r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919024522_596379.png) |\r\n| 步骤 5：上报联调结果中所有行为显示“成功”，联调任务显示“成功”。</br>● 超时：如未完成按时联调，联调任务将自动失败，已完成联调的节点将在营销链路管理中自动更新 |\r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919024541_285890.png) |\r\n\r\n## 2.4. 如何使用营销链路\r\n\r\n功能描述：在营销创编流程中使用带有营销链路的转化规则。\r\n\r\n**● 应用范围：**\r\n\r\n○ 竞价投放-信息流：oCPX营销可选择带有营销链路的转化规则，CPM/CPC营销则无需选择转化规则\r\n\r\n○ 竞价投放-搜索：无转化规则\r\n\r\n○ 合约投放：无转化规则\r\n\r\n**● 应用限制：**\r\n\r\n○ 数量限制：1 条营销最多选择 1 条转化规则\r\n\r\n○ 修改限制：当新建营销选择营转化规则并保存成功后，编辑营销时不可修改转化规则（包括历史营销）\r\n\r\n○ 链路正确性：客户选择的营销链路，需和实际投放链路一致，后续会校验正确性，以保障营销的稳定性预估\r\n\r\n操作流程：「投放管理平台」—「选择转化规则」\r\n\r\n| 详细步骤 | 示意图 |\r\n| -------- | -------- |\r\n| 步骤1：在投放管理平台新建营销时，营销内容中，选择新建的营销链路资产。 | <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919025002_941304.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240919025002_941304.png\" style='width:600px'/></a> |\r\n\r\n# 三、FAQ\r\n\r\n## 1. 转化规则创建和管理\r\n\r\nQ：在「工具→转化归因」的列表中，对应的转化规则没有【删除】入口？\r\n\r\nA：被授权的转化规则无法进行【删除】操作，请联系转化规则的创建方进行删除处理\r\n\r\nQ：配置监测链接时，无法填写曝光监测链接/选择带有曝光监测链接的监测链接组？\r\n\r\nA：配置曝光监测链接，需对应选择「曝光归因」这一归因方式；如有需要，请联系您所对接的行业运营，进行内部申请配置\r\n\r\nQ：编辑转化规则的点击监测链接时，提示「can't add feedback_url for conversionSpce with empty feedback_url」报错信息？\r\n\r\nA：如果转化规则创建时未配置点击监测链接，目前暂不支持在编辑时，在该转化规则下新增监测链接。可重新创建一个转化规则填写对应的点击监测链接\r\n\r\n## 2. 转化规则联调\r\n\r\nQ：为什么转化规则创建后，没有进行联调，转化规则的状态自动变成了「已激活」？\r\n\r\nA：需判断是否以下原因：\r\n\r\n● 是否联系过对接的行业运营，对当前账号配置了「免联调」权限\r\n\r\n● 相同数据源下，相同优化目标如历史已联调成功过，新建相同优化目标的转化规则时，无需重复联调\r\n\r\n● 部分优化目标（如「点击」）无需联调\r\n\r\nQ：为什么点击【开始联调】按钮后，报错「您使用创意形式、版位和商品类型组合不支持当前品牌形象类型。」？\r\n\r\nA：这是因为您没有对应营销版位的投放权限，导致联调营销创建失败，请联系您所对接的行业运营，开通相关营销版位的权限：\r\n\r\n● App、网页、QQ 小游戏类型的转化规则：需开通「腾讯平台与内容媒体」版位的权限\r\n\r\n● 企微、小程序、公众号、微信小游戏类型的转化规则：需开通「微信朋友圈」版位的权限\r\n\r\nQ：为什么点击【开始联调】按钮后，报错「未通过身份验证，暂不支持使用，请前往ADQ完成身份验证」？\r\n\r\nA：如投放账户未通过身份验证，将被限制投放营销素材，导致联调营销创建失败。请完成身份验证后，且账户将恢复投放等功能后进行重试\r\n完成账户身份验证的流程具体可参考：[新身份验证流程指引（对外）](https://doc.weixin.qq.com/doc/w3_AJUAqgZGACgLB1A6zbaTcG1UEWmII?scode=AJEAIQdfAAoik5OaiIAH8A_QZ1ACg)\r\n\r\nQ：为什么点击【开始联调】按钮后，报错「不支持的营销四元组类型,XXXX。」？\r\n\r\nA：如投放账户没有对应的营销内容（如营销目的、营销载体等）的投放权限，将导致联调营销创建失败。请联系您所对接的行业运营，开通相关营销内容的权限\r\n\r\nQ：为什么联调时，使用手机微信朋友圈不断刷新，无法找到联调营销/显示「暂无可预览的营销」？\r\n\r\nA：\r\n\r\n● 确认微信客户端版本是否为最新版本，未升级到最新版本可能导致刷不到营销；\r\n\r\n● 若已经更新，则在手机后台「退出微信」重新进朋友圈刷营销\r\n\r\nQ：为什么联调时，使用手机 QQ 扫码后，无法找到联调营销/显示「暂无可预览的营销」？\r\n\r\nA：\r\n\r\n● 可将手机 QQ 客户端更新到最新的版本后重试；\r\n\r\n● 如创建转化时选择的是「Android」类型，请使用安卓设备进行联调，如选择的是「iOS」类型，请使用 iOS 设备联调；\r\n\r\n● 请确认手机 QQ 相关能力是否开启：\r\n\r\n* 1.qq-＞设置 一＞个人信息保护设置 一＞营销推荐设置一＞个性化营销 开关打开\r\n* 2.qq-＞ 设置-＞隐私一＞授权管理-＞管理列表中有腾讯营销相关的应用\r\n* 3.打开qq空间刷动态，直到刷出任意一条营销\r\n\r\nQ：为什么联调时，上报数据一直显示为 0？\r\n\r\nA：需按如下步骤完成自查：\r\n\r\n● 与开发同学确认对应的数据（action_type）是否成功上报\r\n\r\n● 确认上报的数据是否对应点击联调预览营销发生的转化（例如 clickid/用户 ID 是点击预览营销用户对应的 ID）",
+    "catalogs": [
+      {
+        "catalog_id": 3792,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:14:09"
+      },
+      {
+        "catalog_id": 4613,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 12:00:05"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【展开聊聊】新3.0时代的新基建 - 营销链路的进阶玩法\",\"videoLink\":\"https://eschool.qq.com/Training/Detail/eaf56406-ad0?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/training-img/2025/1/2cf665af69fc408aabc4ed16dd65d242.jpg\",\"uploadTime\":1741072712249,\"videoId\":\"726b3344-4670-4283-aa26-3eae15ddbda7\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-13 15:53:31",
+    "updated_at": "2025-03-04 15:18:41",
+    "nav_flag": 0
+  }
+}

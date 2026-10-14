@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12253,
+    "title": "通用规则---诱导点击",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "违规点：涉及诱导点击，请修改\n1. 不支持含有虚假或者引人误解的按钮设计\n<BR>*透传原因：请勿使用虚假的交互诱导类营销创意设计，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **模仿暗示关闭类文案** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**无法实现的打开方式** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**恶搞诱导点击** |\n| :--------: | :--------: | :--------: |\n|  ![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204551_210085.png)  |  ![image2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204601_697630.png)  | ![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204610_795766.png)  |\n\t\t\n2. 不支持采用任何通过操控用户情绪来诱导点击的手段\n<BR>*透传原因：请勿使用利用用户情绪操作诱导形式进行营销创意设计，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **卖惨行为** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**替父代言** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**疾病恐慌** |\n| :--------: | :--------: | :--------: |\n| ![image4.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250702095231_876083.png) |![image5.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250702095243_409042.png)  | ![image6.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250702095253_296679.png)  |\t\t\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **身材焦虑** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**急迫表述** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**悲伤表情** |\n| :--------: | :--------: | :--------: |\n| ![image7.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204652_860581.png)   | ![image8.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204702_222025.png)   |  ![image9.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618204711_388360.png) |\n\t\n3. 不支持利用民生政策或新闻热点话题借社会重大事件（包括但不限于自然灾害、公共危机、民生政策调整等）进行营销宣传\n<BR>*透传原因：请勿使用民生政策或热点新闻等内容进行投放，请修改*\n\t\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **民生政策类宣传** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**政策变化类宣传** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**使用新闻化标题虚构政策内容** |\n| :--------: | :--------: | :--------: |\n| ![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250828150642_452016.png)             |  ![image4.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250828150712_498983.png)       |    ![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250829142205_330167.png)    |",
+    "catalogs": [
+      {
+        "catalog_id": 4787,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-13 10:20:29"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-13 16:41:45",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 1
+  }
+}

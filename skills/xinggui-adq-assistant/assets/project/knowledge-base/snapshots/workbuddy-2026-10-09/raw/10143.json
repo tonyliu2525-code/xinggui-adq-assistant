@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10143,
+    "title": "设置版位的操作流程",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、能力介绍\r\n营销版位是创建一条营销的核心设置，代表营销可曝光的媒体及营销位的集合。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319155540_076304.png\" style=\"width: 600px;\">\r\n\r\n# 二、操作说明\r\n## 1. 版位选择\r\n\r\n客户版位投放的模式，分为【自动版位】与【选择特定版位】\r\n\r\n**自动版位**：客户无需理解投放的版位。投放的媒体营销位、预算等交由系统自动分配，期望在成本达成的情况下尽可能广泛探索，达到拿量最大化。\r\n\r\n**选择特定版位**：客户手动指定希望优先投放的版位，系统将优先将预算分配至客户选择的特定版位上。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319155643_773585.png\" style=\"width: 600px;\">\r\n\r\n更多说明，请见 [腾讯营销 | 帮助中心](https://e.qq.com/ads/helpcenter/detail?cid=3160&pid=9376)\r\n\r\n## 2. 设置搜索场景扩量\r\n\r\n为帮您拿到更多转化，系统会将营销自动拓展至腾讯搜索优质流量场景，并自动配词。\r\n\r\n您也可以手动添加更适合营销的关键词，帮助营销更精准地匹配对应用户。\r\n\r\n【定向拓展】能力开启后，营销将在搜索场景突破原有展示营销的年龄、性别、学历定向，帮助营销拿到更多转化。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319155940_472030.png\" style=\"width: 600px;\">\r\n\r\n## 3. 更多版位定向\r\n\r\n如对版位下细分场景有特殊投放诉求，可在【更多版位定向】中进行设置。\r\n\r\n请注意，设置版位定向可能导致营销难以起量，建议如无特殊需要，不进行更多版位定向设置。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160028_555985.png\" style=\"width: 600px;\">",
+    "catalogs": [
+      {
+        "catalog_id": 3771,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:07:13"
+      },
+      {
+        "catalog_id": 4552,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:06:55"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】新投放模式营销创建指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/5EDZQGGo?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164832_397522.png\",\"uploadTime\":1740736873172,\"videoId\":\"f896744a-aba1-47d1-ace4-95fa38548803\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 10:29:43",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

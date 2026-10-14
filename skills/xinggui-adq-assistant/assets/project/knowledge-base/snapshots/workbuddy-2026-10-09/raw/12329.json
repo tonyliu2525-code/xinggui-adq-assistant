@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12329,
+    "title": "商品库",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 创意元素审核不通过，提示“营销创意与推广产品不一致”怎么办？\r\n| 更新时间\t| 适配行业\t| 文档解释权| \t更新人| \r\n| -------- | -------- | -------- | -------- |\r\n| 2025.05.30| \t电商行业\t| 腾讯营销推广产品资产组\t| mejama| \r\n\r\n## 1、为什么营销创意必须要与推广产品信息一致？对我有什么影响？\r\n![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112447_647315.png)\r\n在一个陌生的路口问路，路口仅有的2个人，一个人说向左走，一个人向右走，这时是不是会陷入困惑，仍然不知道哪个方向才是对，**矛盾或不一致的信息往往造成混乱！**\r\n\r\n**营销信息不一致，会给营销系统带来干扰信息，造成”找路“一样的困境，从而影响投放和跑量效果！**\r\n\r\n如A营销上，**【推广产品】选了连衣裙，营销创意是运动鞋，落地页上又是遮阳帽**，究竟应该找对连衣裙感兴趣的人，还是要找对运动鞋、遮阳帽感兴趣的人？哪个是才是推广者真正想要的？\r\n\r\n腾讯营销新系统（3.0）中，营销创编选择的【推广产品】【创意元素】【落地页信息】都会输入营销系统，并应用于营销模型、营销策略、冷启动等场景，是营销系统的重要数据输入。为避免误操作等原因带来的营销信息不一致给系统输入干扰信息，**腾讯营销上线了针对推广产品与营销创意、落地页信息一致性比对能力，并在系统校验出不一致时进行审核拦截，修改一致后才能正常投放。**\r\n\r\n由于腾讯营销系统支持表达的【推广产品】类型较多，目前比对信息一致的能力正在逐步推进和覆盖，**本文主要围绕电商行业且推广产品为【商品】展开说明** \r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112502_171598.png)\r\n## 2、哪些情况会造成\"营销创意与推广产品不一致”，出现\"不一致”我该怎么办？\r\n### 2.1 商品类目不一致（可以理解为品类不同）\r\n\r\n| badcase示例\t| 不一致信息| \t应该怎么改？| \r\n| -------- | -------- | -------- |\r\n| **【馅饼 VS 燕麦片】**| 商品类目选择了【馅饼】![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112558_040454.png)营销创意为【燕麦片】![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112611_900270.png)| **我们先默认创意或落地页里表达的信息是您真正想推广的商品！否则直接修改创意及落地页即可**；<BR>第一步：创建新营销，选择【俄罗斯燕麦片】商品![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112646_250518.png)如果找不到【俄罗斯燕麦片】这个商品，可到【[腾讯全域商品平台](https://youhuo.tencent.com)】创建商品（[创建流程](https://docs.qq.com/doc/DYmdpaXJKbnBZd0tt)）![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112706_735478.png)第三步：上传【俄罗斯燕麦片】相关的创意及落地页| \r\n| **【割草机 VS 高压水枪】**\t| 商品类目选择了【割草机】![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112728_230050.png)创意表达的是【高压水枪】![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112746_773250.png)| **我们先默认创意或落地页里表达的信息是您真正想推广的商品！否则直接修改创意及落地页即可**；<BR>第一步：创建新营销，选择【高压水枪】商品![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112810_042247.png)如果找不到【高压水枪】这个商品，可到【[腾讯全域商品平台](https://youhuo.tencent.com)】创建商品，点击查看[创建流程](https://docs.qq.com/doc/DYmdpaXJKbnBZd0tt)![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112814_433026.png)第三步：上传【高压水枪】相关的创意及落地页| \r\n\r\n\r\n\r\n### 2.2 品牌信息不一致\r\n\r\n\r\n| badcase示例\t| 不一致信息| \t应该怎么改？| \r\n| -------- | -------- | -------- |\r\n| **【青岛啤酒 VS 百威啤酒】**| 商品品牌为【青岛啤酒】![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112922_692450.png)![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112935_345465.png)\t| **我们先默认创意或落地页里表达的信息是您真正想推广的商品！否则直接修改创意及落地页即可**；<BR>第一步：创建新营销，选择【百威啤酒】商品![image (11).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112949_623227.png)如果找不到【百威啤酒】这个商品，可到【[腾讯全域商品平台](https://youhuo.tencent.com)】创建商品（[创建流程](https://docs.qq.com/doc/DYmdpaXJKbnBZd0tt)）![image (12).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619112954_679215.png)第三步：上传【百威啤酒】相关的创意及落地页| \r\n| **【哥伦比亚 VS 啄木鸟】**| 商品品牌为【哥伦比亚】![image (13).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113027_225382.png)创意品牌为【啄木鸟】![image (14).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113031_519077.png)| **修改方法同上**| \r\n\r\n\r\n## 3、如果发现系统误判，如何申诉？\r\n如不存在信息一致情况但被被判定有违规，对审核结果有异议，可在审核详情页面，**点击“复审”按钮**，发起复核，审核人员会人工介入重新进行审核。\r\n![image (15).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113054_673266.png)\r\n<BR>\r\n<BR>\r\n<BR>\r\n<BR>\r\n<BR>",
+    "catalogs": [
+      {
+        "catalog_id": 4915,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-19 12:16:09"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-06-19 11:33:56",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9595,
+    "title": "营销相关问题咨询通道",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**1.问题反馈咨询通道**\n \n| **营销咨询通道** | **问题类型** | **进入咨询方式** | **详细要求/所需材料** |\n|-------- |-------- |-------- |-------- |\n| 官网                   | 如何成为客户    | 进入 官网首页（官网[https://e.qq.com/ads](http://e.qq.com/ads)） ，点击右下方企鹅图标--发起咨询   |       |\n| 投放管理平台     | 内容审核问题     |   进入投放管理平台，点击右下方企鹅图标--进入【腾讯营销助手】对话界面进行咨询  |  推荐    |\n| 投放管理平台      | 投放产品、效果问题    |进入投放管理平台，点击右上角公司名称后面的【≡】--【？帮助】--【反馈中心】提交问题需求   |  ![image (19).png](https://bbx-pic.gtimg.com/bbx/pictures/2026/461_20260709172947_931964.png)    |\n| 微信服务号     | 如何成为客户     | 关注微信服务号“腾讯营销服务号” ，点击底部【立即咨询】接入服务   |    |\n| 微信服务号     | 投放产品、效果问题     | 关注微信服务号“腾讯营销审核助手”，点击底部【广告审核】选择【投放反馈】进入反馈中心提交需求  ||\n| 邮箱咨询     | 营销违规投诉/举报/侵权     |  发送邮件到 ads_service@tencent.com 进行反馈     | [营销违规投诉举报侵权填写模板要求](https://doc.weixin.qq.com/sheet/e3_AY4AIQafAIQYdYJJ1GKRDqfyaHARC?scode=AJEAIQdfAAo2aXh7edAd4AaQa4AOU&tab=BB08J2)    |\n| 邮箱咨询     | 投放账户名称修改     | 发送邮件到 ads_ss@tencent.com 进行反馈    |   投放账户名修改资质要求如下：<br>1.账户ID、原公司名称、新公司名称<br>2. 国家企业信用信息公示系统中已经完成变更截图或国家市场监督管理总局更名受理证明(需同时上传到账户后台以供审核)<br>3. 变更后的新营业执照扫描件 (需同时上传到账户后台以供审核)    |\n| 邮箱咨询       | 账户复审      |发送邮件到 ads_ss@tencent.com 进行反馈   |[ 【开户咨询】开户催复审SOP(对外版) ](https://doc.weixin.qq.com/doc/w3_ALgAXwZ2ACc5DFwV3tyQxOjfV6DyT?scode=AJEAIQdfAAoNJoUwKMALgAXwZ2ACc) |\n| 邮箱咨询  | 账户解封/解黑申请     | 发送邮件到 ads_ss@tencent.com 进行反馈  | 账户解黑：<br>当开立账户被拒绝主体有违规记录，可邮件申请解黑，解黑成功后可重新开立账户，我们将在收到解黑申请的3个工作日内给予回复。最终申请结果以邮件答复为准。<br>申诉格式：<br>主题需包含：【主体解黑申诉】+公司全称<br>正文需包含：申诉主体，申诉账户UID，违规原因，申诉说明（包含申诉证明材料）<br>账户解封：<br>“封停”状态的违规账户，“有效”状态违规账户需通过线上申诉<br>  详情参考：[违规账户线上申诉操作指引](https://doc.weixin.qq.com/doc/w3_AZ8AIQafAIQs91jFnwSShCsOQz06N?scode=AJEAIQdfAAotE30Py2Ad4AaQa4AOU)    |\n| 邮箱咨询     | 修改开户QQ/微信号     | 发送邮件到 ads_ss@tencent.com 进行反馈     |  修改开户QQ号/微信号：<br>请填写修改申请表并盖章后发送邮件，17点前发送的邮件在当天即可得到修改。详情参考: [修改开户QQ号指引](https://support.e.qq.com/detail?cid=3742&pid=2064)  |\n|  邮箱咨询   | 申请拒绝账户     | 发送邮件到 ads_ss@tencent.com 进行反馈    | 账户无法注销，如确认账户不再使用可申请拒绝。<br>申请流程：提供账户ID，公司名称，拒绝账户原因，行业，推广链接，整理成WORD文档并加盖公章，发送至邮箱ads_ss@tencent.com申请   |\n| 邮箱咨询     | 搜索营销商标保护申请     | 发送邮件到 AMS_helper@tencent.com 进行反馈     | 商标保护申请方的营业执照（如为自然人，请提供身份证等有效证件）<br>需申请保护的商标相应商标注册证<br>如商标保护申请方仅作为商标被授权方，则还需补充提供如下资质：<br>1）商标持有方营业执照（如为自然人，请提供身份证等有效证件）<br>2）商标使用授权文件（需双方加盖公章/签名）<br> 商标保护申请表（具体模板见附件）<br>详情可参考：[搜索营销商标保护申请指引 ](https://support.e.qq.com/detail?cid=3840&pid=7972)     |\n| 邮箱咨询     | 搜索黑词加白申请     | 自主提报     |  当素材被以下原因拒绝，可自主提报黑词加白申请：<br>1. 创意包含违规词/注册商标【】<br>2. 搜索词包含违规词/注册商标【】<br>提报链接： <br>[敏感词汇提报申请表（新表） ](https://doc.weixin.qq.com/forms/AJEAIQdfAAoAS4AJgaKAEMCNwuuABcVlf?page=1&scode=AJEAIQdfAAoVss0jUZAS4AJgaKAEM)  |\n| 邮箱咨询     | 退款问题    | 发送邮件到 AMS_JS@tencent.com  进行反馈     | ADQ/MP直客，优先使用线上退款，操作路径：登录投放端后台—财务模块—申请退款，按流程操作即可<br>如充值超过175天无法原路退回，请走线下退款流程：<br>下载对应退款申请表，按要求填写完成后发送邮件提交申请。<br>详情可参考：[客户退款指引 ](https://support.e.qq.com/detail?cid=3742&pid=2068)     |\n| 邮箱咨询     | 发票问题     | 发送邮件到 AMS_JS@tencent.com  进行反馈     | 发票开具/退票/遗失相关模板<br> 详情可参考：[发票指引 ](https://support.e.qq.com/detail?cid=4075&pid=9668)      |\n|  邮箱咨询    |  服务商业务流程咨询     | 发送邮件到 Ads_license@tencent.com进行反馈     |  1）包含开户准入、服务商保证金、超级管理员信息修改、官网信息公示等服务商相关业务流程咨询<br>2）超级管理员信息修改，需填写申请表并盖章后发送邮件，17点前发送邮件在当天即可修改<br>附：[腾讯营销服务商超管信息修改申请表 ](https://doc.weixin.qq.com/doc/w3_ADcAywbwAFUvv7GN47hQKmiUT431a?scode=AJEAIQdfAAo5VrE7IiADcAywbwAFU)   |\n| 邮箱咨询      | 服务商投诉与举报     |  发送邮件到 TAMS@tencent.com进行反馈      |  服务商存在违反诚信经营、营销合规等行为，可向腾讯营销进行反馈<br> 附： [服务商投诉&举报邮件模板 ](https://doc.weixin.qq.com/doc/w3_ADcAywbwAFUh4py0yPpScijlvzIEZ?scode=AJEAIQdfAAojw00P6jADcAywbwAFU)  |\n| 邮箱咨询      | 保证金线下打款未注册保证金账户退款申请线下申请     |  发送邮件到 dsbzj@tencent.com 进行反馈     | 详情可参考： [指引](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240419171715_960350.xlsx)    |\n| 邮箱咨询       | 保证金认款     | 发送邮件到guarantee@tencent.com进行反馈    |  详情可参考： [指引](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240419171715_960350.xlsx)    |",
+    "catalogs": [
+      {
+        "catalog_id": 4726,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 17:13:17"
+      }
+    ],
+    "created_by_name": "carmelawang(王琦)",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-26 14:20:18",
+    "updated_at": "2026-07-09 17:31:54",
+    "nav_flag": 0
+  }
+}

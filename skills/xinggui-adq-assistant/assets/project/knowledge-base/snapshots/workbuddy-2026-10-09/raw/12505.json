@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12505,
+    "title": "短剧",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【短剧库】是为短剧行业量身打造的推广产品库，适用于付费短剧投放或免费短剧APP投放。依据您的创意实际表达的短剧产品，选择正确的短剧推广产品，将有助于模型推荐精准度优化。\r\n\r\n# 二、创建推广产品（客户工作台/服务商系统）\r\n在客户工作台或服务商系统左上角登录进已创建的“业务单元”中，**仅“业务单元”支持创建和管理“短剧库“的资产**。\r\n## 1、创建入口\r\n进入后点击“资产”，左侧列表展开推广产品的具体内容，选择短剧库。\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150106_718190.png)\r\n## 2、创建流程和要求\r\n1）创建流程\r\n点击新建产品，出现新建弹框。点击下拉框选择短剧商品。\r\n>>区域1：支持点击出现下拉框选择某个短剧  \r\n>>区域2：支持客户在右侧选择某个剧城。输入短剧名称或者商品ID检索筛选剧城下的短剧  \r\n>>区域3：支持披露短剧的主图、名称和商品ID。支持客户选择某个短剧商品并提交创建产品  \r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150119_453878.png)\r\n\r\n2）创建要求  \r\n不可在同一个“业务单元“下创建完全相同的短剧产品。\r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150131_909559.png)\r\n\r\n# 三、创意一致性校验\r\n## 1、创意与推广产品一致的判定标准\r\n●短剧创意与推广产品一致的原则：营销选定的短剧「推广产品」与创意元素（文本/图片/视频/落地页）表达的短剧产品是**同一部短剧**。\r\n\r\n| 营销选定短剧「推广产品」| \t创意元素-文本/图片/视频\t|   创意元素-落地页| \r\n| -------- | -------- | -------- |\r\n|\r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150145_872593.png)    | \r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150159_392664.png)     | \r\n![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150212_624789.png)![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150216_184873.png)    |\r\n\r\n## 2、创意与推广产品不一致拒审及解决方案\r\n●当创意元素表达的短剧与营销推广产品选定的短剧不一致时，创意元素将被拒审，拒审理由“营销创意与推广产品不一致”。**请修改推广产品短剧与创意元素短剧一致再重新提交**。\r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150233_252062.png)\r\n\r\n●当创意元素因与推广产品不一致被拒审时，如发现实际是一致的，但**系统误审了，可以点击「复审」**，申诉原因选择”拒绝原因在营销中未涉及“，详细描述填写”创意与推广产品一致“，然后提交复审。\r\n![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150249_935159.png)\r\n\r\n●**复审通过，不占用当天当账户的复审额度**。\r\n![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150300_524645.png)\r\n\r\n# 四、使用推广产品（投放管理平台）\r\n●在[腾讯营销 - 投放管理平台](https://ad.qq.com/)创建3.0营销时，**逐一选择【营销目的】-【推广产品：短剧】**，点击“选择产品”后可拉取到账户所属业务单元在短剧库下创建的所有产品。\r\n![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150315_358988.png)\r\n\r\n●一条营销仅支持选择一个产品，点击“**产品信息**”可查看具体设置的类目和关键属性。**不可对同一个产品创建完全相同的多个营销**。\r\n![image (11).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250829150326_235626.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4975,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-29 15:18:41"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-29 15:18:16",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

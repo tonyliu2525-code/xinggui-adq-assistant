@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10470,
+    "title": "联合预算工具",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年04月09日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n## 1.什么是营销联合预算工具\r\n\r\n营销联合预算管理工具，是腾讯平台面向客户提供用于管理多个营销统一设置日预算和总预算的投放工具，满足客户指定某一推广产品限制多条营销共用总预算额度诉求，确保优质营销竞得更多预算；无需人工盯盘调控，提供投放效率。\r\n\r\n## 2.使用注意：\r\n\r\n1.已经产生消耗的营销不能绑定联合预算\r\n\r\n2.同一个营销ID只能关联1个联合预算组，已经绑定联合预算的营销不能取消关联；\r\n\r\n3.营销联合预算创建后不能删除，支持修改联合日预算、联合总预算\r\n\r\n# 二、操作说明\r\n\r\n## 1.工具入口：\r\n\r\n在工具箱-投放管理中新增营销联合预算管理工具，点击 icon进入营销联合预算管理页面\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171738_941308.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171738_941308.png\" style='width:600px'/></a>\r\n\r\n## 2.营销联合预算创建\r\n\r\n点击新建营销联合预算，页面展示新建弹窗，支持设置联合日预算、联合总预算，关联营销、营销联合预算组名称，其中，日预算和总预算默认为不限，可以自定义设置预算值；\r\n\r\n| 字段名称 | 字段说明 |\r\n| -------- | -------- |\r\n| 营销联合日预算 | 默认为不限，可以指定日预算，选择指定日预算，底部展示输入框 |\r\n| 营销联合总预算 | 默认为不限，可以指定总预算，选择指定总预算，底部展示输入框 |\r\n| 关联营销 | 点击下拉框，底部展示可选选择营销列表，列表为当前账户下所有营销；</br>● 支持客户输入营销名称检索营销（仅限制竞价展示营销） |\r\n| 多营销预算名称 | 客户自行填写必填，允许文字、数字、符号，60字上限 |\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171833_836537.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171833_836537.png\" style='width:600px'/></a>\r\n\r\n## 3.管理列表\r\n\r\n管理列表字段：营销联合预算组名称、关联营销数、营销联合日预算、营销联合总预算、日消耗、总消耗、操作列仅支持编辑；\r\n\r\n● 关联营销数：鼠标滑过可查看关联营销明细\r\n\r\n● 编辑操作：支持更改营销联合总预算、营销联合日预算、营销联合预算名称；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171910_352551.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171910_352551.png\" style='width:600px'/></a>\r\n\r\n## 4.投放流程绑定营销联合预算\r\n\r\n● 新建营销时，在投放流程内，可绑定已有营销联合预算组，且支持点击底部「营销联合预算」可跳转至工具箱，新建营销联合预算组\r\n\r\n● 编辑营销时，营销联合预算模块不能编辑；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607170619_338135.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607170619_338135.png\" style='width:600px'/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607170636_476511.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607170636_476511.png\" style='width:600px'/></a>\r\n\r\n# 三、Q&A专题\r\n\r\n**Q1：营销联合预算是否可关联所有竞价展示营销？**\r\n\r\n只有未产生计费的营销，可绑定进多营销预算组内，已关联联合预算组的营销，不能在绑定其他联合预算组\r\n\r\n**Q2：营销联合预算是否支持删除？**\r\n\r\n营销联合预算组不支持删除，不支持取消关联组下的任一营销\r\n\r\n**Q3：营销联合预算组可关联的营销数上限**\r\n\r\n500条\r\n\r\n**Q4:营销粒度设置的预算和联合预算工具设置预算，哪个优先级高，如果金额不同，以哪个为准生效？**\r\n\r\n两个预算都会共同作用于预算控制的，那一个条件先达到就会触发预算撞线，停播营销",
+    "catalogs": [
+      {
+        "catalog_id": 3788,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:21:12"
+      },
+      {
+        "catalog_id": 4528,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:46:17"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-07 17:08:26",
+    "updated_at": "2025-01-14 14:46:17",
+    "nav_flag": 0
+  }
+}

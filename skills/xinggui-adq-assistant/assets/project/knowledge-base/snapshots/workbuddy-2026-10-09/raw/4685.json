@@ -1,0 +1,57 @@
+{
+  "data": {
+    "post_id": 4685,
+    "title": "公众号互选内容营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_2srmU\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251028174017_396343.png\",\"caption\":\"公众号互选内容营销\",\"naturalWidth\":751,\"naturalHeight\":1626,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"微信公众号互选内容营销，是客户和通过微信营销平台双向互选、自由达成合作的一种投放模式，营销创意呈现在公众号文章内。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品特点\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"真实、全面的数据服务，安全、高效的交易流程\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"内容场景营销，外层支持图片、视频形态，更具表现力的营销样式\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持营销推荐、内容定制两种合作模式，助力品牌主与公众号粉丝群体深度沟通\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"有投放意向，请联系行业 / 渠道经理或 “腾讯营销互选平台助手” 公众号。\"}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"合作模式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"根据与的合作深度，互选内容营销支持四种合作模式：营销推荐模式和内容定制模式。\"}]},{\"type\":\"collapse\",\"attrs\":{\"id\":\"collapse_-Wsbw\",\"ordered\":false,\"dataSource\":[{\"id\":\"Zao20\",\"title\":\"原创定制模式\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合作形式：创作者配合客户的推广需求，提供全篇文章内容的定制撰写服务。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"报价方式：文章一口价。品牌可在文章内有多次露出，不承诺曝光量、文章阅读量。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"主题内容：创作者将结合粉丝喜好为客户提供内容定制服务；客户可获得创作者的联系方式，双方可就内容合作的具体需求进行沟通和协商；文章内容经客户线上审稿确认后才能发布。\"}]}]}]}]}},{\"id\":\"-8yMi\",\"title\":\"供稿直发模式\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合作方式：创作者根据客户提供的内容材料，简单编辑后进行文章推送。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"报价方式：文章一口价。品牌可在文章内有多次露出，不承诺曝光量、文章阅读量。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"主题内容：创作者将简单编辑客户提供的文章内容后发送；客户可获得创作者的联系方式，双方可就内容合作的具体需求进行沟通和协商；文章内容经客户审稿确认后才能发布；不能开启文章原创标识。\"}]}]}]}]}},{\"defaultExpanded\":false,\"id\":\"Dg7Wy\",\"title\":\"种草合集模式\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合作方式：创作者的一篇文章中，将展示多个客户的推广内容。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"报价方式：创作者按照坑位具体情况定价。不承诺曝光量、文章阅读量。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"主题内容：创作者的一篇文章可以包含多个坑位营销；客户可获得创作者的联系方式，双方可就内容合作的具体需求进行沟通和协商；文章内容需与客户线下确认。\"}]}]}]}]}},{\"defaultExpanded\":false,\"id\":\"-Doxq\",\"title\":\"图片消息合作\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合作方式：创作者为客户提供图片消息定制的合作。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"报价方式：图片消息一口价。每张图片可关联一个互选内容营销组件，不承诺曝光量、文章阅读量。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"主题内容：创作者最多可上传20张图片，每张图片均可支持插入互选内容营销对应的小程序转化组件，并打营销标；图片消息内容需客户审稿确认后方可发布。\"}]}]}]}]}}]}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"互选卡片适用样式\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"Mk-Dt\",\"src\":\"https://wxa.wxs.qq.com/wxadtouch/upload/t1/esxixh41_68a98b6703dce4e00e972762c04acb34.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1928,\"naturalHeight\":800,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"相关帮助\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_CavzT\",\"src\":\"https://huxuan.qq.com/trade/free/index\",\"text\":\"腾讯营销互选平台官网\",\"rightIcon\":\"arrow-forward\"}}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 3713,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:21:05"
+      }
+    ],
+    "created_by_name": "宇逸-付梦妤",
+    "tags": [
+      {
+        "tag_id": 1,
+        "name": "目录-常见问题",
+        "tag_category_name": "官网帮助中心",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 98,
+        "name": "公众号",
+        "tag_category_name": "微信",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-04-15 10:46:55",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

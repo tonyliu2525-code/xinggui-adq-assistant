@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13373,
+    "title": "【治理公告】关于AI与新媒体类课程的治理公告",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "尊敬的服务商及客户：\n\n<br>推广AI技能培训以及新媒体运营培训相关内容为高风险业务，不接受在非「教育-新媒体运营培训」行业节点开户。近期平台在定期巡检治理过程中发现，个别广告主\u0005/服务商无视平台规范，在非「教育-新媒体行业」，通过盈利明示或暗示、AI焦虑散播等诱导类素材，引导用户添加私域推广代运营课程或服务，甚至出现非法禁投和违法诈骗业务的情况。\n\n<br>为保障用户安全和维护平台环境，请在2026年6月1日之前完成存量整改迁移，逾期将按照「二级违规-洞穿平台相关行业规定」进行处罚。\n\n<br>后续平台将针对类似违规行为继续严查。如需投放AI技能培训以及新媒体运营培训相关内容，请前往「教育-新媒体运营培训」行业投放，并完成保证金缴纳、仅限浅层优化目标 = 412加企业微信客服投放、\u0005完成转化宝达标接入等操作。请客户及服务商按照腾讯\u0005营销平台审核规则，及时自查整改。",
+    "catalogs": [
+      {
+        "catalog_id": 5182,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-06-01 15:08:57"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-06-01 14:15:27",
+    "updated_at": "2026-07-15 19:53:36",
+    "nav_flag": 0
+  }
+}

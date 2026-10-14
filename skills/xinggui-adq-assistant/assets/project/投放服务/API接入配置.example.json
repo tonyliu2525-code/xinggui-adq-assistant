@@ -1,0 +1,20 @@
+{
+  "provider": "tencent_marketing",
+  "status": "reserved_not_connected",
+  "mode": "read_only",
+  "api_version": null,
+  "authorized_account_ids": [],
+  "credentials": {
+    "app_id_env": "TENCENT_ADS_APP_ID",
+    "app_secret_env": "TENCENT_ADS_APP_SECRET",
+    "access_token_env": "TENCENT_ADS_ACCESS_TOKEN",
+    "refresh_token_env": "TENCENT_ADS_REFRESH_TOKEN"
+  },
+  "configuration_endpoint": null,
+  "report_endpoint": null,
+  "report_field_mapping": {},
+  "timezone": null,
+  "currency": "CNY",
+  "attribution_window": null,
+  "note": "接口版本、端点、授权及字段映射待正式接入时核对；此文件不存真实凭据。"
+}

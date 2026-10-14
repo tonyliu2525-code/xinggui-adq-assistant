@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9584,
+    "title": "招商项目等级标签申诉",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 招商项目等级标签申诉\n\n| *更新日期* | *2023-12-27* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 对招商项目的等级标签进行修正，请通过以下方式发起：\n\n# 邮件申诉\n* ## 收件人\n收件人：*[ 您的销售经理/渠道经理 ]*\n\n抄送人：AMS_JS@tencent.com\n\n* ## 邮件主题\n【腾讯营销】招商项目等级信息修改 - *[ 客户名称 ]* - *[ 项目名称 ]*\n\n* ## 邮件正文\n\n申请以下招商项目的等级信息进行修正，具体如下：\n\n服务商名称 | 服务商ID | 客户名称 | 客户ID | 招商项目名称 | 排期编号 | 修改前等级 | 修改后等级 | \n | - | - | - | - | - | - | - | - |\n | Text  | Text  | Text  | Text  | Text  | Text  | Text  | Text  | \n | Text  | Text  | Text  | Text  | Text  | Text  | Text  | Text  | \n\n请附上相关举证材料。\n\n* ## 邮件附件\n\t* 举证材料\n\n# 处理流程\n\n1. 客户提出申诉\n2. 销售经理/渠道经理初审\n3. 政策管理中心协同运营中心、商务编辑复审\n4. 政策管理中心反馈审核结果\n\n# 注意事项\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4447,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 13:53:29"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-24 18:05:09",
+    "updated_at": "2026-05-13 18:24:43",
+    "nav_flag": 0
+  }
+}

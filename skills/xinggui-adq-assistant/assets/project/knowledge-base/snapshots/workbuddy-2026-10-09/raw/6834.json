@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 6834,
+    "title": "文章底部营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_b7GS9\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251028173637_637536.png\",\"caption\":\"公众号文章底部营销\",\"naturalWidth\":751,\"naturalHeight\":1626,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"覆盖深度阅读人群，提供海量的曝光机会，满足客户丰富营销诉求。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品特点\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持不同售卖方式，兼顾品牌和效果客户需求\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持不同推广目标，满足不同营销诉求\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持多种创意样式和推广页，按需设置营销的展示和跳转效果\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持 16:9 大图式卡片或 16:9 视频式卡片，凸显品牌格调\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持合约售卖、竞价售卖。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_j1dw2\",\"telphone\":\"4000617816\"},\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"营销样式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"文章底部卡片支持 4 种样式，适配不同素材形式和规格，你可根据需求选择对应的卡片样式。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_a_ZVn\",\"dataSource\":[{\"id\":\"phoneVerticalItem_qBdGq\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105162553_580345.png\",\"caption\":\"视频式卡片\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_LOrIR\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105162558_910030.png\",\"caption\":\"大图式卡片\",\"naturalWidth\":422,\"naturalHeight\":910}]}},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_wPIW4\",\"dataSource\":[{\"id\":\"phoneVerticalItem_qBdGq\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105162604_672293.png\",\"caption\":\"Banner卡片\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_-dyp7\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105162608_521926.png\",\"caption\":\"Banner\",\"naturalWidth\":422,\"naturalHeight\":910}]}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"相关帮助\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_ZgP4S\",\"src\":\"https://support.e.qq.com/detail?cid=4551&pid=12342\",\"text\":\"推广页介绍与设计规范\",\"rightIcon\":\"arrow-forward\"}}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_P4tL0\",\"src\":\"https://e.qq.com/ads/helpcenter/detail?cid=2126&pid=6288\",\"text\":\"营销素材审核规范\",\"rightIcon\":\"arrow-forward\"}}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 3711,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:21:39"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-05-06 15:09:30",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

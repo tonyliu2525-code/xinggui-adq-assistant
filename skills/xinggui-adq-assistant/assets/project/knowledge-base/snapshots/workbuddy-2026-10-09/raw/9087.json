@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9087,
+    "title": "北京腾讯传媒",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "*更新时间 2023-10-20 ，一般纳税人地址变更*\r\n\r\n您好，**北京腾讯传媒** 主体信息如下：\r\n\r\nOU 代码：169\r\n\r\n签约机构：北京腾讯文化传媒有限公司\r\n\r\n## **银行账户**\r\n\r\n开户名：北京腾讯文化传媒有限公司\r\n\r\n开户银行：招商银行深圳汉京中心支行\r\n\r\n账号：110913184610708 \r\n\r\n\r\n\r\n## **发票信息**\r\n\r\n纳税人识别号： 91110108306619789J\r\n\r\n地址： 北京市海淀区西北旺东路10号院西区9号楼5层101\r\n\r\n电话： 010-82173652\r\n\r\n开户行： 招商银行北京清华园科技金融支行\r\n\r\n账号： 110913184610802\r\n\r\n## **开票内容**\r\n\r\n营销发布费",
+    "catalogs": [
+      {
+        "catalog_id": 4089,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:00:54"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-05 19:14:54",
+    "updated_at": "2024-07-08 14:00:54",
+    "nav_flag": 0
+  }
+}

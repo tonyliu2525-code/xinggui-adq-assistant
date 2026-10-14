@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12857,
+    "title": "优量汇电脑端",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"collapse\",\"attrs\":{\"id\":\"collapse_rCy29\",\"ordered\":false,\"dataSource\":[{\"id\":\"AiFNJ\",\"title\":\"桌面弹窗\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"流量举例：\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"360安全卫士桌面弹窗\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_R2RQQ\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144020_564453.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1152,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}},{\"id\":\"1Zqzs\",\"title\":\"电脑屏保\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"流量举例：\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"小鸟壁纸桌面屏保，360画报\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_u6RBD\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144027_600470.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1098,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}},{\"id\":\"rhdbe\",\"title\":\"信息流\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"流量举例：\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"网站信息流\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_ylfYL\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144033_999681.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1130,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}}]}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5103,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-26 15:07:09"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-12-18 16:54:26",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

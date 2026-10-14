@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13091,
+    "title": "3月第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "### 【规则新增】商务服务-夸大债务解决能力\n不支持广告中夸大债务解决能力，涉嫌虚假宣传或导向非法债务优化业务。包括但不限于\"低收入+轻松/简单/快速解决高额负债\"，刻意回避还款周期、利息等真实成本问题。\n###  【规则新增】金融-助贷业务”出资方为银行“资质要求\n助贷机构出资方为银行出资，需提供银行官网公示的合作助贷机构披露信息证明及合作协议\n### 【规则新增】禁投-职业打假培训课程\n不支持投放职业打假培训课程",
+    "catalogs": [
+      {
+        "catalog_id": 5155,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-04-03 15:33:49"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-04-03 15:33:36",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

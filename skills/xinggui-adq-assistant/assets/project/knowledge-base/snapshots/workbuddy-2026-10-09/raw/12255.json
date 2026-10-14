@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12255,
+    "title": "通用规则---违规侵权",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "违规点：请勿使用未经他人授权的内容进行营销宣传，请修改。\n1. 不支持未取得他人或监护人书面同意的情况下，使用他人名义或形象\n<BR>*透传原因：请勿使用未经他人授权的名义/肖像内容进行营销宣传，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **明星名义** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**真实人物姓名** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**真实人物姓名** |\n| :--------: | :--------: | :--------: |\n| ![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210650_203795.png)   |  ![image2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210701_204953.png)  | ![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210711_550366.png)  |\t\t\n\n2. 不支持未取得第三方书面同意的情况下，使用第三方的业务信息内容\n<BR>*透传原因：请勿使用未经三方授权的业务信息内容进行营销宣传，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **涉及第三方信息** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**涉及大师作品** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**山寨商品** |\n| :--------: | :--------: | :--------: |\n|  ![image4.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210721_230396.png)  |  ![image5.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210730_359246.png)  |  ![image6.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618210738_732992.png) |",
+    "catalogs": [
+      {
+        "catalog_id": 4785,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-13 10:18:31"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-13 17:40:06",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 1
+  }
+}

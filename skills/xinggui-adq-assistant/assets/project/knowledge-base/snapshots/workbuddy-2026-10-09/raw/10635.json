@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10635,
+    "title": "农林牧渔和采矿审核规则",
+    "sub_title": "V4-20240716-版本1",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "### 一、法规条令\n\n1. 不得涉及医疗属性功效：改善视力、皮肤癣、牙结石、便秘、改善黑下巴\n2. 不得使用医疗词汇：治疗、治愈、疗程等，可使用改善、预防等非医疗性词汇\n\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![医疗功效词汇.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716170514_219281.jpg)    | ![医疗功效词汇 (3).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716170543_370118.jpg)     | ![医疗功效词汇 (2).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716170635_225112.jpg)     |\n| <font color=\"#FF0000\"> **×** 医疗功效/词汇    |  <font color=\"#FF0000\">**×** 医疗功效/词汇     |   <font color=#FF0000\"> **×** 医疗功效/词汇    |\n\t\n\t\n\t\n**支持场景：**\n- 可涉及功效（可以通过营养补充达到的改善效果）：\n\t - 改善泪痕（减少盐分摄入）\n\t- 改善软便、发腮（长胖）\n\t- 美毛亮毛减少掉毛、化毛（促进肠道蠕动把毛吐出来）、呵护肠道、增强体质\n<br>\n\t<br>\n\t\n3. 农药营销不得涉及承诺夸大等描述，其他内容仍需符合行业审核规范\n\t\n\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|   ![承诺夸大.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171142_888101.jpg)   | ![承诺夸大 (2).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171221_389209.jpg)     | ![承诺夸大 (3).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171305_030546.jpg)     |\n| <font color=\"#FF0000\">**×** 承诺夸大     | <font color=\"#FF0000\"> **×** 承诺夸大     |  <font color=\"#FF0000\"> **×** 承诺夸大    |\n\n\t\n\t\n\t\n4. 外层素材中需标注农药登记证号和农药广审文号，且需与资质保持一致，视频素材需全程展示\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![营销未标注广审文号农药登记证号.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171604_791772.jpg)    |  ![营销未标注农药登记证号.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171712_015932.jpg)    | ![营销未标注广审文号农药登记证号 (2).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716171825_054586.jpg)    |\n| <font color=\"#FF0000\"> **×** 营销未标注广审文号/农药登记证号      | <font color=\"#FF0000\">**×** 营销未标注农药登记证号     | <font color=\"#FF0000\"> **×** 营销未标注广审文号/农药登记证号     |\n\t\n\t\n\n5. 功效描述不能超出广审表/说明书合理功效范围，如：杀蟑螂的宣传可以种树包发芽，与营销审查样件表上描述功效不一致\n\t\n\t\n\n6. 利用科研单位、学术机构、技术推广机构、行业协会或者专业人士、用户的名义或者形象作推荐、证明\n\t\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![使用受益人名义推荐证明.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716172216_297802.jpg)    | ![使用专业人士义推荐证明.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716172515_881576.jpg)     | ![使用科研单位名义推荐证明.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240716172704_029101.jpg)     |\n| <font color=\"#FF0000\"> **×** 使用受益人名义推荐证明     |  <font color=\"#FF0000\">**×** 使用专业人士名义推荐证明    | <font color=\"#FF0000\"> **×** 使用科研单位名义推荐证明    |",
+    "catalogs": [
+      {
+        "catalog_id": 4842,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-23 16:10:35"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-07-16 17:28:04",
+    "updated_at": "2025-06-12 16:43:56",
+    "nav_flag": 0
+  }
+}

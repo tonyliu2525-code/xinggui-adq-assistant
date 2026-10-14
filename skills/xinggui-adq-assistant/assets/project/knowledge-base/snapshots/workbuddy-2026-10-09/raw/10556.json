@@ -1,0 +1,56 @@
+{
+  "data": {
+    "post_id": 10556,
+    "title": "资金账户清零",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 84092,
+        "name": "账户资金清零申请函2407版.xlsx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2024/396_20240710182331_536609.xlsx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "is_audit": 1,
+        "size": 133457,
+        "size_format": "130.33KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "# 腾讯营销 资金账户清零\n\n| *更新日期* | *2024-7-10* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 对账户资金进行清零，请通过以下方式发起：\n\n\n| 客户类型 | 清空资金类型 | 申请方法 | \n| -------- | -------- | -------- |\n| 客户直签账户 | 现金账户 | 请前往进行退款申请 | \n| 客户直签账户 | 虚拟账户 | 按以下邮件流程发起申请 | \n| 客户直签账户 | 赠送账户专用金 | 按以下邮件流程发起申请 | \n| 客户直签账户 | 其他账户 | 按以下邮件流程发起申请 | \n| 客户子客账户 | 现金账户 | 请联系您的服务商 | \n| 客户子客账户 | 虚拟账户 | 按以下邮件流程发起申请 | \n| 客户子客账户 | 赠送账户专用金 | 按以下邮件流程发起申请 | \n| 客户子客账户 | 赠送账户赠送金 | 请联系您的服务商 | \n| 客户子客账户 | 其他账户 | 请联系您的服务商 | \n| 服务商账户 | 现金账户 | 请前往进行退款申请 | \n| 服务商账户 | 虚拟账户 | 按以下邮件流程发起申请 | \n| 服务商账户 | 赠送账户赠送金 | 按以下邮件流程发起申请 | \n| 服务商账户 | 其他账户 | 按以下邮件流程发起申请 | \n\n# 邮件申请\n*\n## 收件人\n收件人：AMS_JS@tencent.com\n\n抄送人：*[ 您的销售经理/渠道经理 ]*\n\n*\n## 邮件主题\n【腾讯营销】账户资金清零 - *[ 主体名称 ]* - *[ ID ]* - *[ 资金类型 ]*\n\n*\n## 邮件正文\n我司需对账户资金进行清零，具体清空如下：\n| 内容大类\t| 清零信息\t | 客户填写  |\n| -------- |-------- |-------- | \n| 申请人信息 | 申请人姓名\t | |\n| 申请人信息 | 申请人与退款主体的关系\t | 法人/雇员/其他（具体说明）|\n| 申请人信息 | 联系电话\t | |\n| 账户信息 | 账户ID\t | |\n| 账户信息 | 账户主体名称\t | |\n| 申请详情 | 资金账户 | |\n| 申请详情 | 申请清零金额\t | |\n| 申请详情 | 清零原因\t | |\n同时附上申请材料见邮件附件\n\n*\n## 邮件附件\n\t* 《腾讯营销账户资金清零申请函》盖章扫描件，请加盖公章\n\t* 模板见本文末尾\n\n# 注意事项\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4062,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:34:27"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-28 17:38:54",
+    "updated_at": "2024-12-05 15:47:30",
+    "nav_flag": 0
+  }
+}

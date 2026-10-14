@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11041,
+    "title": "腾讯营销助手（小程序）",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、功能介绍\r\n**功能定位：** 腾讯营销助手小程序旨在为客户进行移动场景的快捷修改操作能力\r\n\r\n**功能升级：** 为方便客户在手机端快捷访问账户内旧版和新版的营销，“腾讯营销助手”小程序已全量完成能力升级；可以在新版小程序中查看内容和创意数据、支持预算/出价/投放日期/投放时间等账户和营销层关键信息编辑，并支持营销创意筛选、启用暂停、修改次预算、批量操作营销的能力\r\n\r\n# 二、使用说明\r\n\r\n**功能概览**\r\n\r\n\r\n| 功能页面 | 概览 | 推广-营销 | 推广-创意 | 消息 | 账户 |\r\n| -------- | -------- | -------- | -------- | -------- | -------- |\r\n| 页面概览 |<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151355_204060.jpg\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151355_204060.jpg\" style='width:600px'/></a>|<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151447_273392.jpg\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151447_273392.jpg\" style='width:600px'/></a>|<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151514_063573.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151514_063573.png\" style='width:600px'/></a>|<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151555_145047.jpg\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151555_145047.jpg\" style='width:600px'/></a>|<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151618_756038.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151618_756038.png\" style='width:600px'/></a>|\r\n\r\n小程序入口：微信搜索【腾讯营销助手】或者扫描下方二维码\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151741_645295.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151741_645295.png\" style='width:300px'/></a>\r\n\r\n### 2.1. 新旧版本切换入口\r\n\r\n新版小程序提供与旧版相同的管理/编辑功能，但新旧版的营销数据隔离，不支持在同个管理列表展示\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151840_683208.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108151840_683208.png\" style='width:600px'/></a>\r\n\r\n### 2.2. 支持营销的批量修改\r\n\r\n支持根据营销和创意状态筛选和管理营销，同时右上角批量选择营销后，支持营销维度的批量启用、暂停、修改投放日期、修改投放时间、修改深度目标出价、修改日预算\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108152028_912217.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108152028_912217.png\" style='width:600px'/></a>\r\n\r\n### 2.3. 支持修改次日预算\r\n\r\n概览 - 次日预算支持修改\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108152118_976494.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108152118_976494.png\" style='width:600px'/></a>\r\n\r\n# 三、规划中功能\r\n\r\n• 支持营销一键起量的启用暂停\r\n\r\n• 允许把预算设为不限（日预算、次日预算、营销预算）\r\n\r\n• 创意详情页面支持查看组件维度的设置详情",
+    "catalogs": [
+      {
+        "catalog_id": 4467,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-11-08 15:26:05"
+      },
+      {
+        "catalog_id": 4527,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:45:32"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-11-08 15:24:23",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

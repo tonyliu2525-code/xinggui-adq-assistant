@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13369,
+    "title": "腾讯妙思「灵感」产品使用手册",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1.产品介绍\n灵感是腾讯妙思的创意解读工具，解决“不知道做什么素材”的问题，提供了创意榜单、标签榜单和脚本榜单，用户可通过筛选行业、投放版位等维度，查看灵感内容、获取营销灵感。\n\n# 2.功能介绍\n\n| **入口**\t| 妙思平台 ![2ad2d55e274b41c1c3a412c250e8af64-sz_1741006.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_941381.png)Creative+![d2ab7a7dca527e7e5768622a64fc1cfb-sz_2884726.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_195425.png)| \n| -------- | -------- |\n| **创意榜单**\t| 1.朋友全九图/视频/图片/游戏试玩4个创意榜单<br>2.支持行业/类目、关键词等丰富的筛选方式<br>3.时效性最快支持近1天<br>![f4c57266d7371b6b5fb5ede16b298790-sz_4759141.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_795657.png)<br>4.创意详情页披露投放效果数据、人群分析、视频号内容偏好分析、高光时序分析、创意标签分析![7116a490dffb46a69ea276c0adc62bdc-sz_2916493.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_263524.png)| \n| **标签榜单**\t| 分析跑量广告创意内容标签，聚合到标签粒度形成榜单进行展示。<br>1.支持素材类型包括视频和图片<br>2.标签类型支持开场钩子、制作形式、场景背景<br>3.筛选支持关键词搜索、年龄、性别、行业/类目<br>4.数据时效性最快支持近1天![39e21e41a58864c0a5aa2de44cacbe6c-sz_426317.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_553541.png)| \n| **脚本榜单**\t| 分析跑量广告素材脚本套路，聚合到脚本粒度形成榜单进行展示<br>1.筛选支持行业<br>2.数据时效性最快支持近1天![423a82889b1e8f11c6915b1ba10fbabe-sz_597728.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172840_259582.png)| \n| **AI灵感**\t| 支持用户基于AI灵感里的优质案例裂变生成同款，视频和图片都支持![9385f34d3d38c6a8d8eff0e194bc6e56-sz_4075386.png](https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260714172841_399902.png)| \n<br>\n<br>\n<br>",
+    "catalogs": [
+      {
+        "catalog_id": 5177,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-05-25 14:11:42"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-05-25 11:57:08",
+    "updated_at": "2026-07-15 19:52:07",
+    "nav_flag": 0
+  }
+}

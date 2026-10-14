@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 1756,
+    "title": "优量营销Banner营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "支持应用直达+动态创意双管齐下,助力完成低获客成本。\n\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190808175926_027963.gif'></img>\n\n## 展示位置：\n\n\n固定在App页面内顶/中/底部展示\n\n\n## 素材规范：\n\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220909112355_395150.jpg' style='width:400px;margin-left:20px;margin-right:20px'>\n\n## 售卖方式：\n\n\n点击竞价、智能投放\n\n\n## 日曝光量：\n\n\n5亿",
+    "catalogs": [
+      {
+        "catalog_id": 3727,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:53:32"
+      }
+    ],
+    "created_by_name": "宇逸-付梦妤",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"优量汇投放指南\",\"videoLink\":\"https://tencentads.com/l/ylhtfzn4\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910144026_679550.png\",\"uploadTime\":1725950729476,\"videoId\":\"7b534e06-ef75-4d19-bd8f-ed6f2fc03240\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2020-05-15 19:15:12",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

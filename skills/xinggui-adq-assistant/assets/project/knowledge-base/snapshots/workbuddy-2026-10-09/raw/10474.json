@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10474,
+    "title": "搜索营销配置管理",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年5月26日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n针对搜索直投营销需要从账户维度进行开启/关闭等管理操作的能力，使用搜索营销配置管理工具进行统一管理。当前包括衍生管理和同屏展示管理。\r\n\r\n# 二、解决哪些问题\r\n\r\n● 衍生管理：为提升营销的物料丰富度和点击率，系统支持根据关键词、搜索词、创意等物料生成更多组件，包括子链、图片；衍生管理支持客户开启/关闭该能力。\r\n\r\n● 同屏展示：同一账户内的营销在同一屏搜索结果页中最多展示一个，同屏展示支持展示同一账户内多个营销。\r\n\r\n# 三、使用门槛\r\n\r\n衍生管理和同屏展示适用于搜索直投营销，同屏展示仅对搜索直投营销的【QQ浏览器等】版位生效。\r\n\r\n# 四、操作说明\r\n\r\n## 4.1 入口\r\n\r\n工具——>投放管理——>搜索营销配置管理\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173139_870167.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173139_870167.png\" style='width:600px'/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174600_290750.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174600_290750.png\" style='width:600px'/></a>\r\n\r\n## 4.2 衍生管理\r\n\r\n包括自动衍生素材和自动衍生子链。\r\n\r\n自动衍生素材：默认开启，支持关闭，目前仅对【QQ浏览器等】版位生效；当该选项与投放主流程中的自动衍生素材选项同时打开时，营销的自动衍生素材能力才生效；\r\n\r\n自动衍生子链：默认开启，支持关闭，开启后对搜索直投营销生效；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174704_000529.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174704_000529.png\" style='width:600px'/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173202_385725.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173202_385725.png\" style='width:600px'/></a>\r\n\r\n## 4.3 同屏管理\r\n\r\n默认开启，支持关闭，开启后，在同一屏搜索结果页中可展示账户维度下的多条搜索营销。 仅对搜索直投营销【QQ浏览器等】版位的营销生效。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174805_965267.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607174805_965267.png\" style='width:600px'/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3789,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:20:09"
+      },
+      {
+        "catalog_id": 4533,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:51:54"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-07 17:48:26",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

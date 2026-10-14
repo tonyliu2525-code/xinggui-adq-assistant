@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12648,
+    "title": "直播营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_URGEl\",\"src\":\"https://wxa.wxs.qq.com/wxadtouch/upload/t1/g75gohr7_29d0fbb66fc619f1242a0ad7b376e118.png\",\"caption\":\"视频号原生直播营销\",\"naturalWidth\":750,\"naturalHeight\":1624,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持短视频或实时直播内容推广，直达直播间。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合约售卖、竞价售卖。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_TnrbC\",\"telphone\":4000617816}}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"营销素材样式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"视频号原生直播营销支持 4 种外层样式，客户可根据需求选择对应样式。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"jBVjk\",\"src\":\"https://wxa.wxs.qq.com/wxadtouch/upload/t1/6yaooxjo_cc89964484bebe84d42d2243b29c51cb.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":2662,\"naturalHeight\":1440,\"offset\":\"[object Object]\",\"markPoint\":\"[object Object]\",\"baseWidth\":960}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"相关帮助\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_kCMOB\",\"src\":\"https://doc.weixin.qq.com/doc/w3_APwAnQbDAK4ZJJ49pv2RfulsiKzAy?scode=AJEAIQdfAAoQONGZrAAWIAvQaoACw\",\"text\":\"微信视频号原生营销-直播推广投放指引\",\"rightIcon\":\"arrow-forward\"}}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\" \"}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 3707,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-04 12:16:56"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-10-10 14:27:49",
+    "updated_at": "2026-04-29 18:25:12",
+    "nav_flag": 0
+  }
+}

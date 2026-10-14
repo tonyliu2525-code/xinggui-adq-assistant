@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12902,
+    "title": "12月22日-12月28日",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "尊敬的客户/服务商: 为了维护良好的营销生态环境和用户权益，腾讯营销于2025年6月起，对营销拒绝率高且整改期内拒不配合的客户账户配置营销自动拒绝策略；\r\n<br>如客户三次出现在高拒绝率名单内，将永久禁止该主体（公司）注册成为客户，同时封停已开账户，与客户解除合作。 以下为截止本周整改不合格客户公示（周期12月22日-12月28日）：\r\n\r\n\r\n\r\n|  |**不合格客户公示** |  |\r\n| -------- | -------- | -------- |\r\n| 宜昌市伍家岗区**商贸有限公司    |   辽阳市**百货商贸有限公司  |      |",
+    "catalogs": [
+      {
+        "catalog_id": 4922,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-01-05 15:43:41"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-01-05 15:43:18",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

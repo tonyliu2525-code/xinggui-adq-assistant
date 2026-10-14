@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9554,
+    "title": "视频号直播间配置组件",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.10.10   | \r\n# 一、基础功能介绍\r\n组件、背景图、喝彩图标无需在投放流程进行配置。直播间内跳转能力现有三个可配置项：跳转组件、喝彩图标、背景图。\r\n\r\n客户可提前配置跳转组件，审核侧预审通过后可以待使用，允许配置多个。\r\n# 二、使用门槛\r\n**注：营销组件特指营销提供特有的跳转营销推广页的能力；微信平台本身提供的购物车橱窗、打赏入口、链接推送能力等均不属于营销组件；**\r\n\r\n* 目前营销组件仅可跳转原生页；\r\n* \r\n* 特别注意：\r\n\r\n  *    **电商相关行业暂不支持开通**：当前直播电商仅支持使用微信平台官方提供的能力进行商品售卖（购物车等），不支持使用营销组件进行商品售卖（详见下方「电商带货」介绍）；\r\n\r\n  *    **游戏行业暂不支持开通**：游戏相关的组件需统一走微信平台官方提供的组件能力（含小游戏，游戏下载）；\r\n\r\n* 能力需开通白名单，具体可与腾讯营销行业/渠道运营经理沟通申请；\r\n# 三、产品能力说明\r\n 1. 能力入口：【工具】—【直播间配置管理】\r\n \r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104156_712245.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104156_712245.png\" style='width:600px'/></a>\r\n2. 新建组件：营销组件新建后，需审核通过后才能上架，建议客户提前新建营销组件。\r\n 3. 组件上下架说明\r\n* 组件上架：可新建多个营销组件，同一场直播只能上架一个\r\n\r\n   ○**竞价**：直播营销在投状态下可在工具箱中配置上架\r\n\r\n   ○**合约**：直播营销在投或合约投放投放开始时间前24h可配置上架\r\n\r\n* 直播间推送：营销组件需在上架状态下，主播才可在主播端进行推送，推送后直播间的用户可立即看到\r\n\r\n   ○**跳转组件**：开播过程中可上下架\r\n\r\n   ○**喝彩图&背景图**：直播间开播前，可手动选择上线，直播过程中不能修改或者下线\t\r\n\r\n* 组件下架：直播下播时或营销下线时，营销组件自动会下线；下一场直播要使用时，需重新上架并推送；\r\n4. 彩排模式：\r\n合约可在合约投放投放时间开始前24h，用测试模式/彩排模式等进行试播，上架&推送组件\r\n# 四、直播间组件配置指引\r\n## 1. 转化组件配置说明\r\n1.1. 使用流程\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153232_495738.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153232_495738.png\" style='width:600px'/></a>\r\n1.2. 新建组件\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104229_914366.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104229_914366.png\" style='width:600px'/></a>\r\n1.3. 选择直播的视频号、配置跳转落地页、填写标题文案和描述文案。完成后会提交送审。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153458_293109.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153458_293109.png\" style='width:600px'/></a>\r\n1.4. 支持编辑组件，编辑后会触发送审\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104302_275428.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104302_275428.png\" style='width:600px'/></a>\r\n 1.5. 支持删除组件\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153633_178892.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153633_178892.png\" style='width:600px'/></a>\r\n## 2. 背景图&喝彩图标配置工具\r\n 1.1. 使用流程\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153838_418010.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017153838_418010.png\" style='width:600px'/></a>\r\n1.2. 新建组件\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104329_774888.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104329_774888.png\" style='width:600px'/></a>\r\n1.3. 选择直播的视频号，选择是否启用直播间背景和喝彩图标，完成相关配置\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017154035_867003.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017154035_867003.png\" style='width:600px'/></a>\r\n 1.4. 支持编辑组件，编辑后会触发送审\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104528_069806.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018104528_069806.png\" style='width:600px'/></a>\r\n1.5. 支持删除组件\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017154228_294834.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017154228_294834.png\" style='width:600px'/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:24:34"
+      },
+      {
+        "catalog_id": 4534,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:54:18"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-17 15:42:58",
+    "updated_at": "2025-01-14 14:54:18",
+    "nav_flag": 0
+  }
+}

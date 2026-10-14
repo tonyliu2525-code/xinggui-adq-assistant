@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11158,
+    "title": "第28期-腾讯营销客户工作台",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 【客户工作台】新升级常见问题解析\r\n\r\n**Q1：** 使用新升级的\"腾讯营销客户工作台\"后，老管家账户还能用么？\r\n\r\n**A1：** 短期可以，客户工作台和老管家当前数据是分别独立管理的，但是老管家即将下线，建议您尽快开通”腾讯营销客户工作台“账户。\r\n</br></br>\r\n**Q2：** 使用”腾讯营销客户工作台“后，旧版工作台账户的标签/备注怎么办，是否继续有效？\r\n\r\n**A2：** 有效，您无需担心。当前系统已支持旧版工作台账户的标签/备注自动同步到新升级的“腾讯营销客户工作台”。\r\n</br></br>\r\n**Q3：** 法人默认为主管理员，首次登录必须法人微信号扫码认证吗?\r\n\r\n**A3：** 如果有法人，首次可以用法人微信扫码注册;；如果找不到法人，可以正常注册后联系“行业运营”经理进行修改角色。\r\n</br></br>\r\n**Q4：** 业务单元有什么作用？\r\n\r\n**A4：** 业务单元可以在主体下实现资产共享的能力，以及通过业务单元实现账户以及人员的数据隔离和权限隔离，尤其适用于一个主体下划分不同赛道进行子品牌推广的企业营销管理使用。\r\n</br></br>\r\n**Q5：** 如果集团&主体都没有管理员，谁能建新的业务单元？\r\n\r\n**A5：** 如果集团&主体没有管理员，可以联系“行业运营”经理进行信息提报，进行配置业务单元管理员权限。\r\n</br></br>\r\n**Q6：**  在集团的业务单元下添加账号，显示不归属于此集团怎么办？\r\n\r\n**A6：** 存在以下两种情况：\r\n\r\n① 如果当前主体对应的集团没有客户工作台，需要先创建客户工作台；\r\n\r\n② 如果当前主体对应的集团有客户工作台，需要建立集团关系，在提报主体时关联对应的集团。",
+    "catalogs": [
+      {
+        "catalog_id": 4496,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 14:35:37"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:36:01"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 14:35:25",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

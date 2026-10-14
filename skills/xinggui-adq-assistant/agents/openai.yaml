@@ -1,0 +1,4 @@
+interface:
+  display_name: "xinggui-adq-assistant"
+  short_description: "依据客户业务、后台截图及报表提供腾讯广告开户、投放诊断、创意与复盘"
+  default_prompt: "使用 $xinggui-adq-assistant，根据客户资料与腾讯后台截图提供可执行的投放建议。"

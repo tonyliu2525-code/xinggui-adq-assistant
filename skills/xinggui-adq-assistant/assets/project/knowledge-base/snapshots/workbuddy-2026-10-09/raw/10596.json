@@ -1,0 +1,62 @@
+{
+  "data": {
+    "post_id": 10596,
+    "title": "搜索营销（竞价）",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| **文档更新日期** | **主要更新内容** |\n| -------- | -------- |\n| 2026年1月27日 | 增加常见问题|\n| 2024年6月30日 | 新建文档 |\n\n# 一、能力介绍\n搜索营销（竞价）（以下简称搜索营销）通过关键词匹配搜索词，召回营销和创意，最终实现营销播放。投放端包括4个层级：计划-营销-关键词-创意。 \n\n# 二、操作说明\n## 2.1  投放流程\n### 2.1.1 创建计划\n●设置营销目的和营销载体类型。\n\n| **营销目的**\t| **营销载体**\t| **适用场景**| \n| -------- | -------- | -------- |\n| 用户增长\t| Android应用\t| 提升应用的下载、安装、激活、付费等，适用于有手机客户端应用下载需求的客户| \n| 用户增长\t| IOS应用\t|   同上                               | \n| 加粉互动\t| 微信公众号\t| 推广公众号，吸引更多用户关注| \n| 商品销售\t| 页面跳转\t| 提升线上商品，带来更多客户和订单，适用于电商推广类的客户| \n| 品牌宣传\t| 页面跳转\t| 扩大品牌影响力，吸引更多用户参与活动，适用于品牌曝光强诉求的客户| \n| 线索留资\t| 页面跳转\t| 提升销售线索的获取量，适用于希望通过落地页引导在线转化或线索收集的客户| \n| 用户增长\t| 微信小游戏\t| 吸引更多用户玩小游戏，适用于微信小游戏推广类的客户| \n●设置计划日预算  \n设置计划日预算，控制一个推广计划下所有营销每日消耗总和的最大值\n\n●设置计划总预算  \n设置计划总预算，控制一个推广计划下所有营销消耗总和的最大值\n\n●设置推广计划名称  \n设置推广计划名称，为你的计划设置名称，方便管理；  \n可使用“命名规则”通配符按自定义规则自动批量命名；![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118104849_952069.png)\n\n### 2.1.2 创建营销\n●设置营销形式  \n常规搜索营销：适合常规投放场景或拥有海量商品投放需求的场景，需设置关键词；  \n搜索动态商品营销：适合拥有海量商品投放需求的场景，围绕商品进行投放和动态创意生成，不设置关键词\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118104904_899805.png)\n●设置商品库  \n营销形式=常规搜索营销，商品库和商品系列选填；  \n营销形式=搜索动态商品营销，商品库和商品系列必填；\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118104919_563377.png)\n●设置目标详情  \n○推广目标和目标详情对应关系\n\n| **营销目的**\t| **营销载体**\t| **目标详情**| \n| -------- | -------- | -------- |\n| 用户增长\t| Android应用\t| 应用ID| \n| 用户增长\t| IOS应用\t|    应用ID           | \n| 加粉互动\t| 微信公众号\t| 公众号开发者ID| \n| 用户增长\t| 微信小游戏\t| 小游戏ID| \n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118104933_552285.png)\n\n○转化归因设置  \n■当该账户未开通新版归因链路白名单，需要设置转化归因：可设置为”全网归因“或“精准匹配归因”。  \n 全网归因：表示所有数据源回传的数据都有可能匹配到你的营销；    \n 精准匹配归因：表示只有通过绑定的数据源回传的数据才能匹配到你的营销；  \n■当该账户开通新版归因链路白名单，则无需设置转化归因  \n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118104951_788920.png)\n●设置营销版位  \n支持单独选【微信搜一搜】、【QQ浏览器等】【腾讯营销联盟搜索】版位，支持多版位通投；  \n【微信搜一搜】【QQ浏览器等】支持设置PC、移动流量场景。\n![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105005_840264.png)\n●设置营销定向  \n支持地理位置、年龄等定向。\n![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105023_810164.png)\n●设置排期、出价和预算  \n排期：仅在投放日期和时间内展示营销；  \n出价：支持oCPC和CPC出价方式，oCPC出价方式支持设置优化目标、出价策略；预算\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105035_430019.png)\n●设置营销名称  \n为营销设置名称，方便管理，支持使用命名规则；\n![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105046_442927.png)\n### 2.1.3 创建关键词\n支持系统拓词（以词拓词、行业拓词）、手动填词；  \n出价方式=CPC，关键词支持设置出价；出价方式=oCPC，关键词不支持设置出价；  \n关键词匹配类型详见[匹配类型说明](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQgr1B2a2bQiuiohE0EK?scode=AJEAIQdfAAobNIet3wAWcAGwafAIQ )\n![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105103_758249.png)\n\n### 2.1.4 创建创意\n●创意内容  \n必填：标题、描述、品牌形象、落地页\n![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105117_242918.png)\n●创意组件  \n必填：微信搜一搜版位必填图片或视频；  \n其他组件选填；  \n不同版位下创意组件的支持情况\n\n|            |            |             \t**版位**| \n| -------- | -------- | -------- |\n| **创意组件**\t| **微信搜一搜**\t| **QQ浏览器等/腾讯营销联盟搜索**| \n| 16:9视频\t| 支持\t| 支持| \n| 9:16视频\t| 支持\t| 支持| \n| 16:9单图\t| 支持\t| 支持| \n| 1:1单图 \t| 支持\t| 支持| \n| 0:7banner图\t| 不支持\t| 支持| \n| 1:1三图\t| 不支持\t| 支持| \n| 1:1四图\t| 不支持\t| 支持| \n| 9:16四图\t| 不支持\t| 支持| \n| 行动按钮\t| 不支持\t| 支持| \n| 节日标签\t| 不支持\t| 支持| \n| 1:1图文\t| 不支持\t| 支持| \n| 线索收集组件-电话组件\t| 不支持\t| 支持| \n| 线索收集组件-咨询组件\t| 不支持\t| 支持| \n| 短子链-单条\t| 支持\t| 支持| \n| 短子链-组合\t| 不支持\t| 支持| \n| 长子链-单条\t| 不支持\t| 支持| \n| 长子链-组合\t| 不支持\t| 支持| \n| 列表子链\t| 不支持\t| 支持| \n| 活动促销子链| \t不支持\t| 支持| \n![image (11).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105133_232092.png)\n\n●创意预览  \n可在创意设置区域右侧查看当前设置创意的预览\n![image (12).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105148_998170.png)\n●创意名称  \n支持使用命名规则\n![image (13).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105202_849449.png)\n### 2.1.5 提交营销\n完成推广计划-营销-营销创意的设置后，点击“提交”，将会呈现你所设置的信息，确认无误后点击“提交营销”即可完成营销创建。  \n营销提交成功后，将进入审核。\n![image (14).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105215_023396.png)![image (15).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105219_094836.png)\n\n## 2.2  投后管理\n营销创建完成后，可进入竞价推广-搜索营销推广列表查看已创建的营销情况，并支持设置否定词、查看推广实况、配置推广卫士等。  \n[否定词说明](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQiAt1JscvRuCVrCJdi4?scode=AJEAIQdfAAoM0N9111AWcAGwafAIQ )  \n[推广实况工具操作指引](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQdXVTfdgURGaoAjkQ0y?scode=AJEAIQdfAAoGL3gP30AWcAGwafAIQ )  \n[推广卫士工具操作指引](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQED0Dnu3lSuidNfcvzM?scode=AJEAIQdfAAoSs1dwNmAfsAGwafAIQ )  \n[搜索营销配置管理工具操作指引](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQhqCdS6ohS1udUzyBWj?scode=AJEAIQdfAAoWhhk0AcAfsAGwafAIQ )  \n[搜索营销指定样式工具操作指引](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQaVlm05LLTv6jT9Cb9y?scode=AJEAIQdfAAoMMfoqVwAfsAGwafAIQ )\n![image (16).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251118105232_283171.png)\n# 三、常见问题\nQ：**搜索直投营销层级出价、关键词出价优先级是怎样的？**  \nA：CPC出价方式，关键词出价优先于营销出价；oCPC出价方式，使用营销出价，不设置关键词出价。\n\nQ：**搜索营销竞价排序的规则是怎样的？**  \nA：搜索营销竞价排序主要由综合商业价值eCPM决定。eCPM则主要由客户出价 、质量度综合得分等因素决定。排名按eCPM从高到低排序，eCPM越高，营销竞争力越强，胜出概率越大。其中：  \n●质量度综合得分：基于相关搜索下历史点击转化数据，主要结合用户搜索意向、用户搜索匹配度、创意及落地页质量与相关性等因素，计算出用户搜索场景对营销综合得分。  \n●客户出价：代表客户在投放端表达的出价，出价越高，营销竞争力越强；支持 oCPC、CPC出价方式。\n\nQ：**搜索竞价投放按什么计费？**  \nA：曝光或点击后，按照实际扣费公式计算，实际扣费=下一名eCPM+0.01元。  其中 oCPC 出价方式，平台针对用户意图实时动态出价，满足优化成本的目的。\n\nQ：**搜索竞价投放一般展示在哪些位置？**  \nA：搜索营销一般展示在搜索结果页的首页，具体位置根据竞价排序规则及搜索平台的具体情况会有不同。搜索营销会带有“营销”标识，可通过该标识了解搜索营销展示位。",
+    "catalogs": [
+      {
+        "catalog_id": 3763,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 16:08:10"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:41:29"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [
+      {
+        "tag_id": 531,
+        "name": "热门问题",
+        "tag_category_name": "adq首页",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741147253668,\"videoId\":\"0783bff8-69f8-4239-9d54-61c4ad98d24f\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-07-09 16:06:20",
+    "updated_at": "2026-06-02 10:06:11",
+    "nav_flag": 0
+  }
+}

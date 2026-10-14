@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9089,
+    "title": "计算机深圳",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "您好，**计算机深圳**  主体信息如下：\n\nOU代码：102\n\n签约机构：深圳市腾讯计算机系统有限公司\n\n## 银行账户\n开户名：深圳市腾讯计算机系统有限公司\n\n开户银行：招商银行深圳汉京中心支行\n\n账号：817282299610001\n\n## 发票信息\n纳税人识别号： 91440300708461136T\n\n地址： 深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层\n\n电话： 0755-86013388\n\n开户行： 招商银行深圳汉京中心支行\n\n账号： 817282299610001",
+    "catalogs": [
+      {
+        "catalog_id": 4089,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:10:59"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-05 19:22:40",
+    "updated_at": "2024-07-08 14:10:59",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12625,
+    "title": "贴片营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"贴片营销\"}]},{\"type\":\"video-horizontal-phone-text\",\"attrs\":{\"id\":\"videoHorizontalPhoneText_Xh3fg\",\"src\":\"https://bbx-video.gtimg.com/0bc3yiac4aaahyaeoahxjbufvqwdf3baalqa.f0.mp4\",\"caption\":\"\",\"naturalWidth\":0,\"naturalHeight\":0,\"videoAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"产品优势\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"覆盖手机/电脑/电视/平板多端，全方位触达人群，沉浸式全屏体验，高效传达营销信息\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持媒体\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯视频、腾讯新闻、腾讯体育\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"合约：CPM/CPD/第一刷\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"竞价：CPC/CPM\"}]}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5018,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:39:10"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-22 10:22:53",
+    "updated_at": "2026-04-29 18:25:12",
+    "nav_flag": 0
+  }
+}

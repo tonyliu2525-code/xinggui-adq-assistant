@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12653,
+    "title": "全幅式形态",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_HDMPs\",\"src\":\"https://wxa.wxs.qq.com/wxadtouch/upload/t1/e0kra6r4_2e49c1b3ff34cd8a1a73119ea739839a.png\",\"caption\":\"朋友圈全幅式营销\",\"naturalWidth\":750,\"naturalHeight\":1624,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持品牌在朋友圈推广品牌小程序、自定义H5、原生页、视频号动态、视频号直播及视频号直播预告。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持合约售卖。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_fd4H8\",\"telphone\":4000617816},\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":1}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":1}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":1}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 3706,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-04 18:09:29"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-10-10 15:10:03",
+    "updated_at": "2026-06-05 20:46:06",
+    "nav_flag": 0
+  }
+}

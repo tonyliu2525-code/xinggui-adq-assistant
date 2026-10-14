@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12830,
+    "title": "品牌氛围画廊形态",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_ABju0\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260803172146_564143.gif\",\"caption\":\"朋友圈品牌氛围画廊形态\",\"naturalWidth\":750,\"naturalHeight\":1624,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"产品介绍\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"氛围动效将在用户看到营销形态后、左滑彩蛋动效和全屏动效三个场景下展示。\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"全屏动效中有基于氛围元素生成的品牌色光斑，增强全屏动效的氛围感。\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持合约售卖。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_DiYvs\",\"telphone\":4000617816},\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5083,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-04 18:57:55"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-12-04 18:57:41",
+    "updated_at": "2026-08-03 17:21:54",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9512,
+    "title": "财务信息",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "您可以通过工作台顶部导航进入【财务】模块。  <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016123717_535131.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016123717_535131.png\"/></a>  在【资金管理】页面中，您可以按所属商务管家查看所管理账户的实时余额情况，也可以通过点击【查看财务记录】，查询该账户该账号下历史所有的财务记录数据（从开户日至今），包括营销扣费、服务商的转账和商务管家操作的转账等，支持按年数据下载（单次10w条）。 <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016123805_609000.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016123805_609000.png\"/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3751,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:34:22"
+      },
+      {
+        "catalog_id": 4602,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:40:35"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-16 12:38:33",
+    "updated_at": "2025-01-24 11:36:47",
+    "nav_flag": 0
+  }
+}

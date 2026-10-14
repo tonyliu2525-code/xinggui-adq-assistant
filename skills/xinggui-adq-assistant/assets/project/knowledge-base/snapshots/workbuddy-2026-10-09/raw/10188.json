@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10188,
+    "title": "官方落地页-互动版",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、什么是官方落地页-互动版？\r\n## 1. 官方落地页-互动版的定义\r\n1.⼴义的互动⼴告是指所有拥有互动形式的⼴告，⼴告与⽤户拥有互动性，可以进⼀步提升⽤户的参与感从⽽提⾼⼴告点击率或转化率\r\n2.更详细⼀点的说法，即让⽤户在观看⼴告过程中获得切实的权益（⽐如前置体验app感觉到有兴趣或得到红包奖品等），从⽽激发他们进⽽产生下⼀步行为，包括APP下载、激活，提交客资，加粉，支付等落地页常见的转化行为。\r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701140630_374276.png)\r\n## 2. 官方落地页-互动版的能力\r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701140645_920150.png)\r\n# 二、选择合适的制作方式\r\n官方落地页-互动版在创建过程中，客户经常面临技术/创意能力不足，模板开发效率低，周期长等不同问题，因此，腾讯营销团队针对不同类型的客户，提供不同的官方落地页制作解决方案：\r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701140700_222736.png)\r\n# 三、落地页创建&投放\r\n## 1. 申请白名单\r\n除配置模板和解析zip包目前已全量开放之外，内嵌页面制作方式目前仍需联系行业运营进行加白处理，具体要求见下方对应操作手册。\r\n## 2. 落地页创建\r\n1. 创建入口：[官方落地页-互动版](http://page.e.qq.com/playable/list)  - 我的落地页 - 新建落地页 - 选择创建方式，点击后进入落地页创建页面[官方落地页-互动版](http://page.e.qq.com/playable/list)  \r\n\r\n2. 创建过程中，可根据客户实际的技术，视觉或者创意等能力条件，结合不同方式的优劣势来选择合适的制作方式\r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701140836_943758.png)  \r\n\r\n3. 选择【解析zip包元素】，需提前准备好自制页面，准备技术对接蹊径JSSDK    \r\n1.1 使用门槛：无，目前已全量开放。  \r\n2.2 JSSDK：是官方落地页提供的一种互动试玩落地页制作能力（仅支持下载类），凭借该能力客户可以在自制的h5上接入落地页的下载和转化数据监测等能力。  \r\n3.3 详细能力介绍和对接流程，见：[【互动】JS-SDK接入文档](https://doc.weixin.qq.com/doc/w3_AekA8QavANwCNizAA8yLESs2g5Hvy?scode=AJEAIQdfAAo0rhVYNdAekA8QavANw&isEnterEdit=1&qt_source=Other&qt_report_identifier=1748507146965)  \r\n\r\n4. 选择【内嵌页面】  \r\n1.1 使用门槛：联系您所在行业的行业运营申请开通白名单  \r\n2.2 内嵌：是官方落地页提供的一种iframe页面框架，凭借该能力客户可以内嵌自制的h5，嫁接落地页的下载和转化数据监测等能力，目前仅支持下载类落地页。  \r\n3.3 详细能力介绍，见：[【互动】内嵌互动试玩落地页](https://doc.weixin.qq.com/doc/w3_AekA8QavANwCNHQsCRPITTya5tmpW?scode=AJEAIQdfAAoVw1U1wXAekA8QavANw&isEnterEdit=1)  \r\n\r\n5. 选择【配置模板】  \r\n1.1 使用门槛：无，目前已全量开放。  \r\n2.2 配置模板：提供数十套已成型的互动模板，客户仅需替换模板的图片，音乐、文本、视频，交互动作数值等参数，无需开发即可一键生成专属互动页。  \r\n3.3 详细能力介绍，见：[【互动】模板配置创建互动试玩](https://doc.weixin.qq.com/doc/w3_AekA8QavANwCNjIl4cQ68SR06XB2p?scode=AJEAIQdfAAos98wQwhAekA8QavANw&isEnterEdit=1)  \r\n\r\n6. 选择【云试玩】  \r\n1.1 使用门槛：头部客户邀请阶段，可联系您所在行业的行业运营  \r\n2.2 云试玩：IAP重度类客户摘取游戏代码片段，在先游平台生成符合SDK的代码包后，客户在官方落地页即可完成落地页生成  \r\n3.3 详细测投接入，见：[腾讯营销-云游戏互动营销测试邀请](https://docs.qq.com/doc/DY3RoWUxMSnBVRXha)  \r\n\r\n7. 选择【互动视频】  \r\n1.1 使用门槛：4月底开放头部客户测投，可联系各行业运营进行登记  \r\n2.2 互动视频剪辑台：借助剧情引导拼接生成营销落地页引导下载，可灵活应用于换装场景等互动场景  \r\n3.3 提供经典剧情模板三件套，帮助客户快速创建；同时支持不同行业客户，将内部剧情，场景，任务等进行素图片，音乐，视频等素材进行制作，实现场景还原和前置到营销。  <br>\r\n## 3. 营销创建和投放\r\n1.1 投放指引  \r\n![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141125_471915.png)\r\n其中投放微信流量详见指引：[【蹊径】微信流量下投放蹊径和互动落地页](https://docs.qq.com/doc/DSGlraWJXTWRnT0ZT)  <br>\r\n2.2 定向建议  \r\n●网络定向建议：wifi&4G  \r\n●os定向建议：Android定向Android 6.0及以上；iOS定向iOS10及以上  \r\n●选择落地页，可以同logo区分是否为官方落地页-互动  \r\n![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141217_978684.png)<br>\r\n# 附录：腾讯营销互动优秀案例\r\n## 1. 游戏行业案例\r\n游戏重点关注互动视频，pvr效果基本正向且互动试玩更能筛选精准人群，提升后端付费转化效果\r\n|行业\t|游戏-角色展示-IAP\t|游戏-场景模拟-IAA\t|游戏-剧情走向-IAP\t|游戏-技能展示-IAP\t|游戏-场景还原-IAP|\r\n| -------- | -------- | -------- |-------- | -------- | -------- |\r\n| 适用场景\t| 适用于魔幻/仙侠等RPG角色展示\t| 适用于休闲类小游戏核心场景模拟\t| 适用于有剧情设计引导用户不同走向\t| 适用于关键道具/场景/技能等设计\t| 云直播流技术支撑无需下载即可畅玩。| \r\n| DEMO\t\t\t|![image.gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141635_720253.gif) |![image (1).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141702_706358.gif) |![image (2).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141745_628893.gif) |\r\n![image (3).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141801_820080.gif)|\r\n![image (4).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141822_489862.gif)\t\t| \r\n## 2. 网服行业案例\r\n互动试玩pvr效果基本正向，且互动试玩更能筛选精准人群，后端次日留存转化效果整体正向。\r\n| 行业\t| 网服-内容消费-小说阅读\t| 网服-利益刺激--网赚工具\t| 网服-娱乐消费-视频直播| \r\n| -------- | -------- | -------- |-------- | \r\n| 适用场景\t| 适用于新闻资讯，小说阅读等内容行业\t| 适用于全部行业\t| 适用视频直播动漫音乐等内容娱乐行业| \r\n| DEMO\t\t\t|![image (5).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141839_538634.gif) |![image (6).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141855_072894.gif) |![image (7).gif](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141909_756812.gif) | \r\n## 3. 非下载类行业案例\r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250701141248_021324.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3794,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:10:06"
+      },
+      {
+        "catalog_id": 4551,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:25:54"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销官方建站工具介绍\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/KzvizqnX?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E6%9C%AA%E6%A0%87%E9%A2%98-1(2).jpg\",\"uploadTime\":1741080539180,\"videoId\":\"8b46ca33-6c86-4df6-beab-b4bedd54f02d\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-19 10:48:07",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

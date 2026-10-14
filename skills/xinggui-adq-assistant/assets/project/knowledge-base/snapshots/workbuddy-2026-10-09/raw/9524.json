@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9524,
+    "title": "关键词推荐工具",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 | \r\n| -------- | -------- | \r\n| 2023年10月12日| 支持竞价海量拓词能力|\r\n\r\n# 一、产品介绍\r\n搜索营销是以关键词作为竞价标的，是投放营销最核心、最基础的物料，直接影响客户推广流量和效果。关键词推荐工具，是搜索营销投放平台的基础工具之一，海量拓词 可以理解为是 升级版的 以词拓词，当前线上 以词拓词 一次最多输入10个种子词，导致客户在需要大量拓词时必须反复输入多次，拓词效率低，因此，本次产品升级“海量拓词”功能支持同时对1000个种子词进行 离线拓词，满足客户披露拓词需求。\r\n# 二、工具位置\r\n点击「工具箱」-「关键词推荐工具」，进入工具内部「竞价投放关键词推荐工具」页面\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103320_498996.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103320_498996.png\"/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016155831_529584.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016155831_529584.png\"/></a>\r\n\r\n# 三、使用说明\r\n### 第一步：添加需要 拓展 的种子词，支持单个或批量粘贴种子词，具体要求如下：\r\n* 单次提交种子词数量上限为1000；\r\n* 种子词输入框必填项不能为空；\r\n* 种子词最多支持输入20个汉字，40个英文或数字格式字符；\r\n* 支持“单个删除”或“清空”已填写种子词；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103345_672711.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103345_672711.png\"/></a>\r\n\r\n### 第二步：设置 海量拓词的 筛选条件：\r\n* 支持对地域词\r\n* 推词设置：\r\n  * 支持选择是否包含某一地域的相关词；\r\n  * 支持选择是否需要过滤账户内 已购买的词；\r\n* 流量选择：选择 拓词的流量类型，支持 微信搜一搜、QQ浏览器 两个版位；\r\n* 不包含设置：可以添加否词，拓词词包将不会包含该类型词，否词设置的上限为100；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103410_946607.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018103410_946607.png\"/></a>\r\n\r\n### 第三步：提交拓词任务，等待生成词包，请注意以下几点：\r\n* 仅支持 同时进行 5个拓词任务，如有更多拓词需求，等 拓词任务完成后，再进行尝试；\r\n* 拓词文件有效期为7天，请及时下载拓词词包；\r\n* 如果 任务失败 可能由于 拓词任务繁忙，系统超时 导致，建议可以重新尝试；\r\n\r\n### 第四步：词包生成成功，请及时下载，请注意以下几点：\r\n* 词量：拓词上限100w；\r\n* 指标介绍：\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016160126_721650.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016160126_721650.png\"/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016160135_369787.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016160135_369787.png\" /></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3789,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:34:50"
+      },
+      {
+        "catalog_id": 4533,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:50:39"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-16 16:03:26",
+    "updated_at": "2025-01-14 14:50:39",
+    "nav_flag": 0
+  }
+}

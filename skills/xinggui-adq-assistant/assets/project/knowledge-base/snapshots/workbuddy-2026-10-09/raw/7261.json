@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 7261,
+    "title": "支付订单详情页营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_nhzal\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251031120417_211391.png\",\"caption\":\"支付订单详情页营销\",\"naturalWidth\":780,\"naturalHeight\":1688,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"用户完成线下扫码支付后，向其精准推送营销，满足精准人群触达的营销需求。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"产品特点\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"营销展示在线下支付完成场景，营销直接触达优质的高潜购物消费人群\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持不同售卖方式，兼顾品牌/效果客户需求\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持多种推广页，按需设置营销跳转效果\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持合约售卖、竞价售卖。  \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。  \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_VEFaq\",\"telphone\":4000617816}}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"营销样式\"}]},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_yPPEW\",\"dataSource\":[{\"id\":\"phoneVerticalItem_CcPFS\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105171032_164294.png\",\"caption\":\"大图式卡片\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_dSufe\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105171041_242674.png\",\"caption\":\"视频式卡片\",\"naturalWidth\":422,\"naturalHeight\":910}]}},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_Tx4pQ\",\"dataSource\":[{\"id\":\"phoneVerticalItem_CcPFS\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105171049_728034.png\",\"caption\":\"图片式 banner\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_GQ8Nr\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251105171054_771184.png\",\"caption\":\"图片式卡片（仅支持推广公众号）\",\"naturalWidth\":422,\"naturalHeight\":910}]}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"相关帮助\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_JOmPy\",\"src\":\"https://support.e.qq.com/detail?cid=4551&pid=12342\",\"text\":\"推广页介绍与设计规范\",\"rightIcon\":\"\"}}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"link\",\"attrs\":{\"id\":\"link_pwqSg\",\"src\":\"https://support.e.qq.com/home\",\"text\":\"营销素材审核规范\",\"rightIcon\":\"\"}}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5052,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:24:59"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-07-13 19:29:02",
+    "updated_at": "2026-04-29 18:24:53",
+    "nav_flag": 0
+  }
+}

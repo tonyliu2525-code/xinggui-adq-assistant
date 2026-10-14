@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10597,
+    "title": "落地页使用优先级说明",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年6月29日     | 新建文档     |\r\n\r\n# 一、能力介绍\r\n\r\n搜索营销在创意、关键词、组件三个层级上，都支持DP（iOS对应ulink，Android对应deeplink）、生态（小程序/小游戏/原生页/蹊径落地/官方落地页）、H5三种落地页形式；创意至少有1种落地页；关键词、组件可配置0-3种落地页。\r\n点击组件区域和营销卡片内非组件区域时，按优先级跳转落地页。\r\n\r\n# 二、优先级说明\r\n\r\n不同点击区域对三种落地页优先级</br>\r\n● 点击组件区域时，按照“DP>生态>H5”的优先级进行跳转；DP、生态、H5的取值则按“当前组件>关键词>创意”的优先级来进行填充。</br>\r\n● 点击营销卡片内非组件区域时，按照“DP>生态>H5”的优先级进行跳转；DP、生态、H5的取值则按“关键词>创意”的优先级来进行填充。",
+    "catalogs": [
+      {
+        "catalog_id": 3820,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 16:13:22"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:45:00"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741146741284,\"videoId\":\"4e4508b2-5186-45d8-875c-ad447ad576d7\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-07-09 16:12:37",
+    "updated_at": "2025-03-05 11:52:28",
+    "nav_flag": 0
+  }
+}

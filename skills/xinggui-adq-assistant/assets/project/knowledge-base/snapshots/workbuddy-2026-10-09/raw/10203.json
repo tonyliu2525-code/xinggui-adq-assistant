@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10203,
+    "title": "腾讯营销如翼",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、功能简介\r\n首页为如翼用户提供营销核心指标概览、人群资产概览和人群资产趋势分析三个关键子模块功能，帮助用户洞察投放情况，评估和诊断人群资产状况和趋势，为品牌用户的营销策略决策和优化提供有力的支持。\r\n\r\n# 二、应用场景\r\n* 当品牌用户希望了解某个时间区间内其品牌整体的投放情况，可使用核心指标概览子模块，查看看到时间区间内品牌的所有营销活动的曝光量、花费、人群曝光次数等指标统计。\r\n* 当品牌用户需要了解某个时间点其品牌人群资产的各个指标跟benchmark对比情况，以及本品牌在行业中所处的地位排行，可使用人群资产概览子模块。该模块呈现资产广度、资产深度、资产健康度、资产持久度四个维度的雷达图，可以清晰的看到本品牌与行业benchmark的对比，以及本品牌在行业内的排名。用户可以对品牌的人群资产有一个整体认识和初步诊断。\r\n* 当品牌用户希望评估本品牌的人群资产指标在一段时间内的走势情况，做趋势分析和诊断，可以使用人群资产趋势分析子模块。\r\n\r\n# 三、使用门槛和操作说明\r\n## 1. 使用门槛\r\n\r\n用户账号有腾讯营销如翼旗舰版的权限。\r\n\r\n\r\n## 2. 操作过程\r\n\r\n**1) 进入页面**\r\n\r\n用户第一次登录会默认进入首页， 或通过页面左侧菜单导航栏，点击“首页”菜单，可以进入首页。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319204917_772254.png\" style='width:50px; margin-top:10px'>\r\n\r\n**2) 核心指标概览**\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205009_452937.png\" style='width:1040px; margin-top:10px'>\r\n\r\n选择时间起始区间后，即可查看该时间区间内品牌所有营销的投放汇总后的下列指标：\r\n* 曝光量\r\n* 花费\r\n* 人均曝光次数\r\n* 千次展示均价\r\n* 目标转化成本\r\n* 目标转化量\r\n\r\n鼠标hover到指标上面，会有tips显示该指标的详细说明。\r\n\r\n**3) 人群资产概览**\r\n\r\n选择一个时间点，即可查看截止当日，资产广度、资产深度、资产健康度、健康持久度四维雷达图，展示本品牌和行业benchmark的各指标的对比情况，可以清楚的了解到本品牌在哪些指标上优于benchmark，哪些指标不如benchmark\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205136_296889.png\" style='width:600px; margin-top:10px'>\r\n\r\n左上角可以切换不同的benchmark：行业均值、竞品均值、行业TOP5均值\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205248_474514.png\" style='width:200px; margin-top:10px'>\r\n\r\n可通过右上角【指标设置】按钮，选择需要呈现在雷达图上的指标（最少3个，最多6个指标）\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205521_655118.png\" style='width:1040px; margin-top:10px'>\r\n\r\n每个雷达图下方，显示该指标的行业排名和行业内TOP品牌\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205557_870646.png\" style='width:600px; margin-top:10px'>\r\n\r\n可以在下拉选择中切换其他指标，查看不同指标的行业排名\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205709_197865.png\" style='width:600px; margin-top:10px'>\r\n\r\n**4) 人群资产趋势分析**\r\n\r\n选择时间区间，显示该时间段内某指标和benchmark的趋势：\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205747_422702.png\" style='width:600px; margin-top:10px'>\r\n\r\n可以切换不同的benchmark：行业均值、竞品均值、行业TOP5均值：\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205821_680750.png\" style='width:600px; margin-top:10px'>\r\n\r\n可更换显示的指标：\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319205854_316869.png\" style='width:600px; margin-top:10px'>\r\n\r\n点击右上角【多指标对比】按钮，在弹窗中选择多个指标，可在页面上同时显示多个指标（最多6个），可以一次观看多个指标趋势，方便在多个指标间对比趋势。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319185030_500775.png\" style='width:600px; margin-top:10px'>",
+    "catalogs": [
+      {
+        "catalog_id": 3781,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:01:08"
+      },
+      {
+        "catalog_id": 4529,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:46:56"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销如翼旗舰版功能解析\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/DW3EjnKN?name=eqq_support_nry\",\"videoImg\":\"https://1500003213.vod2.myqcloud.com/43830c39vodtranscq1500003213/71fbc2fe1397757888151985472/coverBySnapshot/coverBySnapshot_10_0.jpg\",\"uploadTime\":1741082654443,\"videoId\":\"f7a0d8b5-b04b-4062-8140-fa95ea82b3f0\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-19 21:00:36",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

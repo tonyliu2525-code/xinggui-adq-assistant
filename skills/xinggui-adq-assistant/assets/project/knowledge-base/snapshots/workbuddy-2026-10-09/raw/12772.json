@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12772,
+    "title": "202511第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**【规则新增】禁投管控新增**\n<br>不支持投放售卖母乳相关产品或服务，包括但不限于新鲜出炉的母乳，母乳冻干等\n\n**【规则新增】电商-阳澄湖大闸蟹资质要求新增**\n<br>素材明确宣传产品为“阳澄湖大闸蟹”需提供国家地理标志相关资质证明\n\n**【规则更新】游戏-赌博类素材规则优化**\n<br>1、不支持推广赌博游戏，包括但不限于百家乐、德州扑克、俄罗斯轮盘等\n<br>2、不支持使用赌博黑话，包括但不限于盘口、跑分、放水等\n<br>3、棋牌捕鱼游戏爆金币场景，素材所展示金币元素不得均带有货币符号或特写货币符号暗示现金交易，包括但不限于人民币符号（¥）、美元符号（$）等\n<br>4、不支持使用疑似赌博元素，包括但不限于类似赌博机形式、数字7+水果元素、滚轮摇杆设计等，且不支持作为主推单一游戏玩法或明确指向现金",
+    "catalogs": [
+      {
+        "catalog_id": 5054,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-11-21 17:12:25"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-11-21 17:12:09",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 1
+  }
+}

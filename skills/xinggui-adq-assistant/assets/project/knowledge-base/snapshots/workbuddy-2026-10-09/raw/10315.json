@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10315,
+    "title": "新资产共享",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、资产共享定义\n\n在某个组织范围内（如业务单元）创建的资产，组织内的账户在投放时可直接自动共享，无需人工授权，提升资产使用效率\n\n# 二、资产共享范围\n\n目前推广产品可以在 “业务单元” 内，进行共享\n\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240424150922_363967.png)\n\n# 三、资产共享方式\n\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240424150944_593865.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3750,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:29:13"
+      },
+      {
+        "catalog_id": 4601,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:39:22"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-24 15:10:08",
+    "updated_at": "2025-01-24 11:35:46",
+    "nav_flag": 0
+  }
+}

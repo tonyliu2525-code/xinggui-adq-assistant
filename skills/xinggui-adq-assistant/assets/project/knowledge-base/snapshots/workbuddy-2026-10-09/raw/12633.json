@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12633,
+    "title": "生态链路",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"生态链路\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"跨场景直达微信生态，释放私域价值\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"小程序推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持一键直达微信小程序页面\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_tqnqr\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251022135456_660878.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1046,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"   \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"小游戏推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持一键直达微信小游戏页面\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_o9zmY\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251022140940_209212.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1046,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"  \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"企微加粉\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持直达微信域内，一键添加企微好友\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_WuXK0\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021195212_555391.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1079,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"   \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"微信客服链路\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持跳转微信客服\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_Pnvyy\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021195220_519292.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1119,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"   \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"视频号直播推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持推广视频号直播\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_EXq6L\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021195224_008556.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1079,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"   \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"微信小店推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持跳转微信小店\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_wQg_2\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021195229_597325.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1079,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5020,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:55:33"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-22 10:30:11",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

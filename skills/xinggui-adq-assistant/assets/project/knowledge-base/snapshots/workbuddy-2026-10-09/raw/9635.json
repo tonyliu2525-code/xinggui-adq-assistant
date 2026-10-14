@@ -1,0 +1,72 @@
+{
+  "data": {
+    "post_id": 9635,
+    "title": "引言",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 引言\r\n\r\n尊敬的合作伙伴，您好\r\n\r\n为了向您提供公开、明确的结算流程及标准，特建立本板块为腾讯营销商务结算的统一对外发布平台，您可通过本板块了解准确、及时的结算规则与流程。若其他外部文档中的结算信息和流程规范与本板块内容有冲突，可能由其他部门转载或已过时效未清理，请以本板块内容为准。\r\n\r\n若对本板块内信息有咨询或异议，欢迎[与我们联系](https://support.e.qq.com/detail?cid=4059&pid=9107)，谢谢。",
+    "catalogs": [
+      {
+        "catalog_id": 4060,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:05:15"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [
+      {
+        "post_id": 9107,
+        "title": "政策管理中心结算运营联系人",
+        "sub_title": "",
+        "memo": "",
+        "keywords": "",
+        "status": 5,
+        "status_text": "已关联目录",
+        "is_webview": false,
+        "webview_url": "",
+        "type": 1,
+        "type_text": "帮助中心",
+        "catalogs": [
+          {
+            "catalog_id": 4059,
+            "excerpt": "",
+            "template_id": 13,
+            "cover_type": 5,
+            "cover_name": "",
+            "cover_image_url": "",
+            "cover_video_url": "",
+            "cover_video_name": "",
+            "first_publish_at": "2024-07-08 11:42:10"
+          }
+        ],
+        "cover_resource": "{}"
+      }
+    ],
+    "has_training": false,
+    "created_at": "2023-10-31 17:48:49",
+    "updated_at": "2024-12-05 15:43:29",
+    "nav_flag": 0
+  }
+}

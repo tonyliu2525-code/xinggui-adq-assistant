@@ -1,0 +1,66 @@
+{
+  "data": {
+    "post_id": 9379,
+    "title": "合约投放",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2025.09   | \r\n# 一、计费类型\r\n合约投放中，目前仅支持CPM（按曝光计费）、CPT（按时间计费）两种计费类型。不同版位在不同合约类型的售卖规则不同：\r\n\r\n<table>\r\n    <thead>\r\n        <tr class=\"firstRow\">\r\n            <th>\r\n                版位及合约类型\r\n            </th>\r\n            <th>\r\n                计费类型\r\n            </th>\r\n           <tbody>\r\n        <tr>\r\n            <td>\r\n             微信朋友圈+所有合约类型\r\n            </td>\r\n            <td>\r\n              CPM、CPT（按小时计费）\r\n            </td>\r\n               <tbody>\r\n        <tr>\r\n            <td>\r\n              微信公众号+“公众号文章关键词合约”类型\r\n            </td>\r\n            <td>\r\n             CPM、CPT（按天计费）\r\n            </td>\r\n    <tr>\r\n            <td>\r\n             微信公众号+其他合约类型\r\n            </td>\r\n            <td>\r\n             CPM\r\n            </td><tr>\r\n            <td>\r\n             微信视频号\r\n            </td>\r\n            <td>\r\n             CPM\r\n            </td>\r\n\t\t\t\t\t\t<tr>\r\n            <td>\r\n             搜一搜品专\r\n            </td>\r\n            <td>\r\n          CPT（按天计费）\r\n            </td>\r\n\t\t\t\t\t\t\t<tr>\r\n            <td>\r\n           浏览器品专\r\n            </td>\r\n            <td>\r\n         CPT（按天计费）\r\n            </td>\r\n\t\t\t\t\t\t\t\t<tr>\r\n            <td>\r\n              腾讯平台与内容营销合约\r\n            </td>\r\n            <td>\r\n         CPM、CPT（按天计费）\r\n            </td>\r\n\t\t\t\t\t\t\t\t\t<tr>\r\n</table>\r\n\t\t\t\t\t\r\n# 二、售卖规则\r\n目前朋友圈信息流、订阅号消息列表、公众号文章底部、公众号文章视频贴片、公众号文章中部、小程序Banner、小程序插屏、支付订单详情页、视频号原生营销 8个营销位支持按曝光量排期购买。搜一搜&浏览器品专支持按天排期购买。\r\n <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241217182449_627729.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241217182449_627729.png\" style='max-height:none;'/></a>\r\n\r\n搜一搜&浏览器品专支持按天排期购买：\r\n\r\n## 1.售卖方式\r\n**按时长计费（CPT）**\r\n\t\t\t\t\t\r\n锁定排期并到达投放时间时，暂停营销、不上传创意、创意拒审都会扣费，请及时提前准备创意或提前取消排期。\r\n\t\t\t\t\t\r\n营销到达投放时间后，将不再支持撤单、修改排期或取消排期，若投放计划有变请在投放开始时间前提前取消排期。\r\n## 2.售卖时长\r\n* 搜一搜品专：90天、360天 和 自定义时长*\r\n* 浏览器品专（品牌词）：30-365天\r\n* 浏览器品专（品牌词）：5-90天\r\n\t\t\t\t\t\r\n## 3.售卖方式\r\n搜一搜品专报价有效期为21天。\r\n\t\t\t\t\t\r\n浏览器品专报价有效期90天；臻选（通用词）30天。\r\n\t\t\t\t\t\r\n完成查询报价后，在展示预计总花费的同时，将同时展示【报价有效期】，该日期为系统返回报价时刻+21天。在有效期内该推广计划的报价不变，超出有效期后需要重新查询报价，请您合理安排时间尽早锁定排期。\r\n\t\t\t\t\t\r\n在报价有效期内，若您仅修改营销的【上线时间】，未修改关键词、持续时间等设置，不影响营销报价。请放心点击【查询报价】，此类修改不会扣除每日的查询报价次数，且报价金额、报价有效期将保持不变。\t\t\t\t\r\n\t\t\t\t\t\r\n## 备注说明\r\n* 核心城市：包含北京和上海。\r\n\t\t\t\t\r\n* 重点城市：包含广州、成都、深圳、杭州、武汉、苏州、重庆、南京、天津、西安、沈阳、长沙、青岛、宁波、郑州、大连、厦门、济南、哈尔滨、福州等 20 个高活跃城市。\r\n\t\t\t\t\r\n* 其他城市：包含除以上22个城市之外的其他城市。",
+    "catalogs": [
+      {
+        "catalog_id": 3796,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:20:01"
+      },
+      {
+        "catalog_id": 3743,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:03:33"
+      },
+      {
+        "catalog_id": 4610,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-02-11 16:43:45"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-21 15:32:43",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

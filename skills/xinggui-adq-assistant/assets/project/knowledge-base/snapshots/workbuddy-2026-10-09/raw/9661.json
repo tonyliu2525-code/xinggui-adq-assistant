@@ -1,0 +1,57 @@
+{
+  "data": {
+    "post_id": 9661,
+    "title": "投放端资金账户简介",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 投放端资金账户简介\n\n| *更新日期* | *2023-11-6* | *内容更新* |\n| -------- | -------- | -------- |\n\n资金账户作为交易的基础，基于不同场景的资金来源，建立了以下类别的资金账户\n\n## 虚拟账户\n包括测试金、补偿金、合约配送金\n\n## 赠送账户\n包括服务商激励（赠送金）、客户激励（专用赠送金or专用金）\n\n## 现金账户\n包括线上充值现金、线下对公转账\n\n## 信用账户\n包括竞价信用金、合约信用金\n\n## 备注\n根据资金不同的充值场景和来源，资金共分为四大类。资金账户作为一种资金池形态，涉及资金安全；同时资金账户系统本身属于会计范畴，使用过程中需要遵守一系列的会计准则。不同类型的资金分别进入不同的资金账户中，其分别有不同的政策规则。在政策结算中，不同的资金类型有不同的政策规则，需分别核对。",
+    "catalogs": [
+      {
+        "catalog_id": 4062,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:03:00"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [
+      {
+        "tag_id": 1,
+        "name": "目录-常见问题",
+        "tag_category_name": "官网帮助中心",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 2,
+        "name": "首页-热门问题",
+        "tag_category_name": "官网帮助中心",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-11-06 19:33:43",
+    "updated_at": "2024-12-17 11:56:43",
+    "nav_flag": 0
+  }
+}

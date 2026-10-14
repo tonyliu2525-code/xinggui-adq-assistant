@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10219,
+    "title": "文化体育娱乐活动审核规则",
+    "sub_title": "V4-0322第二版 -3/7",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、平台要求\n\n### 1. 营销涉及彩票，需在营销中添加警示语：理性购买，量力而行\n\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n| ![彩票业务未添加警示语.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240321142553_818973.png)   | ![彩票业务未添加警示语 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240321142545_860327.png)    | ![彩票业务未添加警示语 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240321142557_070680.png)     |\n| <font color=\"#FF0000\"> × 彩票业务未添加警示语   | <font color=\"#FF0000\"> × 彩票业务未添加警示语    | <font color=\"#FF0000\"> × 彩票业务未添加警示语    |",
+    "catalogs": [
+      {
+        "catalog_id": 4844,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:07:44"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-22 09:34:01",
+    "updated_at": "2025-06-12 16:46:28",
+    "nav_flag": 0
+  }
+}

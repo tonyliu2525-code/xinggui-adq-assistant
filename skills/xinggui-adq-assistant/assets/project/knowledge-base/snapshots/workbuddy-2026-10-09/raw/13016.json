@@ -1,0 +1,51 @@
+{
+  "data": {
+    "post_id": 13016,
+    "title": "AIM+产品矩阵",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_94etA\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260317145457_444055.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1440,\"naturalHeight\":3333,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5142,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-01-21 11:14:21"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [
+      {
+        "tag_id": 531,
+        "name": "热门问题",
+        "tag_category_name": "adq首页",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-01-21 11:14:07",
+    "updated_at": "2026-06-02 10:04:29",
+    "nav_flag": 0
+  }
+}

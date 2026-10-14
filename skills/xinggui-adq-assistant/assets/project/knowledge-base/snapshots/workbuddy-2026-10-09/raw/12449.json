@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12449,
+    "title": "微信小店商品",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【微信小店商品库】适配**已在微信小店开店并完成商品上架**的客户，在腾讯营销推广时，可**通过授权的方式，完成微信小店商品信息拉取**，关联至投放。营销中关联的小店商品信息将会进入腾讯营销模型，并应用于投放优化。\r\n\r\n# 二、两步完成微信小店授权\r\n## 1、授权入口\r\n腾讯营销投放管理平台【[腾讯营销 - 投放管理平台](https://ad.qq.com/)】 -> **工具 ->微信生态授权管理 -> 微信小店授权** \r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814150414_754329.png)\r\n## 2、授权流程\r\n**发起授权->输入小店名称并点击校验（确认是自己要关联的小店）->小店管理员扫码确认授权（必须是小店管理员才能授权）**\r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814150425_301184.png)\r\n## 3、授权状态说明\r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814150440_780955.png)\r\n●**授权成功：可前往创建营销**  \r\n●待授权：已发起该小店授权，请联系小店管理员完成扫码授权；  \r\n●取消授权：该小店授权已被取消，请点击下方重新申请；   \r\n●授权过期：该小店授权已过期，如需续期，请点击下方续期授权关系；   \r\n\r\n# 三、用【微信小店商品】搭建营销\r\n## 1、选择微信小店商品\r\n**创建营销时，在“推广产品”中选择“微信小店商品”，可拉取到已授权小店内【状态正常】的所有小店商品，点选想要推广的商品，操作路径如截图**  \r\n**注意1**：商品为【上架】状态，且关联标品成功（腾讯营销自动关联）的商品才允许投放营销；**商品删除、下架或在审核中均无法投放营销**；  \r\n**注意2**：一条营销仅支持选择一个微信小店商品，不支持对同一个商品创建完全相同的多个营销；\r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814150453_573285.png)\r\n\r\n\r\n## 2、创意落地页\r\n**直跳微信小店商品详情页（推荐）**  \r\n**落地页选择【微信小店商品页】->系统自动拉取营销层级上填写的小店商品信息填入落地页中（不允许编辑）->填入后支持唤起二维码预览页面**\r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814150505_238529.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4978,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-14 15:21:17"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-14 15:20:48",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

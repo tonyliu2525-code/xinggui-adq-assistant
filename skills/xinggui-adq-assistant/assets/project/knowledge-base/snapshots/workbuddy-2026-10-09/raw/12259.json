@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12259,
+    "title": "202505第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 【规则调整】个人护理-口腔护理产品规则\n1. 支持宣传基本清新口气功能文案，如“清新口气”“赶走口腔异味”“口腔难闻快用它”等描述\n2. 不支持使用“祛除/去/解决+口臭”等描述\n3. 不支持使用演绎口腔吐出黄黑污渍，夸大产品使用效果\n4. 未提供备案证明的情况下，不支持描述修护牙釉质\n5. 不支持口腔护理产品素材中利用真人/3D偏病症类画面暗示产品功效\n\n|<font color=\"#FF0000\">**✖**<font color=\"#000000\">图片涉及牙渍洗刷掉落场景展示，暗示产品使用效果，存在夸大使用效果，不支持 | \n| -------- |\n|![口腔护理产品规则驳回案例.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250514175357_960852.png)     |\n\n# 【规则调整】房地产不动产权证-权利类型\n集体产权性质的土地禁止宣传房屋/门店/摊位等售卖，可支持租赁\n\n# 【规则调整】通用-涉及低质PS素材更新\n不得涉及低劣PS人兽素材\n<br>**注**：可支持精美创意设计，如女娲、美人鱼、牛魔王等原创画面非PS相关形象\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\">图片涉及人首蛇身的玄幻类素材，设计感生硬，导致用户体验感较差，不支持 | \n| -------- |\n| ![生硬虚假PS设计-拒绝.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250514175413_563581.png)  |",
+    "catalogs": [
+      {
+        "catalog_id": 4767,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-05-23 17:15:11"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-14 17:55:39",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 1
+  }
+}

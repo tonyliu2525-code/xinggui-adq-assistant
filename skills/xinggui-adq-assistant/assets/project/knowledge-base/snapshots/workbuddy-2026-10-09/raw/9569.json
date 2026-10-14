@@ -1,0 +1,72 @@
+{
+  "data": {
+    "post_id": 9569,
+    "title": "线下信用金账户资金划转流程",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 线下信用金账户资金划转\n\n| *更新日期* | *2023-10-19* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 对信用金在不同账户之间进行划转，且无法通过线上划转功能自助划转，请通过以下方式发起：\n\n# 邮件申请\n*\n## 收件人\n收件人：*[ 您的销售经理/渠道经理 ]*\n\n抄送人：AMS_JS@tencent.com ; AMS_Finance@tencent.com ; connieyin@tencent.com ; nanahu@tencent.com ; yunjingliu@tencent.com ;\n\n*\n## 邮件主题\n【腾讯营销】信用金划转 - *[ 客户名称 ]*\n\n*\n## 邮件正文\n\n\n额度转移原因：*请具体阐述*\n\n转移需求详情：*请按以下表格填写*\n\n|转出/转入\t|集团|\t服务商名称|\t账户ID（ADQ为数字/MP以spid开头）|目前系统授信额度（元） |\t 调整金额（元） \t|  调整后额度（元） \t| 账户类型 \t| 账期 \t| 目前系统可用额度（元） |\n| - |- | -| -| -| -| -| -| -| -| -|\n转出|\tAAA|\tXXX有限公司|\t12345678|\t 1,000,000 \t| -500,000 |\t 500,000 \t |竞价信用账户 |\t X个月 \t| 800,000 |\n转入\t|AAA\t|XXX有限公司|\tspid123456\t| 1,000,000 |\t 500,000 |\t 1,500,000 |\t 竞价信用账户 |\t X个月 \t| 600,000 |\n\n*\n## 邮件附件\n\t* 无法自助划转弹窗截图：*请提供相关截图*\n\t* 需划转账户信用金余额页面截图：*登录账户后台 → 顶端“财务”标签 → “信用金管理” → 进入信用金账户总览进行截图，截图请按下图标准*\n![信用金余额截图.png](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231019184834_850402.png)\n\n# 处理流程\n1. 申请人发起邮件申请信用金账户资金划转\n2. 腾讯营销业务侧复核投放需求和划转需求并邮件回复划转意见\n3. 结算专员内部系统提交划转申请\n4. 内部流程审核后资金划转到账\n\n# 注意事项\n* 请优先使用线上自助划转功能进行划转，请参照帮助中心内[《自助信用金账户资金划转流程》](https://support.e.qq.com/detail?cid=4071&pid=9568)\n* 请于“腾讯营销服务商系统”通过绑定同一集团下不同主体（已签署账期协议或担保函提供互相担保）或者同一主体下不同账号，实现ADQ和ADQ之间信用金跨主体自助互转，ADQ-MP之间同主体自助互转，总授信额度不变\n* 竞价滚动信用额度和合约滚动信用额度不能互转\n* 资金账户的账期不一致不能互转\n* 转移时需转出账户信用金余额大于转出额度\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4071,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:03:50"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [
+      {
+        "post_id": 9568,
+        "title": "自助信用金账户资金划转",
+        "sub_title": "",
+        "memo": "",
+        "keywords": "",
+        "status": 5,
+        "status_text": "已关联目录",
+        "is_webview": false,
+        "webview_url": "",
+        "type": 1,
+        "type_text": "帮助中心",
+        "catalogs": [
+          {
+            "catalog_id": 4071,
+            "excerpt": "",
+            "template_id": 13,
+            "cover_type": 5,
+            "cover_name": "",
+            "cover_image_url": "",
+            "cover_video_url": "",
+            "cover_video_name": "",
+            "first_publish_at": "2024-07-08 14:06:02"
+          }
+        ],
+        "cover_resource": "{}"
+      }
+    ],
+    "has_training": false,
+    "created_at": "2023-10-19 18:53:30",
+    "updated_at": "2024-12-05 15:48:32",
+    "nav_flag": 0
+  }
+}

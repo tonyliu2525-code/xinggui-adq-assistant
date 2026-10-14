@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12619,
+    "title": "社交/工具媒体",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"QQ，一个基于全方位营销场景、致力于创造更多新奇有趣创意玩法的社交平台\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"应用宝，致力于为用户提供丰富、优质、安全、个性化的安卓软件游戏资源和一站式的下载管理体验，全方位覆盖用户的下载、管理、收藏、分享、社交娱乐等多样化需求\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"搜狗输入法，一款跨越多端和多APP的应用，通过表情、皮肤、语音输入等核心功能，在社交/办公/娱乐等多场景提供文字输入和营销触达的一站式服务。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_KIIQi\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226145409_835245.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1932,\"naturalHeight\":1022,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5017,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-09-22 17:47:55"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-18 16:54:29",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

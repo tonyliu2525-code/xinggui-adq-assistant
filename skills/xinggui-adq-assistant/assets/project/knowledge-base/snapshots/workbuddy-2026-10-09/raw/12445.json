@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12445,
+    "title": "推广多个商品",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【商品聚合页库】适用于投放静态的多商品集中展示的业务场景，如不同品牌、规格、款式或促销活动商品集中展示的页面。该产品库包含**电商、零售、餐饮**三个类目，**请客户务必正确选择和本身生意模式相匹配的类目进行资产创建**，模型会根据您创建的正确产品进行找人优化。\r\n\r\n# 二、创建推广产品（客户工作台/服务商系统）\r\n在客户工作台或服务商系统左上角/右上角登录进已创建的“业务单元”中，**仅“业务单元”支持创建和管理“商品聚合页库“的资产。**\r\n\r\n## 1、创建入口\r\n进入后点击“资产”，左侧列表展开推广内容，选择商品聚合页产品库，如下图，如果无法进入到工作台，请参考[【客户工作台】操作手册](https://doc.weixin.qq.com/doc/w3_AXQAsgaGABAGvhwf0N5T5mrc8YELP?scode=AJEAIQdfAAophqJ0z0AXQAsgaGABA)完成前置工作（比如工作台权限、比如先创建好业务单元等）。\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142640_717582.png)\r\n\r\n## 2、创建流程和要求\r\n### 1）创建流程\r\n点击新建产品，出现新建弹框，根据推广需求，选择推广产品所属类目、落地页类型及商品聚合页名称。\r\n\r\n| ①选类目\t| ②选页面类型\t| ③命名商品聚合页名称| \r\n| -------- | -------- | -------- |\t\r\n|   \r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142651_262071.png)     \t|     \r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142700_816304.png)   \t|      \r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142710_923876.png)      \t|\r\n|目前包含电商、零售、餐饮三个类目，请客户务必选择和推广产品本身相匹配的类目进行资产的创建，否则后续上线验真能力后，营销可能会被拒绝。\t\t|支持3种页面类型：<br>1、页面类型，选「自定义落地页」时，需填写自定义url<br>2、页面类型，选「小程序落地页」时，需填写小程序id及小程序连接<br>3、页面类型，选「应用直达」时，需填写应用直达的deeplink链接<br>注意：系统校验落地页URL唯一性，URL值相同时限制创建资产<br>a、自定义落地页：按照 url 的 hash 值来校验唯一性<br>b、小程序落地页：按照小程序id和小程序path的 hash 值来校验唯一性<br>c、应用直达：按照 url 的 hash 值来校验唯一性\t\t|结合自身需求，可对聚合页名称进行命名\t|\r\n\r\n### 2）创建要求\r\n不可在同一个“业务单元“下创建类目完全相同（无关键属性）或者类目*关键属性完全相同的产品。\r\n\r\n### 3）API文档\r\n[商品聚合页api文档](https://doc.weixin.qq.com/doc/w3_AZ4AGwafAIQCNv6DvduowSvSo4BEe?scode=AJEAIQdfAAoVacRqsVAfwAFAZPAF4) \r\n\r\n# 三、使用推广产品（投放管理平台）\r\n● **创建营销时，点击“选择产品”，可拉取到账户所属业务单元下创建的所有产品**。一条营销仅支持选择一个产品，点击“产品信息”可查看具体设置的关键属性。不可对同一个产品创建完全相同的多个营销。  \r\n● **注意**：当账户切换所属的业务单元后，新建营销将只可以拉取到新归属的业务单元下的产品。历史产品（前业务单元的产品）创建的营销建议删除，如不删除，对于相同关键属性的产品，也不可再创建相同的营销。\r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142729_436158.png)\r\n\r\n**特殊情况提醒**：  \r\n➢**资产表达页面类型与营销创建时的落地页类型需一致，系统会进行一致性校验**  \r\n举例：  \r\n\r\n| 资产创建时页面类型为应用直达\t| 营销创建时落地页类型也为应用直达| \r\n| -------- | -------- |\r\n| \r\n![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142749_159105.png)     |  \r\n![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142758_707548.png)        | \r\n\r\n➢**投放落地页url和资产填写的url路径一致校验，系统会进行一致性校验（不校验参数）**  \r\n举例：\r\n\r\n| 资产创建时填写的url为\t| 营销创建时落地页url参数前内容需与资产填写时一致| \r\n| -------- | -------- |\r\n|  \r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142809_780473.png)    |     \r\n![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814142818_606578.png)     |",
+    "catalogs": [
+      {
+        "catalog_id": 4974,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-14 14:29:56"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-14 14:29:36",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

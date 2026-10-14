@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10138,
+    "title": "否词说明",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年2月29日  | 新建文档     |\r\n\r\n# 一、能力介绍\r\n支持对通投营销设置否定词，当用户搜索词匹配到否定词，不展示该否定词所对应的营销。\r\n# 二、适用场景\r\n当关键词匹配到的某些搜索词流量的效果欠佳，可配置否定词屏蔽对应流量。\r\n# 三、操作说明\r\n操作路径： 推广-->营销-->编辑营销否定词\r\n\r\n点击编辑按钮打开「设置否定词」弹窗。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160035_595061.png\" style=\"\r\n    width: 1040px;\r\n\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160039_107398.png\" style=\"\r\n    width: 1040px;\r\n\">\r\n支持设置短语否定词和精确否定词，合计最多设置900个词。短语否定指搜索词包含否定词，精确否定指搜索词与否定词完全一致。\r\n点击「点击新增词」按钮添加否定词。\r\n\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160105_321169.png\" style=\"\r\n    width: 600px;\r\n\">\r\n输入或粘贴否定词后，回车新增词。\r\n\r\n单个否定词最长20个字；同一否定词词面不能同时设为短语否定和精确否定。\r\n\r\n支持编辑、删除单个否定词，支持一键复制和清空全部否定词。\r\n\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160121_186232.png\" style=\"\r\n    width: 600px;\r\n\">",
+    "catalogs": [
+      {
+        "catalog_id": 3818,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:10:53"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:43:52"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741146825334,\"videoId\":\"8845d26b-ed7d-4755-9d0a-0b659a6f0916\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-13 15:45:39",
+    "updated_at": "2025-03-05 11:53:52",
+    "nav_flag": 0
+  }
+}

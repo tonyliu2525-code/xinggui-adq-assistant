@@ -1,0 +1,17 @@
+{
+  "goal": "exposure",
+  "audience_confirmed": false,
+  "event_verified": false,
+  "approved_test_budget": null,
+  "bid": {
+    "unit": "",
+    "business_ceiling": null,
+    "reference": {
+      "source": "",
+      "same_context": false,
+      "unit": "",
+      "low": null,
+      "high": null
+    }
+  }
+}

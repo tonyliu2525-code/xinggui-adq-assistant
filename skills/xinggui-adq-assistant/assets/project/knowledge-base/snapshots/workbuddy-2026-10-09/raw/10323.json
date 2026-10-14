@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10323,
+    "title": "成员管理",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1、成员定义\n\n组织下的真实成员，包含4类角色:\n\n|职务 | 权限 |\n| -------- | -------- |\n| 主管理员     | **·** 企业主要管理者，对该组织下账户拥有查阅数据、操作账户投放等所有最高权限，可新建业务单元<br>**·** 该角色多为企业法人、营销负责人等     |\n| 管理员     | **·** 除无法增加其他成员的管理员权限外，其他权限与主管理员一致<br>**·** 该角色多为投放组长、区域负责人等     |\n| 协作者     | **·** 被主管理员邀请一起管理账户的企业成员，仅能拥有主管理员分配的权限范围，可共享组织资产<br>**·** 主管理员可以根据协作者的角色分配账户及权限 （如：给财务同学分配转账权限）<br>**·** 该角色多为优化师、运营人员、数据分析师、设计师、财务专员     |\n| 未认证员工     | **·** 未通过组织认证的客户管家员工，仅能查看/管理自己名下的账户，无法成为业务单元的管理员     |\n\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104122_758312.png)\n\n# 2、成员管理\n\n## 2.1.添加成员\n\n### 2.1.1.邀请成员加入\n\n如果需要在组织内添加对应的成员，可以在管理-成员管理-添加，将对应的二维码发给对应的成员进行身份验证\n\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104231_345505.png)\n\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104241_500573.png)\n\n### 2.1.2.成员申请审批\n\n**注意：仅组织的主管理员&管理员才可以查看此页面**\n\n完成身份验证的用户，管理员可在此进行审批\n\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104344_109113.png)\n\n## 2.2.编辑成员\n\n### 2.2.1.编辑角色为管理员\n\n**注意：管理员会拥有组织下全部账户的管理权限，请谨慎操作**\n\n![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104433_151352.png)\n\n### 2.2.2.编辑角色为协作者\n\n**注意：除了协作者的角色，还有一些特殊的权限可以给协作者配置**\n\n转账权限：可在组织内进行转账操作\n\n商品库管理权限：可管对应的商品库\n\n保证金管理权限：可使用保证金模块功能\n\n业务单元管理员：可在此组织下创建业务单元\n\n![6.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104517_500844.png)\n\n## 2.3.删除成员\n\n注意：成员删除后再无权限查看此组织数据，请谨慎操作\n\n![7.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426104559_155714.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3754,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:28:18"
+      },
+      {
+        "catalog_id": 4614,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:43:43"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741082437789,\"videoId\":\"e395bc27-d0f6-4faa-ae15-d68dde628e64\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-26 10:47:25",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

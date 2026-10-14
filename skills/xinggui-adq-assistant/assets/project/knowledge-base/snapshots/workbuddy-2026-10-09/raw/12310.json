@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12310,
+    "title": "2025年6月11日",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 维护时间：\n<font color=\"#FF0000\">**2025年6月12日至2025年6月17月**\n<br><font color=\"#000000\">\t注： 具体时间可能会根据维护情况有所调整。<font color=\"#696969\">\n\n\n# 新版官网目录：\n![企业微信截图_20250611103928.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250611103853_828484.png)\n\n# 具体调整如下：\n## 1. 模块融合调整\n![企业微信截图_17496069668104.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250611105257_278184.png)\n\n## 2. 目录拆分\n![企业微信截图_20250611095805.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250611105307_127763.png)\n\n## 3. 内容更新详情\n![企业微信截图_20250611095935.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250611105316_987877.png)\n\n## 4. 模块下线\n![企业微信截图_20250611100022.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250611105326_879927.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4768,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-11 11:27:47"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-06-11 11:25:31",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

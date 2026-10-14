@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13022,
+    "title": "2026年1月26日-2026年2月1日",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "尊敬的客户/服务商: 为了维护良好的营销生态环境和用户权益，腾讯营销于2025年6月起，对营销拒绝率高且整改期内拒不配合的客户账户配置营销自动拒绝策略；\r\n<br>如客户三次出现在高拒绝率名单内，将永久禁止该主体（公司）注册成为客户，同时封停已开账户，与客户解除合作。 以下为截止本周整改不合格客户公示（周期2026年1月26日-2026年2月1日）：\r\n\r\n\r\n\r\n|  |**不合格客户公示**|  |\r\n| -------- | -------- | -------- |\r\n|  贵州**有限公司  |  深圳市**科技有限公司   | 深圳市**科技有限公司 |\r\n|  宿迁**酒业有限公司  |  山东**科技股份有限公司   |嘉鱼县**百货商行(个体工商户)  |\r\n|  宁波市鄞州区**学校  |  北京**科技有限公司   | 许昌市**科技有限公司 |\r\n| 景德镇**有限公司   | 金华**用品有限公司    |杭州**有限公司  |\r\n| 清远市清城区**服饰店(个体工商户)   |  苏州**服饰有限公司   | 四川**商贸有限公司 |\r\n| 泰安市**电子商务有限公司   |  荆州市**百货店(个人独资)   | 浠水县**百货店(个人独资) |",
+    "catalogs": [
+      {
+        "catalog_id": 4922,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-02-09 17:06:07"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-02-09 17:05:53",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

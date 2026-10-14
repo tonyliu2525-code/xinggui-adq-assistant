@@ -1,0 +1,1 @@
+客户安装与使用统一参照同目录《安装与使用.md》。平台能力规则见../../references/host-compatibility.md。

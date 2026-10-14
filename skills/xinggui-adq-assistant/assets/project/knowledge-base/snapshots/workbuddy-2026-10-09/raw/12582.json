@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12582,
+    "title": "202509第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## **【规则调整】通用-“音画不同步、图片/视频播放异常”规则**\r\n1）不支持使用视频字幕与配音或旁白完全不对应的视频\r\n<br>2）不支持使用人物口播与画面不相符的视频\r\n<br>3）不支持使用无法正常打开或加载异常的图片或视频（包括嵌入在落地页中的视频）\r\n<br>4）不支持使用声音异常的视频素材，视频声音需确保播放完整且无杂音\r\n<br>5）不支持因剪辑问题导致画面展示不完整的视频素材，包括但不限于人物头部被截断等情况\r\n<br>6）不支持使用剧烈抖动且无法正常查看内容素材内容的视频\r\n<br>\r\n<br>\r\n## **【规则新增】图书出版/图书出版代办业务-“买卖书号”规则**\r\n1）不支持明示或者暗示宣传买卖书号\r\n<br>2）图书出版周期不支持低于3个月，且不支持直接承诺拿书时间，需添加最快/快至描述\r\n<br>3）图书出版不支持暗示有灰色通道规避正规出版流程，包括但不限于特殊渠道、绿色通道\r\n<br>4）图书出版不支持宣传“共享书号”，实际只能一书一号\r\n<br>5）图书出版不支持直接承诺出版0风险\r\n<br>\r\n<br>\r\n## **【规则新增】平台禁投新增管控**\r\n1）禁止售卖与医院合作挂钩的医生服饰，包括但不限于定制XX医院白大褂等\r\n<br>2）禁止售卖定制医院工作牌等道具，包括但不限于XX大学附属医院工作牌等",
+    "catalogs": [
+      {
+        "catalog_id": 4991,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-09-16 15:18:47"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-16 15:18:20",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13036,
+    "title": "2026年2月期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**【规则更新】电商- 食品级规则调整**\r\n<br>1.美妆个护：不支持使用（包括但不限于）“食品级或可食用”相关表述\r\n<br>2.食品酒水：支持正常使用 （包括但不限于）“食品级或可食用”相关表述，无需额外提供资质证明\r\n<br>3.除美妆个护、食品酒水以外的其他品类：提供资质证明的情况下，可支持使用（包括但不限于）“食品级或可食用”相关表述\r\n<br>**【规则更新】通用-商品/福利饥饿营销活动描述**\r\n<br>未提供加盖企业公章的《营销活动说明函》，不支持在营销中使用（包括但不限于）“马上下架/马上过期”、“不再生产/销售、没有库存”等饥饿营销描述",
+    "catalogs": [
+      {
+        "catalog_id": 5147,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-02-26 15:37:16"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-02-26 15:36:06",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "post_id": 10721,
+    "title": "账户结构及各层级重点功能",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 账户结构及各层级重点功能认知\n## 一. 营销层级的基本认知\n\n一个投放账户下结构包含营销和创意2层级。\n\n营销用于区分物料管理，单个账户下最多可创建5000个营销。\n\n创意分为外层创意和落地页，外层创意即用户看到的前端投放内容，落地页即点击营销进入得落地页，单营销可创建100组创意，开启30个。 \n\n账户结构见下图：\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175049_877815.png\" style=\"\n    width: 600px;\n\">\n## 二. 层级重点功能认知\n\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175217_716897.png\" style=\"\n    width: 600px;\n\">\n## 三. 层级功能设置\n**营销层级**\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175322_512159.png\" style=\"\n    width: 600px;\n\">\n**创意层级**\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175351_587606.png\" style=\"\n    width: 600px;\n\">\n# 投放管理基本思路\n投放可按照投放前账户准备、投放阶段和营销管理阶段三个阶段为基本思路。\n\n**投放前账户准备阶段**\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175534_138765.png\" style=\"\n    width: 1040px;\n\">\n**投放阶段**\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175620_587261.png\" style=\"\n    width: 1040px;\n\">\n附营销目的参考：\n| **行业** | **营销目的** |\n|\n-------- |\n-------- \n| 电商     |   线索留资，商品销售，加粉互动，品牌宣传，用户增长\n| 教育 | 线索留资下，商品销售\n| 游戏 app | 新游首发，新游预约，新游测试，平推期投放\n| 小游戏 | 新客增长，回流触达，新游测试\n营销目的含义：\n|**营销目的** |**描述**\n|\n-------- |\n--------\n| 线索留资     | 收集意向客户商机，开发潜在客户     \n| 加粉互动 | 推广公众号、视频号等生态帐号，带来更多粉丝与互动\n| 品牌宣传 | 扩大品牌影响力，吸引更多用户参与活动\n| 商品销售 | 推广商品、服务，带来更多的客户和订单\n| 用户增长 | 推广线上应用、小程序等获取更多用户的激活与长期价值\n**营销管理阶段**\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175911_051171.png\" style=\"\n    width: 1040px;\n\">\n\n——————————\n![认知.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240330180137_602322.png)\n[**相关课程→**](https://tencentads.com/r/rdsufal)",
+    "catalogs": [
+      {
+        "catalog_id": 3744,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-08-07 16:45:40"
+      },
+      {
+        "catalog_id": 4866,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:40:59"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [
+      {
+        "tag_id": 531,
+        "name": "热门问题",
+        "tag_category_name": "adq首页",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销新投放平台基础认知\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/hraO2zxT?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E6%96%B0%E6%8A%95%E6%94%BE%E5%B9%B3%E5%8F%B0%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5.jpg\",\"uploadTime\":1741071600085,\"videoId\":\"e51f134a-4b99-4533-bad0-03ae0b8ba895\"},{\"videoName\":\"新投放3.0上手指南\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/66?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/sign-img/2024/7/75372b592e3f45d9a95c32eadc5c61e4.png\",\"uploadTime\":1741071522888,\"videoId\":\"6acd00be-5778-457f-b9b7-ba00f4f14ec6\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-08-07 16:37:12",
+    "updated_at": "2026-06-02 10:06:39",
+    "nav_flag": 0
+  }
+}

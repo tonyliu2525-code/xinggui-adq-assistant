@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9381,
+    "title": "选择特定版位",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.9.4   | \r\n\r\n# 一、能力介绍\r\n区别于【自动版位】，【选择特定版位】允许客户指定主要投放的流量版位，帮助客户更灵活地满足特定营销场景。\r\n\r\n# 二、选择特定版位\r\n## 1. 选择特定版位：允许客户指定主要投放的流量版位\r\n### 1.1. 当前展示营销支持流量版位：\r\n* 微信视频号\r\n* 微信朋友圈\r\n* 微信公众号与小程序（微信公众号与小程序；微信新闻插件）\r\n* 腾讯平台与内容媒体（QQ浏览器；QQ、腾讯音乐及游戏；腾讯新闻；腾讯视频）\r\n* 腾讯营销联盟\r\n* PCQQ、QQ空间、腾讯音乐、PC腾讯视频\r\n* 腾讯视频电视端\r\n* QQ购物\r\n\r\n### 1.2. 当前搜索营销支持流量版位：\r\n* 微信搜一搜\r\n* QQ浏览器等\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921154814_744802.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921154814_744802.png\"  style='width:600px'/></a>\r\n\r\n其中，微信视频号、微信朋友圈、微信公众号与小程序（微信公众号与小程序；微信新闻插件）、腾讯平台与内容媒体（QQ浏览器；QQ、腾讯音乐及游戏；腾讯新闻；腾讯视频）、腾讯营销联盟 版位已全量支持全流量通投，**推荐客户投放版位时同时选中进行通投**。\r\n\r\n# 三、全流量通投\r\n## 1. 流程精简门槛降低、快捷投放无压力\r\n### 1.1. 一条投放腾讯营销全媒体，无需分版位创建多条营销\r\n客户可通过一条营销触达腾讯营销所有主流流量版位，相比以往需要针对不同版位创建多条营销，效率倍增。\r\n\r\n### 1.2. 创意形式标准统一，一套素材覆盖所有流量\r\n针对客户此前需针对不同媒体版位需准备多套素材的痛点，腾讯营销对全流量创意形式及对应素材进行了标准化拉通，并通过系统衍生能力智能适配更多素材。客户使用一套视频/图片素材，文案，落地页即可覆盖全流量。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921155832_427188.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921155832_427188.png\" style='width:600px'/></a>\r\n## 2. 数据打通，全局调优，起量达成效能更佳\r\n除了投放环节的打通和精简，腾讯营销投放平台在全流量的调价策略和预估模型也实现了统一。这意味着单营销下可用的数据样本更多、数据积累速度更快，从而大大提高了模型预估的准确性，客户可以更快地度过冷启动，进一步优化营销起量率和效果达成率。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921111005_453692.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921111005_453692.png\" style='width:400px'/></a>\r\n\r\n### 2.1. 新营销探索更充分\r\n通投营销冷启动探索时会充分参考其他流量的跑量情况，累计转化数据，使冷启动探索更精准充分\r\n### 2.2. 跨流量样本复用，效果预估更准确\r\n通投营销的样本跨流量复用，在多个流量同时累积样本，模型积累转化的速度比单投快，bias收敛更快，预估效果更好\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921110009_993751.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921110009_993751.png\"/></a>\r\n\r\n### 2.3. 全局达成调优\r\n通投从全局视角保证营销整体成本达成，通过跨流量协同风控调价，整体成本达成率更高\r\n\r\n## 3. 赔付政策降门槛，成本保障更有力\r\n为最大程度降低客户超成本的风险，针对通投场景，腾讯营销升级了赔付政策，统一 oCPX 赔付的转化数门槛。在保障周期内，只要通投营销总计有 6 个转化，且满足[腾讯营销投放平台赔付政策](https://support.e.qq.com/detail?cid=3773&pid=2004)，即可自动赔付。\r\n# 四、使用门槛\r\n不同流量版位存在行业、政策门槛。若发现部分版位无法投放，请联系您的运营经理。\r\n\r\n# 五、操作说明\r\n## 1. 版位选择\r\n在投放流程【营销版位】中选择【选择特定版位】，即可选择营销优先投放的版位。选择后，投放流程右侧会显示对应版位示意图与预估覆盖人群和曝光量级。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921154814_744802.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921154814_744802.png\" style='width:600px'/></a>\r\n\t\r\n## 2. 创意投放\r\n创意投放流程中，建议使用【自动匹配】创意形式投放模式，并打开【自动衍生更多素材】，让系统自动适配更多尺寸素材，覆盖更多流量。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921113542_754645.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921113542_754645.png\" style='width:600px'/></a>\r\n\t若使用【手动指定】创意形式投放模式，建议选择带有【通投】角标的创意形式，使营销可覆盖全流量版位。\r\n\t<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921113725_077877.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20230921113725_077877.png\" style='width:600px'/></a>\r\n\t\r\n## 3. 分版位数据报表查看\r\n客户也可随时查看分版位的效果数据，获取数据趋势和数据报表，可通过投放平台 -【报表】-【效果数据】，或通过【推广】-【推广计划、营销、营销创意管理列表】-【更多】-【查看数据】进入相关页面。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231012160154_752470.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231012160154_752470.png\"  style='width:600px'/></a>\r\n\r\n# 六、常见问题\r\n**Q1：目前有哪些版位支持一条营销同时通投？**\r\n\r\nA1：目前，微信视频号、微信朋友圈、微信公众号与小程序（微信公众号与小程序；微信新闻插件）、腾讯平台与内容媒体（QQ浏览器；QQ、腾讯音乐及游戏；腾讯新闻；腾讯视频）、腾讯营销联盟 版位已全量支持全流量通投。建议客户投放时同时选择上述全部流量，帮助营销达到更优效果。\r\n\r\n**Q2：发现部分版位无法投放？**\r\n\r\nA2：不同流量版位存在行业、政策门槛。若发现部分版位无法投放，请联系您的运营经理。",
+    "catalogs": [
+      {
+        "catalog_id": 3771,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:23:10"
+      },
+      {
+        "catalog_id": 4552,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:05:07"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】营销创建新流程 6分钟快速指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/kLX2cJpr?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2__2.jpg\",\"uploadTime\":1741078482642,\"videoId\":\"72a92ba9-6f8a-417d-8514-d778abf39b0e\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-21 16:17:01",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

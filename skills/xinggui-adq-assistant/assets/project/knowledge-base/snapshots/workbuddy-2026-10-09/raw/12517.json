@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12517,
+    "title": "微信小程序",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【微信小程序库】是各行业相对通用的推广产品库，主要适用于考核整个微信小程序场内的用户增长/成交的场景。您可根据实际推广诉求，判断微信小程序资产是否和自身生意模式相匹配，从而正确选择实现精准投放。\r\n\r\n# 二、微信小程序产品备案（客户工作台）\r\n在客户工作台或服务商系统左上角登录进已创建的“主体”中，**仅“主体”支持“微信小程序”资产的备案管理**。\r\n## 1、资产备案入口\r\n进入后点击上方的“管理”tab，点击左侧“备案管理”，进入微信小程序的备案页面。\r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901153620_934965.png)\r\n## 2、微信小程序产品备案\r\n1）**备案流程**：  \r\n点击新建备案，出现新建弹框。先填写小程序原始ID，再输入小程序昵称，然后输入小程序主体名称，最后上传资质证明图（股权证明/授权书）。  \r\n➢以上均为必填  \r\n➢一般24小时内审核完成  \r\n![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901153633_853477.png)\r\n2）**备案状态**：  \r\n查看微信小程序的备案状态，“备案成功”后即可进入投放管理平台选择并使用小程序。  \r\n➢如提示备案失败，请点击“详情”查看备案失败原因进行修改并“重新新建备案”。  \r\n![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901153644_856048.png)\r\n\r\n# 三、使用微信小程序产品（投放管理平台）\r\n●在[腾讯营销 - 投放管理平台](https://ad.qq.com/atlas/53195370/overview/index)创建3.0营销时，根据投放诉求选择推广产品为“微信小程序”，输入已备案成功的小程序ID，即可按照需求投放小程序。\r\n![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901153655_947915.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4977,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-09-01 15:38:28"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-01 15:37:44",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

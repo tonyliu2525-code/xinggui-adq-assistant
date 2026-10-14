@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10144,
+    "title": "自动版位稳步探索专题",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "|文档更新日期|主要更新内容| \r\n| -------- | -------- |\r\n|2024年2月28日|新建文档| \r\n|2024年12月2日|修改功能适用范围| \r\n\r\n# 一、产品背景\r\n不同营销所适合的人群和场景不同，因此在每个流量的效果有一定差异，通常客户需积累一定投放经验才能选择合适的特定版位来投放。与此同时，没有投放经验的流量需要客户花费更多的投放精力去探索，也会因此损失本可以扩量拿量的机会。\r\n\r\n为了提升整体的转化效果和拿量能力，我们引入了一种新的投放模式：「客户选择有一定投放经验的流量进行跑量，待效果稳定积累一定数据后，交由系统逐步尝试在扩展流量上拿量，并根据扩展流量的效果进一步调优模型，同时在扩展过程中及时根据效果调整流量范围和预算分配」。\r\n\r\n相比常规的“选择特定版位”投放，稳步探索可以进一步提升营销的拿量能力，在更多场景触达更多转化人群；丰富的多场景转化数据和分阶段探索还有利于模型更快速更稳健地学习，利用已有投放经验的流量的转化数据，平稳地度过扩展版位的冷启动期，降低探索门槛。\r\n\r\n# 二、适用客户\r\n1. 初次尝试通投，担心效果不好的客户\r\n\r\n2. 此前尝试过通投，但发现效果弱于单投的客户\r\n\r\n3. 希望提升拿量能力同时兼顾探索成本的客户\r\n\r\n# 三、功能介绍\r\n1. 基本思路：\r\n\r\n**【先单投，跑得好再通投】** 客户在营销维度下表达预算、成本上限和优选版位，系统**优先在优选版位上快速拿量积累数据，待优选版位稳定跑量后，系统在保证营销整体成本达成的前提下，自动稳步探索至更多版位**，实现成本稳定下更多拿量。\r\n\r\n2. 增益功能：\r\n\r\n\t2.1. 学习各流量转化人群的特征并在优势流量上强化探索，对优势流量给予更充分的探索机会\r\n\r\n\t2.2. 通过流量维度的成本调控，优先保障核心版位的成本稳定，给成本稳定的流量分配更多预算\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160640_008304.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160640_008304.png\" style='width:600px'/></a>\r\n\r\n# 四、使用说明\r\n1. 版位选择「自动版位」、探索策略选择「稳步探索策略」\r\n\r\n2. 根据日常投放习惯或经验，选择优先探索版位\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160944_362162.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319160944_362162.png\" style='width:600px'/></a>\r\n\r\n3. 正常设置其余营销、创意内容投放",
+    "catalogs": [
+      {
+        "catalog_id": 3771,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:04:12"
+      },
+      {
+        "catalog_id": 4552,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:07:16"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 10:40:42",
+    "updated_at": "2025-01-24 11:20:04",
+    "nav_flag": 0
+  }
+}

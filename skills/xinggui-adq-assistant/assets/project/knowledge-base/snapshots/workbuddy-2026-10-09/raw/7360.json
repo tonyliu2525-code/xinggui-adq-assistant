@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 7360,
+    "title": "微信搜索超级品牌专区",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"产品介绍\"}]},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_J0xHC\",\"dataSource\":\"[{\\\"id\\\":\\\"phoneVerticalItem_STNWV\\\",\\\"src\\\":\\\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260408102602_425014.png\\\",\\\"caption\\\":\\\"\\\",\\\"naturalWidth\\\":1206,\\\"naturalHeight\\\":2622}]\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"微信生态全新流量场景，打造可长期沉淀的品牌门户。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"产品特点\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"覆盖微信生态内 10+ 搜索场景，充分承接搜索流量\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"开阔的展示区域凸显官方品质，全方位塑造品牌形象\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"提供丰富的私域组件，便捷满足用户多元需求\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"适用场景\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"品牌专区深度连接品牌内容与用户需求，帮助品牌实现品牌塑造及私域转化等营销诉求。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"用户通过主动搜索品牌词来获取品牌信息、了解咨询品牌服务，同时进入品牌公众号、小程序、微信小店等私域进行信息获取和消费转化。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合约售卖，支持品牌活动推广。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"如有投放意向请联系行业 / 渠道经理或微信营销助手（ad_helper）。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"支持推广目标和对应推广页\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"推广品牌活动\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"品牌背景\"},{\"type\":\"text\",\"text\":\"：不支持跳转\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"基础信息\"},{\"type\":\"text\",\"text\":\"： 公众号主页/视频号主页/微信小程序主页/微信小店店铺主页\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"官方账号\"},{\"type\":\"text\",\"text\":\"：公众号主页 、微信小程序 、视频号主页、微信小游戏\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"官方商品\"},{\"type\":\"text\",\"text\":\"：微信小程序\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"热门活动\"},{\"type\":\"text\",\"text\":\"：微信小程序、微信小游戏、原生页或H5、官方落地页、微信小店商品详情页\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"相关视频\"},{\"type\":\"text\",\"text\":\"：视频号视频动态\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"小店商品\"},{\"type\":\"text\",\"text\":\"：自动拉取小店商品详情页\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"官方权益\"},{\"type\":\"text\",\"text\":\"：微信小程序、自定义链接和官方落地页\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"官方直播\"},{\"type\":\"text\",\"text\":\"：视频号直播\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"外层组件类型\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"品牌专区支持多种组件类型，客户可根据营销诉求选择组件进行配置。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"详情见对外MR文档：\"},{\"type\":\"link\",\"attrs\":{\"id\":\"link_N7utH\",\"src\":\"https://doc.weixin.qq.com/doc/w3_AfwAuQanAD0CNi3a7dPd0QImxEVA1?scode=AJEAIQdfAAofvNnLnxAfwAuQanAD0\",\"text\":\"搜一搜品牌专区（new)--创意设计指南\",\"rightIcon\":\"\"}}]},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"优秀案例\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"众多客户已使用品牌专区进行投放，下滑查看优秀案例。\"}]},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_9XvQo\",\"dataSource\":\"[{\\\"id\\\":\\\"phoneVerticalItem_STNWV\\\",\\\"src\\\":\\\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260407151527_082646.png\\\",\\\"caption\\\":\\\"\\\",\\\"naturalWidth\\\":1206,\\\"naturalHeight\\\":2622},{\\\"id\\\":\\\"phoneVerticalItem_gAp89\\\",\\\"src\\\":\\\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260407151531_411455.png\\\",\\\"caption\\\":\\\"\\\",\\\"naturalWidth\\\":1206,\\\"naturalHeight\\\":2622}]\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 3720,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:54:56"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"微信搜索营销资源\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/8yCGFdhD?name=GW-txgg_bzzx\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240724173555_851505.png\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-08-12 17:58:09",
+    "updated_at": "2026-04-29 18:24:53",
+    "nav_flag": 0
+  }
+}

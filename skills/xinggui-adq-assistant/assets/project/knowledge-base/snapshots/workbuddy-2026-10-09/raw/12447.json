@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12447,
+    "title": "推广微信公众号/企业微信",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 推广的标的物\t| 考核什么\t| 推广产品库选择| \r\n| -------- | -------- | -------- |\r\n| 具体微信公众号\t| 微信公众号场内加粉、互动| \t微信公众号库| \r\n| 企业微信\t| 企业微信账号加粉、转化\t| 企业微信库| \r\n\r\n# 微信公众号库\r\n## 一、定位和适用场景\r\n【微信公众号库】是各行业相对通用的推广产品库，主要适用于考核整个微信公众号场内加粉、互动的场景。您可根据实际推广诉求，判断微信公众号资产是否和自身生意模式相匹配，从而正确选择实现精准投放。\r\n\r\n## 二、微信公众号产品授权\r\n### 1、授权入口\r\n进入[腾讯营销 - 工具 - 首页](https://ad.qq.com/atlas/41971788/tool/index)，点击上方的“工具”tab，选择“微信生态账户授权”。\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145732_564248.png)\r\n在“微信生态账户授权”页面，选择“公众号授权”，进入授权页面。\r\n![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145741_343235.png)\r\n### 2、授权流程\r\n点击“发起授权”，分为「同主体授权」和「跨主体授权」两种模式，其授权流程分别如下：  \r\n\r\n●**同主体授权**    \r\n输入公众号开发者ID（AppID）进行校验  \r\n系统自动校验通过后直接完成授权  \r\n授权有效期可设置1天至永久  \r\n\r\n●**跨主体授权 ** \r\n输入公众号开发者ID（AppID）进行校验  \r\n需补充公众号管理员的相关资质后进入审核，资质材料审核通过后完成绑定  \r\n授权有效期可设置1天至永久\r\n![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145802_932942.png)\r\n\r\n## 三、使用微信公众号产品（投放管理平台）\r\n●授权成功后，创建营销时，根据投放诉求选择推广产品为“微信公众号”，系统自动展示已授权的公众号，即可按照需求投放微信公众号。\r\n![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145813_762768.png)\r\n\r\n# 企业微信库\r\n\r\n## 一、定位和适用场景\r\n【企业微信库】是各行业相对通用的推广产品库，主要适用于考核整个企业微信账号加粉、转化的场景。您可根据实际推广诉求，判断企业微信资产是否和自身生意模式相匹配，从而正确选择实现精准投放。\r\n\r\n## 二、企业微信授权（投放管理平台）\r\n➢进入[腾讯营销 - 投放管理 - 概览](https://ad.qq.com/atlas/53195370/overview/index) ，点击上方“工具”tab，选择“企业微信授权与客服管理”。\r\n![image.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145831_168813.jpg)\r\n\r\n➢点击“工具箱”，选择“企业微信授权与客服管理”。\r\n![image (1).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145843_823412.jpg)\r\n➢点击“授权企业微信”，授权成功后选择“我已授权”，页面将自动刷新，授权成功。\r\n![image (2).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145853_359006.jpg)\r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145905_488158.png)\r\n\r\n## 三、使用企业微信（投放端）\r\n●在[腾讯营销 - 投放管理 - 概览](https://ad.qq.com/atlas/53195370/overview/index) 创建营销时，选择营销目的，然后根据投放诉求选择推广产品为“企业微信”，选择授权成功的企业微信，即可按照需求投放企业微信。\r\n![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250814145914_807393.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4974,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-14 15:00:40"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-14 15:00:17",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

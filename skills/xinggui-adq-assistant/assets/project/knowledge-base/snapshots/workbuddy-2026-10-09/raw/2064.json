@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 2064,
+    "title": "开户",
+    "sub_title": "",
+    "memo": "已生成转换格式文章",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.9   | \r\n\r\n# 一、使用指引\r\n## 1.自助开通账户\r\nstep1：进入腾讯营销官网，点击[注册](https://ad.qq.com/lite/register)\r\n\r\nstep2： 登录官网，可使用QQ/微信，建议使用微信注册\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108141833_546251.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108141833_546251.png\" style='width:600px'/></a>\r\n\r\n\r\nstep3：注册腾讯营销账户\r\n输入微信号/QQ号、手机号以及验证码，确认无误后点击“注册投放账户”，即注册成功。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108141935_286211.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108141935_286211.png\" style='width:600px'/></a>\r\n\r\n\r\nstep4：注册成功后，会自动进入账户认证界面，点击“开始认证”，按系统要求完成“主体认证”、“身份认证”且审核通过后，账户即可开始在 [腾讯营销 - 投放管理平台](https://ad.qq.com/) 投放营销\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108142045_843136.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108142045_843136.png\" style='width:600px'/></a>\r\n\r\n\r\n## 2.通过微信公众平台开通账户流程：\r\n2.1 公众号/小程序/小游戏认证完成以后，就可以正式进行客户开户。登录微信公众平台后台后，选择左侧面板中的“客户”后，点击“立即开户”。若在公众平台注册开户时，遇到认证、实名问题，可通过方式1“自助开通账户”完成开户\r\n![微信图片_20250324142202.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250324142259_096509.png)\r\n\r\n\r\n2.2.同意客户协议后，点击“下一步”\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/100_20230630142707_788671.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/100_20230630142707_788671.png\" style='width:900px'/></a>\r\n\r\n\r\n2.3.选择所属的行业后，根据页面要求上传所需资质，点击“提交审核”即可申请开通营销账号\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/100_20230630142815_433039.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/100_20230630142815_433039.png\" style='width:900px'/></a>\r\n\r\n\r\n# 二、常见问题\r\n\r\n**1.是否有开户咨询电话？**\r\n\r\n如果客户在开户阶段有任何疑问，可以拨打新客户咨询热线：400-061-7810。咨询时间：周一到周五9：00-18:00。\r\n\r\n**2.能否使用私人QQ/微信号进行注册？**\r\n\r\n可以。但是如果您的公司需要有多人使用或查看腾讯营销账户，我们更建议您注册一个新QQ号码/微信号码作为公用账号，以保护您的私人信息安全。\r\n\r\n**3.开户QQ号是否可以修改？**\r\n\r\n可以修改，如果您是由代理商服务的客户，请联系代理商进行修改；\r\n如果您是自行注册的客户或代理商，请填写修改[申请表](https://qzonestyle.gtimg.cn/open_proj/gdt_gw/cms/uploads/申请表20190612.docx)并盖章，将申请表发送至ads_ss@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。\r\n\r\n**4.账户已经注册开通，但资质没有完成认证，后续在哪里继续完成认证？**\r\n\r\n进入腾讯营销官网，使用原账户注册的使用的QQ号或微信登录，登录后在未认证账户列表可以继续完成认证\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108142243_238738.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241108142243_238738.png\" style='width:900px'/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3742,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:25:40"
+      },
+      {
+        "catalog_id": 4585,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 16:45:28"
+      }
+    ],
+    "created_by_name": "zhouzhoufan",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销投放平台开户指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/Spf21CMS?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164832_397522.png\",\"uploadTime\":1740734853761,\"videoId\":\"f5485b74-966b-4bad-9409-4a2d3ebe9995\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2020-05-25 15:37:29",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

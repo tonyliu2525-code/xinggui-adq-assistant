@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 15112,
+    "title": "双幕互动形态",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"image-text-2\",\"attrs\":{\"id\":\"imageText_Yspvd\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260803173156_927597.png\",\"caption\":\"双幕互动形态\",\"naturalWidth\":750,\"naturalHeight\":1624,\"imgAlign\":\"right\"},\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"产品介绍\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"双幕互动形态支持品牌展示双卡片TVC素材，上方叠加产品类透明底视频素材，突出产品细节，通过双屏幕可以串联多代言人，联名素材等剧情类型的TVC；同时通过滑动指引，引导用户参与互动，进一步观看品牌自定义的氛围动效，从而实现品牌TVC传播和提升用户点击互动表现。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持合约售卖。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"如有投放意向，可以联系你的行业 / 渠道运营经理，或拨打我们的销售热线获取帮助。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"销售热线：\"},{\"type\":\"telphone\",\"attrs\":{\"id\":\"telphone_T4eS9\",\"telphone\":4000617816},\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}]}]}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5085,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-08-03 17:32:33"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-08-03 17:32:04",
+    "updated_at": "2026-08-28 15:19:21",
+    "nav_flag": 0
+  }
+}

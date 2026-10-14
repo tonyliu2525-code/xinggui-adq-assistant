@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9510,
+    "title": "页面结构说明",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "账户概览页为卡片样式结构，预设了8种卡片以供用户选择。同时卡片的大小、位置均可以自由调整，以满足不同用户对概览页内容查看的诉求。\n默认结构如下图，包括核心数据卡片、智能投手卡片、账户列表、每日TOP账户卡片、快捷入口卡片、平台动态卡片。\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122205_609580.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122205_609580.png\"/></a>\n您也可以根据个人偏好，对卡片结构进行调整，比如优化师可以将账户列表缩放，使其展示在整个页面中，如下图：\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122247_747790.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122247_747790.png\"/></a>\n也可以设置为主要查看整体数据情况和账户趋势，如下图：\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122312_842186.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016122312_842186.png\"/></a>\n未来将加入更加个性化的卡片类型，满足不同人群对多账户管理的诉求。",
+    "catalogs": [
+      {
+        "catalog_id": 3748,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:33:45"
+      },
+      {
+        "catalog_id": 4599,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:33:22"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741082218493,\"videoId\":\"49a6c9b8-dec1-4afd-bd83-2d2bfab90982\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-16 12:23:55",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

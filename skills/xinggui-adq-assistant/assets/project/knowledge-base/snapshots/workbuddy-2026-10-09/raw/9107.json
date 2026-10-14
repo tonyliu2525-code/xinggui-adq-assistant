@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9107,
+    "title": "政策管理中心结算运营联系人",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 结算运营联系人\n\n| *更新日期* | *2024-6-28* | *人员调整* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n政策管理中心结算运营负责腾讯营销对外结算的相关事宜，包括营销收款、发票管理、政策结算和结算系统管理，具体联系人如下：\n\n\n| 事项 |政策管理中心对接人 |邮箱 | 电话|\n|-------- |-------- |-------- |-------- |\n|结算公共邮箱|AMS_JS|AMS_JS@tencent.com|\n|账单和收款|v_zixinhe(何梓欣)|v_zixinhe@tencent.com|021-54569595-822417|\n|发票|v_zixinhe(何梓欣)|v_zixinhe@tencent.com|021-54569595-822417|\n|客户政策结算|v_lwewliu(刘伟)|v_lwewliu@tencent.com|021-54569595-802143|\n|服务商政策结算|v_lwewliu(刘伟)|v_lwewliu@tencent.com|021-54569595-802143|\n|政策标签管理|v_lwewliu(刘伟)|v_lwewliu@tencent.com|021-54569595-802143|\n|资金充值和操作|v_shipye(叶仕平)|v_shipye@tencent.com|021-54569595-640659|\n|退款管理|v_shipye(叶仕平)|v_shipye@tencent.com|021-54569595-640659|\n|统筹管理|loboli(李渊)|loboli@tencent.com|021-54569595-823882|\n\n* 非专门客服，请于工作日联系，期间可能涉及会议等情况无法接听，请稍后再试",
+    "catalogs": [
+      {
+        "catalog_id": 4059,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:42:10"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-06 18:02:09",
+    "updated_at": "2026-04-30 10:39:56",
+    "nav_flag": 0
+  }
+}

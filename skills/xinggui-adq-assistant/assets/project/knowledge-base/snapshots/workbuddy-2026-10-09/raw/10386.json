@@ -1,0 +1,81 @@
+{
+  "data": {
+    "post_id": 10386,
+    "title": "招商加盟服务审核规则",
+    "sub_title": "V4-2024.5.15-版3",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、法规条令\n\n\n1. 推广知名酒水招商加盟营销，不支持在营销外层及落地页单独使用推广知名酒水的品牌logo/品牌名称，如“茅台集团、贵州茅台集团”\n\n\n| 错误元素示例 | 错误元素示例 |错误元素示例 |\n| -------- | -------- | -------- |\n| ![知名酒水logo名称.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515143115_575683.png)     | ![知名酒水logo名称 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515143303_559415.png)     | ![知名酒水logo名称 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515143503_797197.png)     |\n| <font color=\"#FF0000\"> **✖** 知名酒水Logo/名称     |  <font color=\"#FF0000\"> **✖**知名酒水Logo/名称     |  <font color=\"#FF0000\">**✖** 知名酒水Logo/名称    |\n\n\n- **支持场景：**\n\t - 支持产品包装上商标展示，如“贵州茅台集团及对应Logo”\n\t- 支持口播使用第三方品牌，但不得涉及贬低等不正当商业行为、捆绑与第三方品牌有关联以及其他傍名牌行为\n\t- 素材不得单独使用第三方品牌或Logo作为营销元素，可支持背景环境出现第三方门店等形象\n\t- 字幕不支持出现完整第三方品牌名，但模糊处理可支持，如周某鸭、周X鸭、华X士 \t<br>\n<br>\n\t\n2. 素材中不支持使用茅台名义或者logo，包括但不限于茅台飞天酒水图片或门店门头含有“茅台集团名称及logo”，仅支持使用茅台家族，保健酒厂出品\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n| ![茅台名义及logo.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515144509_746832.png)     | ![茅台名义及logo (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515144804_178870.png)     |  ![茅台名义及logo (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515144941_416394.png)    |\n| <font color=\"#FF0000\"> **✖**茅台名义及Logo    | <font color=\"#FF0000\"> **✖**  茅台名义及Logo    | <font color=\"#FF0000\"> **✖**  茅台名义及Logo    |\n\n\t\n\t\n\t\n3. 因飞天1499不属于保健酒厂出品，故不能同屏一起使用茅台家族+保健酒厂出品\n\n\n| 错误元素示例   | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n| ![茅台家族+保健酒厂.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515145225_477369.png)    |   ![茅台家族+保健酒厂 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515145328_675276.png)   |  ![茅台家族+保健酒厂 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515145447_707693.png)     |\n| <font color=\"#FF0000\"> **✖**  茅台家族+保健酒厂    | <font color=\"#FF0000\"> **✖**  茅台家族+保健酒厂     | <font color=\"#FF0000\"> **✖**  茅台家族+保健酒厂     |\n\t\n\t\n\t\n\t\n4. 不支持招商加盟行业使用“明确的数额收益/明确的结果”的利润描述\n\n\n| 错误元素示例   | 错误元素示例    |  错误元素示例    |\n| -------- | -------- | -------- |\n|  ![明确数额收益结果.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515145834_379277.png)    | ![明确数额收益结果 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515145952_908571.png)     | ![明确数额收益结果 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515150156_032967.png)     |\n| <font color=\"#FF0000\"> **✖**  明确数额收益/结果      | <font color=\"#FF0000\"> **✖** 明确数额收益/结果    |  <font color=\"#FF0000\"> **✖**  明确数额收益/结果     |\n\n\n\t\n\t\n5. 不支持对未来效果、收益或者与其相关的情况作出保证性承诺，明示或暗示保本、无风险或者保收益等内容：<br>\n\t\n   （1）承诺回报或收益描述，如：低投入、高回报、前景好、分成高、为财富铺路、黄金项目、创业无忧、利润高、回报快等承诺收益回报描述\n\n\n| 错误元素示例   |  错误元素示例   |   错误元素示例  |\n| -------- | -------- | -------- |\n| ![承诺回报或收益描述.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515150604_469811.png)   | ![承诺回报或收益描述 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515150704_620067.png)     |   ![承诺回报或收益描述 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515150754_602591.png)  |\n| <font color=\"#FF0000\"> **✖**   承诺回报或收益描述   | <font color=\"#FF0000\"> **✖**  承诺回报或收益描述     | <font color=\"#FF0000\"> **✖** 承诺回报或收益描述     |\n\n\t\n\n\n（2）使用表述项目无风险的描述，包括但不限于”无压力，无忧，无风险，零风险“\n\n\n| 错误元素示例   |  错误元素示例   | 错误元素示例   |\n| -------- | -------- | -------- |\n| ![项目无风险描述.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515151030_926734.png)     | ![项目无风险描述 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515152251_803630.png)     | ![项目无风险描述 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515152416_957924.png)     |\n| <font color=\"#FF0000\">  **✖**  项目无风险描述     | <font color=\"#FF0000\">  **✖**    项目无风险描述     | <font color=\"#FF0000\">  **✖**   项目无风险描述     |\n\n\t\n\t\n\n（3）不支持招商加盟行业单独使用高收益、高回报、高利润、高盈利\n\n\n| 错误元素示例      | 错误元素示例     | 错误元素示例      |\n| -------- | -------- | -------- |\n|  ![高收益回报利润盈利描述.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515152901_061150.png)   |  ![高收益回报利润盈利描述 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515151131_236936.png)     | ![高收益回报利润盈利描述 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515153920_749613.png)    |\n| <font color=\"#FF0000\">   **✖**  高收益/回报/利润/盈利描述    |   <font color=\"#FF0000\">  **✖**  高收益/回报/利润/盈利描述     | <font color=\"#FF0000\"> **✖**  高收益/回报/利润/盈利描述     |\n\n\t\n- **支持场景：**\t\n\t\n\t - 支持招商加盟行业搭配愿景类词汇，包括但不限于：高收益、高回报、高利润、高盈利\n\t - 支持使用“轻松创业”\n\t\n\t\n| 正确元素示例 | 正确元素示例 | 正确元素示例 |\n| -------- | -------- | -------- |\n| ![承诺夸大-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515154157_491696.png)     | ![承诺夸大-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515154332_148773.png)     |  ![承诺夸大-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515154506_646205.png)    |\n| <font color=\"#008000\"> **√**  仅供参考     | <font color=\"#008000\"> **√** 仅供参考     | <font color=\"#008000\"> **√**  仅供参考    |\n\n\t\n\t\n\t\n## 二、平台要求\n\t\n\n1. 推广招商加盟需使用蹊径落地页/原生推广页/附近推二维码落地页\n\t\n\n| 错误元素示例 |  错误元素示例   | 错误元素示例 |\n| -------- | -------- | -------- |\n|  ![招商加盟外链推广.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240515154831_038849.png)    | ![招商加盟外链推广 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516093950_406767.png)   | ![招商加盟外链推广 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516094147_059212.png)   |\n| <font color=\"#FF0000\">   **✖**  招商加盟外链推广 | <font color=\"#FF0000\">  **✖**  招商加盟外链推广  | <font color=\"#FF0000\">   **✖**  招商加盟外链推广   |\n\n\t\n- **支持场景：**\n\t\n  - 招商加盟平台支持使用自己平台对应的域名链接或蹊径落地页/原生推广页\n\n\n| 正确元素示例   | 正确元素示例 | 正确元素示例   |\n| -------- | -------- | -------- |\n|   ![外链-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516094519_693194.png)   | ![外链-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516094650_559795.png)     |  ![外链-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516094825_287033.png)    |\n| <font color=\"#008000\">  **√** 仅供参考     | <font color=\"#008000\"> **√**  仅供参考     | <font color=\"#008000\"> **√**  仅供参考     |\n\n\n\t\n2. 推广招商加盟需在营销素材或落地页中添加警示语：\n\t- 警示语：创业/加盟有风险，投资需谨慎\n\t- 如为视频营销，需在营销全程展示\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n| ![招商加盟未添加警示语.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516095149_442133.png)    |   ![招商加盟未添加警示语 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516095356_738237.png)   | ![招商加盟未添加警示语 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516095506_199022.png)     |\n| <font color=\"#FF0000\">   **✖**  招商加盟未添加警示语   | <font color=\"#FF0000\">  **✖**  招商加盟未添加警示语    | <font color=\"#FF0000\">   **✖**   招商加盟未添加警示语     |\n\n\n\n\t\n3. 若涉及茅台家族或出品厂商名义，需在落地页顶部标注客户体名称，标注格式：“本产品/招商由XXX（客户主体）销售/承办/经销”\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n|   ![茅台名义未明确客户招商属性说明.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516095904_174886.png)   |  ![茅台名义未明确客户招商属性说明 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516100040_226126.png)      |  ![茅台名义未明确客户招商属性说明 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516100150_820218.png)   |\n| <font color=\"#FF0000\">  **✖**  茅台名义未明确客户招商属性说明 | <font color=\"#FF0000\">  **✖**    茅台名义未明确客户招商属性说明  | <font color=\"#FF0000\">  **✖**   茅台名义未明确客户招商属性说明  |\n\n\n| 正确元素示例 | 正确元素示例  | \n| -------- | -------- | \n|   ![茅台名义未明确客户招商属性说明-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516100604_348135.png)   |   ![茅台名义未明确客户招商属性说明-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516100630_125414.png)   |\n| <font color=\"#008000\"> **√**  仅供参考    | <font color=\"#008000\"> **√**  仅供参考     | \n\n\t\n\n\n4. 落地页使用酒水出品厂商，如贵州茅台酒厂（集团）保健酒有限公司出品/生产（需使用茅台保健酒厂全称，且文案须在“本产品/招商由XXX（客户主体）销售/承办/经销”文案下方\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n|   ![落地页未标注茅台酒水出品厂商全称.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516142954_089065.png)   | ![落地页未标注茅台酒水出品厂商全称 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516143905_435163.png)     |  ![落地页未标注茅台酒水出品厂商全称 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516144006_133199.png)    |\n| <font color=\"#FF0000\"> **✖**  落地页文案展示位置不合规    |   <font color=\"#FF0000\"> **✖**   落地页文案展示位置不合规   | <font color=\"#FF0000\"> **✖**    落地页文案展示位置不合规     |\n\n\t\n\t\n\t\n5.  招商加盟品牌<br>\n（1）投放内容中必须体现招商加盟品牌<br>\n（2）营销宣传的招商加盟品牌与所提交的商标注册证品牌需保持一致\n\t\n\n| 错误元素示例 |   错误元素示例   |   错误元素示例   |\n| -------- | -------- | -------- |\n| ![未体现招商加盟品牌.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516165922_405023.png)     | ![未体现招商加盟品牌 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516165939_479375.png)     | ![未体现招商加盟品牌 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240516165954_309044.png)   |\n|  <font color=\"#FF0000\">**✖**   未体现招商加盟品牌     | <font color=\"#FF0000\">  **✖**   未体现招商加盟品牌   |  <font color=\"#FF0000\"> **✖**  未体现招商加盟品牌     |\n\n\n\t\n\t\n## 三、资质要求\n\t \n\t\n\t\n1. 推广招商加盟行业的商标业务时，需提供正式的商标注册证，且接受商标的二级授权，即A>B>C，但A授权B的授权函中需明确说明B有继续授权商标的权利描述\n\n\t\n\t\n2. 推广招商加盟行业的商标业务时，需提供商标局盖章的商标受理通知书，且针对受理通知书不支持涉嫌傍名牌\n\n\t\n\t\n3. SGS验证<br>\n（1）知名酒水核心品牌名单内，仅支持一级经销商授权SGS验证<br>\n（2）知名酒水非核心品牌名单内部分，支持二级经销商授权SGS验证<br>\n（3）非知名酒水无需SGS验证",
+    "catalogs": [
+      {
+        "catalog_id": 4839,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 18:43:13"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [
+      {
+        "tag_id": 533,
+        "name": "概览页branner",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 532,
+        "name": "概览页",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 640,
+        "name": "最新推荐",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 642,
+        "name": "new",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 646,
+        "name": "推荐列表",
+        "tag_category_name": "服务商效维客小程序",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 647,
+        "name": "全部文章",
+        "tag_category_name": "服务商效维客小程序",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-05-15 14:37:13",
+    "updated_at": "2025-06-12 16:40:26",
+    "nav_flag": 0
+  }
+}

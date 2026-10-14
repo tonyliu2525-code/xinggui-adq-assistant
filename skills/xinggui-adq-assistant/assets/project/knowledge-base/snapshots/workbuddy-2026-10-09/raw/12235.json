@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12235,
+    "title": "202505第一期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 【规则新增】通用-未成年人形象不当牟利管控\n## （1）禁止恶搞儿童、博取眼球\n* 使用刀具类道具制造伤害儿童肢体场景（包括但不限于假装砍手/脚等）\n* 以惩罚为名对孩子实施侮辱行为（包括但不限于扔食物、涂抹污物等）\n* 刻意制造儿童惊恐/痛苦表情的猎奇场景\n## （2）禁止虚假摆拍、制造争议\n* 婚恋相关剧情（包括但不限于分手、相亲等）\n* 模仿成人不良行为（包括但不限于吸烟、酗酒等）\n* 摆拍亲子冲突剧情（包括但不限于暴力、教唆、父母对抗等）\n## （3）禁止不当言行、歪曲导向\n* 未成年人进行物质炫耀展示，包括但不限于：奢侈品开箱特写、现金/账户余额展示、刻意对比产品价格差等\n* 以教育为名刻意让未成年人演绎不当行为、作出危险动作\n## （4）禁止违规引流、规避打击\n* 以“举牌”售卖所谓定制图片、发布定制内容\n* 引流添加好友，通过“一对一”交流等隐蔽形式传播负面内容",
+    "catalogs": [
+      {
+        "catalog_id": 4767,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-05-09 16:06:33"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-06 09:40:13",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

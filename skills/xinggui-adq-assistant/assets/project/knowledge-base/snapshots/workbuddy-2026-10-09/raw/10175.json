@@ -1,0 +1,68 @@
+{
+  "data": {
+    "post_id": 10175,
+    "title": "基本功能及类型",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 基本功能及类型\n腾讯营销投放平台（[ad.qq.com](https://ad.qq.com/)），是为客户提供的一站式投放系统，可触达腾讯生态包括微信朋友圈、微信公众号与小程序、QQ、腾讯信息流、腾讯音乐、腾讯新闻与腾讯视频、腾讯营销联盟等全域流量，以及QQ浏览器等和搜一搜的搜索资源。同时，涵盖营销优化、数据分析、创意生产、托管投放等功能，帮助客户实现营销推广的目标。 \n\n**全时全景覆盖**：腾讯拥有丰富的海量流量产品，覆盖用户各个使用场景，7×24 小时无缝触达您的目标客户\n\n**锚定营销目标**：定制化投放方案，高效达成你的各种营销目\n\n**多维智能定向**：覆盖全国海量网民的腾讯账号体系，千万级标签实现人群智能投放，系统智能定向，自动匹配更多高转化人群\n\n**一站式智能投放**：基于腾讯营销先进算法引擎，实现全链路智能投放，助力客户“智能拓客，高效转化”\n## 一. 投放平台类型简介\n从场景应用维度，腾讯投放平台包括：投放平台、开发者平台和腾讯营销助手小程序。\n\n\n| 平台 | 访问地址 | \n| -------- | -------- | \n| 投放平台    | [腾讯营销 - 投放管理平台](https://ad.qq.com/)     |\n| Marketing API（开发者平台） |[开发者专区 - 腾讯营销](https://developers.e.qq.com/)   |\n| 腾讯营销助手小程序     |\n![400.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240320142635_265044.png)|\n\n\n### 1. 开户方式\n**腾讯营销投放平台开户**\n\n途径一：营销中心开户\n\n方式1：拨打400 061 7810联系我们；\n\n方式2：在腾讯营销官网（e.qq.com）首页留下您的联系方式，我们会安排专业的咨询顾问为您提供相关服务；\n\n方式3：扫码下方二维码，微信关注“腾讯营销服务号”，直接回复消息，在线客服将为您提供咨询服务。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240314143502_543591.png\" style=\"\n    width: 200px;\n\">\n途径二：官网自助开户\n\n1、登录腾讯营销官网，点击 [腾讯营销 | 注册](https://e.qq.com/reg-new/)\n\n2、点击官网注册入口-填写基本信息-绑定QQ或微信号-注册成功提示\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319170847_244684.png\" style=\"\n    width: 600px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319171525_253443.png\" style=\"\n    width: 600px;\n\">\n**腾讯营销开发者平台（Marketing API） 开户**\n登录腾讯营销开发者平台 （[开发者专区 - 腾讯营销](https://developers.e.qq.com/)），点击右上角注册，根据页面提示填写基本信息、关联QQ号即可注册完成。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319171829_088056.png\" style=\"\n    width: 600px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240314144311_868916.png\" style=\"\n    width: 600px;\n\">\n**FAQ**\n\n① 是否有开户咨询电话？\n\n如果客户在开户阶段有任何疑问，可以拨打新客户咨询热线：400-061-7810。咨询时间：周一到周五9：00-18:00。\n\n② 能否使用私人QQ/微信号进行注册？\n\n可以。但是如果您的公司需要有多人使用或查看腾讯营销账户，我们更建议您注册一个新QQ号码/微信号码作为公用账号，以保护您的私人信息安全。\n\n③ 开户QQ号是否可以修改？\n\n可以修改，如果您是由代理商服务的客户，请联系代理商进行修改； 如果您是自行注册的客户或代理商，请填写修改申请表并盖章，将申请表发送至ads_ss@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。\n### 2. 登录方式\n**腾讯营销投放管理平台**\n可点击下方任一链接，采用绑定的QQ或者微信进行登录进行登录：\n\n[腾讯营销 - 投放管理平台](https://ad.qq.com/)\n\n[腾讯营销-助力企业实现营销目标](https://e.qq.com/ads/)\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319172110_469099.png\" style=\"\n    width: 600px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319172131_145320.png\" style=\"\n    width: 600px;\n\">\n**腾讯营销开发者平台（Marketing API） 登录**\n\n可采用绑定的QQ或者微信进行登录进行登录：\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319172447_225647.png\" style=\"\n    width: 600px;\n\">\n### 3. 提交资质\n\n提交资质入口：投放管理平台>-推广>-账户中心\n\n涉及资质：营业执照、法人身份证正反面照片、选择所属行业、上传行业所属资质，提交账户审核。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319172556_933146.png\" style=\"\n    width: 1040px;\n\">\n### 4. 身份验证\n\n身份验证入口：投放管理平台>-点击账户中心>-身份验证\n\n身份验证方案全面升级，按提示完成身份验证，当[身份验证结果]为“通过”时方可进行营销费充值/转账\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319172838_560626.png\" style=\"\n    width: 1040px;\n\">\n### 5. 充值\n\n充值入口：投放管理平台>-点击财务>-财务信息>-充值\n\n详情参考：https://e.qq.com/ads/helpcenter/detail?cid=3255&pid=9292\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173006_111376.png\" style=\"\n    width: 1040px;\n\">\n### 6. 开具发票\n\n开票入口：投放管理平台>-工具>-保证金管理平台资金管理>-资金操作>-申请开票\n\n详情可参考：https://e.qq.com/ads/helpcenter/detail?cid=3230&pid=9668\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240322102600_191338.png\" style=\"\n    width: 1040px;\n\">\n\n### 7. 行业特点\n\n根据开户行业自动匹配对应的行业版本，ad.qq.com登录后即进入投放平台。平台根据行业特点，提供符合行业特点的投放策略支持。\n如：\n\n交通行业：提供线索留资、用户增长等营销目的供客户选择使用。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173225_578900.png\" style=\"\n    width: 1040px;\n\">\n游戏行业：提供新游首发、新游预约、新游测试、平推期投放等营销目的供客户选择。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173418_928904.png\" style=\"\n    width: 1040px;\n\">\n## 二. 新工作台创建行业产品库\n新开账户后，根据系统提示和操作指引加入新工作台，并在新工作台创建业务单元->行业产品库后，方可创建营销。\n### 开户后加入新工作台\n新开账户后，根据系统提示和操作指引加入工作台\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173508_355749.png\" style=\"\n    width: 1040px;\n\">\n### 创建业务单元\n业务单元名称：业务单元命名，30字以内\n\n业务单元描述：用于描述当前业务单元的主要用途、意义、使用场景\n\n关联投放账户：关联业务单元的投放账户。针对投放账户创建营销时，可使用关联业务单元的资产\n\n业务单元成员：业务单元的管理员及协作者。可基于业务单元创建资产\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173544_991593.png\" style=\"\n    width: 1040px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173602_894267.png\" style=\"\n    width: 1040px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173615_002190.png\" style=\"\n    width: 1040px;\n\">\n### 创建行业产品库\n登录业务单元后，根据操作指引创建行业产品库。同业务单元下的行业产品库可共享。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173809_841840.png\" style=\"\n    width: 1040px;\n\">\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319173818_789257.png\" style=\"\n    width: 600px;\n\">\n以上操作的详细步骤可参考：[新工作台&新资产创建流程指引](https://doc.weixin.qq.com/txdoc/apply_page?doctype=doc&docid=w3_ACoA4QbEACcA12uMFgBQTaCwnwFcN&k=AJEAIQdfAAopAt0QEwAagAIAafAIQ&redirect_url=https%3A%2F%2Fdoc.weixin.qq.com%2Fdoc%2Fw3_ACoA4QbEACcA12uMFgBQTaCwnwFcN%3Fscode%3DAJEAIQdfAAopAt0QEwAagAIAafAIQ#/apply)\n### 创建营销\n完成业务单元和行业产品库的创建后，接下来可在投放平台继续进行创建营销等操作。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240322104554_974663.png\" style=\"\n    width: 600px;\n\">\n## 三. 首页核心功能简介（重点介绍ad.qq.com入口）\n**概览**\n\n系统用户登录系统的“首页”，目前支持查看账户余额、今日竞价投放消耗、竞价投放账户日预算、效果总览和资讯看板等。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319174152_546017.png\" style=\"\n    width: 1040px;\n\">\n\n**推广**\n\n支持新建营销，以及对已创建的营销进行筛选、编辑、查看数据和添加创意\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319174114_749375.png\" style=\"\n    width: 1040px;\n\">\n**报表**\n\n支持查看投放的相关数据报表。目前支持：营销分析（账户/营销/营销创意/创意组件）、素材分析（图片素材/视频素材）、受众分析、渠道包分析、关键词分析\n\n**资产**\n\n支持营销推广所需要的营销资产创建和查看（行业产品库需在工作台创建）。\n包括推广内容（商品库、区域与门店管理、应用推广管理工具、枫页小店）、数据营销（腾讯营销知数、DataNexus）、创意素材（我的素材、营销组件管理、我的商品模板）\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319174609_123825.png\" style=\"\n    width: 1040px;\n\">\n**工具**\n\n支支持投放全链路中的各种付平台和工具，包括：账户管理、投放管理、效果分析、创意制作、服务市场等模块的相关工具创建和使用\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319174747_564740.png\" style=\"\n    width: 1040px;\n\">\n## 四. 售卖模式\n不同版位在不同创意形式的售卖规则不同，目前腾讯营销提供按CPC、CPM、CPA、oCPC、oCPM5种售卖方式，具体如下：\n\n1、CPC：按每次点击付费\n\n2、CPM：按每千次曝光付费\n\n3、CPA：按每次下载付费\n\n4、oCPC：以点击计费的智能出价。选择特定优化目标，并提供期望平均转化成本后，系统预估每一次展示的转化价值，自动出价，按照点击扣费。\n\n5、oCPM：以展示计费的智能出价。选择特定优化目标，并提供期望平均转化成本后，系统预估每一次展示的转化价值，自动出价，按照展示扣费。\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319174854_660876.png\" style=\"\n    width: 1040px;\n\">",
+    "catalogs": [
+      {
+        "catalog_id": 3744,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:23:31"
+      },
+      {
+        "catalog_id": 4515,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:40:15"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [
+      {
+        "tag_id": 531,
+        "name": "热门问题",
+        "tag_category_name": "adq首页",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 530,
+        "name": "新功能",
+        "tag_category_name": "adq首页",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销新投放平台基础认知\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/hraO2zxT?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910164446_043031.png\",\"uploadTime\":1740733717774,\"videoId\":\"6c0ffa3b-3ebf-4ccb-aafb-8b1efa1ecedc\"},{\"videoName\":\"新投放3.0上手指南\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/66?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/sign-img/2024/7/75372b592e3f45d9a95c32eadc5c61e4.png\",\"uploadTime\":1741071758734,\"videoId\":\"eae542df-9773-4a10-9d40-05cb453350f5\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 15:35:40",
+    "updated_at": "2026-06-02 10:05:46",
+    "nav_flag": 0
+  }
+}

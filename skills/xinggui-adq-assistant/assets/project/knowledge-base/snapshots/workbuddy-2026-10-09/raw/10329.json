@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10329,
+    "title": "视频号小任务营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、产品介绍\r\n\r\n**小任务是视频号达人内容营销撮合平台。**\r\n\r\n客户通过「小任务」发布现金任务，调动广大创作者创作和传播，并按作品的营销效果结算。视频号内有效关注用户达到100个以上的原创优质作者，通过创作者中心-变现任务上传符合内容要求且带转化组件的视频，通过视频流、粉丝和社交关系进行内容扩散，帮助客户实现转化目标。\r\n\r\n小任务是目前视频号生态内覆盖面最广的内容营销产品之一，通过“一对多”现金任务的模式，撬动视频号内百粉原创优质作者参与内容共创，切入用户强社交圈层，帮助客户推广及私域沉淀。\r\n\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426180131_906661.png)\r\n\r\n# 二、合作模式\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426180110_371176.png)\r\n\r\n# 三、投放指引 / 投前准备\r\n\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426180208_164448.png)\r\n\r\n详情请参考：[微信视频号小任务营销招商合作计划](https://doc.weixin.qq.com/slide/p3_AM0AJgZ5AAo6IqiGl4zT5SfouFVyT?scode=AJEAIQdfAAoIMX0xlJAM0AJgZ5AAo)",
+    "catalogs": [
+      {
+        "catalog_id": 3790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:24:54"
+      },
+      {
+        "catalog_id": 4534,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:52:50"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-26 18:03:10",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

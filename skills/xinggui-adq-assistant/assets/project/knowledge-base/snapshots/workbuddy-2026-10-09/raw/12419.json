@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12419,
+    "title": "202508第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 【规则调整】天气软件-虚假身份、定位信息\r\n1）不支持使用明确天气状况搭配明确地区误导用户的虚假内容\r\n<br>2）支持使用明确天气状况搭配明确时间表述\r\n<br>3）支持使用疑问句式的天气表述\r\n<br>4）支持使用未明确表述天气情况的背景及图标\r\n\r\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\">使用明确天气状况搭配明确地区（广东市）误导用户，不支持 | <font color=\"#FF0000\">**✖**<font color=\"#000000\">使用明确天气状况搭配明确地区（本地）误导用户，不支持 | \r\n| -------- | -------- |\r\n|\r\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250808094925_201399.png)   |![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250808094940_780247.png)  |\r\n\r\n## 【规则调整】软件工具及通讯行业-数据恢复\r\n1）不支持推广数据恢复相关功能\r\n<br>2）不支持涉及恢复微信数据相关内容\r\n<br>3）不支持使用数据恢复时间范围表述\r\n\r\n## 【规则新增】通用-新增测试互动内容管控要求\r\n1）营销落地页涉及测试互动内容，需强制在落地页页面展示用户隐私协议，且不得默认勾选",
+    "catalogs": [
+      {
+        "catalog_id": 4969,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-12 17:51:17"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-08 09:58:18",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 1
+  }
+}

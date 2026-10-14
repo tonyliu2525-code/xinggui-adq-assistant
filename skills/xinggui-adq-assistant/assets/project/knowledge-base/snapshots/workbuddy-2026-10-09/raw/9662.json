@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9662,
+    "title": "还款后多久恢复信用额度？",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 还款后多久恢复信用额度？\n\n| *更新日期* | *2023-11-6* | *内容更新* |\n| -------- | -------- | -------- |\n\n\n## 投放端线上还款\n额度即时恢复，推荐线上还款\n\n## 线下银证转账还款\n线下还款后需按照《信用金线下还款流程》发起核销流程，核销流程发起后约三个工作日内恢复信用额度\n\n线下还款核销涉及多部门流程处理，无法加急，请预判资金使用情况做好安排，或采用线上还款方式实时恢复额度",
+    "catalogs": [
+      {
+        "catalog_id": 4074,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:02:15"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-11-06 20:09:15",
+    "updated_at": "2026-04-28 11:22:50",
+    "nav_flag": 0
+  }
+}

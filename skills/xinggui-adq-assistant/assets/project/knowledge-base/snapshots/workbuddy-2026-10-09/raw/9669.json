@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9669,
+    "title": "开具发票的种类",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 开具发票的种类\n\n| *更新日期* | *2024-12-5* | *内容更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n腾讯广告开具的发票为增值税发票，基于不同资质的客户有不同的要求：\n\n* 有一般纳税人资质的客户可以申请开具增值税专用发票\n* 小规模纳税人资质的客户请申请开增值税普通发票\n* 境外的客户请申请开增值税普通发票",
+    "catalogs": [
+      {
+        "catalog_id": 4078,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:00:16"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-11-09 10:50:00",
+    "updated_at": "2026-04-28 11:22:23",
+    "nav_flag": 0
+  }
+}

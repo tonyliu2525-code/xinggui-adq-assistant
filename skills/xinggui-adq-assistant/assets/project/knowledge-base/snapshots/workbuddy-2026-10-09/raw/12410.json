@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12410,
+    "title": "微信营销电脑端",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"collapse\",\"attrs\":{\"id\":\"collapse_fAziE\",\"ordered\":false,\"dataSource\":[{\"id\":\"IrgNQ\",\"title\":\"微信朋友圈电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_iAGpm\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143147_418082.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1184,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]},\"defaultExpanded\":false},{\"id\":\"mn_dz\",\"title\":\"小程序激励式营销电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_prTEd\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143156_208901.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1184,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]},\"defaultExpanded\":false},{\"id\":\"xL9km\",\"title\":\"小程序封面营销电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_Q_X_1\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143203_334678.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1152,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]},\"defaultExpanded\":false},{\"defaultExpanded\":false,\"id\":\"qtS_T\",\"title\":\"小程序插屏营销电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_53hpe\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143209_505551.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1184,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}},{\"defaultExpanded\":false,\"id\":\"zLkHA\",\"title\":\"公众号文章中部电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_u9nD7\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143219_101077.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1184,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}},{\"defaultExpanded\":false,\"id\":\"Fgun-\",\"title\":\"公众号文章底部电脑端\",\"panel\":{\"type\":\"doc\",\"content\":[{\"type\":\"theimage\",\"attrs\":{\"id\":\"image__t9-B\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226143226_840794.png\",\"caption\":\"\",\"width\":\"100%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":1184,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}}]}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5103,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-26 15:07:00"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-06 16:52:02",
+    "updated_at": "2026-04-29 18:25:12",
+    "nav_flag": 0
+  }
+}

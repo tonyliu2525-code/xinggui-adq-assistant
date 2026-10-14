@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12671,
+    "title": "首条系列",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"首条系列\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"产品优势\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"内容页首位，超强曝光黄金点位\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持媒体\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯视频、腾讯新闻、QQ音乐、酷狗音乐、\"},{\"type\":\"text\",\"text\":\"QQ浏览器\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"合约：\"},{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"CPM\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"  \"}]},{\"type\":\"videoVerticalPhone\",\"attrs\":{\"id\":\"videoVerticalPhone_WYNjh\",\"dataSource\":[{\"id\":\"videoVerticalPhoneItem_VK1gW\",\"src\":\"https://bbx-video.gtimg.com/0bc3b4ac6aaaqqaebspxjfufud6df4hqalya.f0.mp4\",\"poster\":\"\",\"caption\":\"腾讯视频臻选首焦\",\"naturalWidth\":0,\"naturalHeight\":0},{\"id\":\"phoneVerticalItem_Idflp\",\"src\":\"https://bbx-video.gtimg.com/0bc3ouac4aaa4yaedmxxjbufu5odfz2qalqa.f0.mp4\",\"caption\":\"腾讯新闻首条\",\"naturalWidth\":0,\"naturalHeight\":0},{\"id\":\"phoneVerticalItem_oFy9Z\",\"src\":\"https://bbx-video.gtimg.com/0bc3oyac4aaa5uaedmpxjbufu5wdfz3aalqa.f0.mp4\",\"caption\":\"QQ音乐推荐页焦点图\",\"naturalWidth\":0,\"naturalHeight\":0},{\"id\":\"phoneVerticalItem_Y9Xm2\",\"src\":\"https://bbx-video.gtimg.com/0bc3o4ac4aaa2uaedmhxjbufu56dfz3qalqa.f0.mp4\",\"caption\":\"酷狗音乐首页焦点图\",\"naturalWidth\":0,\"naturalHeight\":0}]}},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_osnnq\",\"dataSource\":[{\"id\":\"phoneVerticalItem_pUxkq\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260106144818_835535.png\",\"caption\":\"QQ浏览器首条\",\"naturalWidth\":1290,\"naturalHeight\":2796}]}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5032,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:46:17"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-10-21 19:40:26",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

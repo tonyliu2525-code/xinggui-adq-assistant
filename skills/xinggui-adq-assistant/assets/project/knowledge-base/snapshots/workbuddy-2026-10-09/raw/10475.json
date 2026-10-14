@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10475,
+    "title": "推广实况",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年5月26日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n推广实况模拟用户在特定版位、流量场景和地域搜索特定关键词时的推广效果。\r\n\r\n# 二、解决哪些问题\r\n\r\n搜索营销在不同地域的推广效果动态变化；搜索营销主跨地域投放，需要了解在特定地域的自身营销和竞对的营销排名等情况，便于及时进行价格、创意等的优化。推广实况通过模拟用户在特定版位、流量场景和地域搜索特定关键词时的推广效果，满足客户上述需求。\r\n\r\n# 三、使用门槛\r\n\r\n仅适用于搜索直投营销【QQ浏览器等】版位。\r\n\r\n# 四、操作说明\r\n\r\n## 4.1 工具箱入口\r\n\r\n**4.1.1 入口**\r\n\r\n工具——>效果分析——>推广实况\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173447_234692.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173447_234692.png\" style='width:600px'/></a>\r\n\r\n**4.1.2 操作**\r\n\r\n【实况查询】中输入关键词，选择地域、版位、流量场景，点击【查询】。\r\n\r\n每次支持查询1个关键词，地域、版位、流量场景单选。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607175447_597100.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607175447_597100.png\" style='width:600px'/></a>\r\n\r\n## 4.2 推广列表入口\r\n\r\n**4.2.1 入口**\r\n\r\n推广——>搜索营销——>关键词列表——>操作列【实况】\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173534_527530.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173534_527530.png\" style='width:600px'/></a>\r\n\r\n**4.2.2 操作**\r\n\r\n选择地域、版位、流量场景，即可查看所选关键词的模拟搜索结果。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173558_548400.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611173558_548400.png\" style='width:600px'/></a>\r\n\r\n# 五、常见问题\r\n\r\n**Q：推广实况搜索结果的营销为什么和线上实际结果不一致？**\r\n\r\nA：原因主要有两个——1、推广实况仅使用地域、版位定向，突破其他定向，对搜索结果进行模拟；2、搜索营销组件化投放，引擎根据用户综合信息进行组件优选并拼接成最终创意，推广实况的用户信息和线上用户信息不同，导致创意样式有差异。",
+    "catalogs": [
+      {
+        "catalog_id": 3789,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:19:42"
+      },
+      {
+        "catalog_id": 4533,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:52:18"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-07 17:57:13",
+    "updated_at": "2025-01-14 14:52:18",
+    "nav_flag": 0
+  }
+}

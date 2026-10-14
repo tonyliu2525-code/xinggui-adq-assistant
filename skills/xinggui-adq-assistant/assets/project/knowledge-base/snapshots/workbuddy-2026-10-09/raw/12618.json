@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12618,
+    "title": "资讯/阅读媒体",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"业界领先的新闻资讯/内容阅读平台，致力于打造与用户深度相关、让用户深度参与、充满人文关怀的资讯内容产品，包含腾讯新闻、QQ浏览器、QQ阅读、腾讯动漫、起点读书等。\"}]},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_6XF2F\",\"dataSource\":[{\"id\":\"phoneVerticalItem_NwVqa\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144915_716310.jpg\",\"caption\":\"腾讯新闻\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_Awy5G\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144924_831151.jpg\",\"caption\":\"QQ浏览器\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_oFyNS\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226144938_843822.jpg\",\"caption\":\"QQ阅读\",\"naturalWidth\":422,\"naturalHeight\":910}]}},{\"type\":\"phoneVertical\",\"attrs\":{\"id\":\"phoneVertical_7eoRm\",\"dataSource\":[{\"id\":\"phoneVerticalItem_NwVqa\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226145000_412041.jpg\",\"caption\":\"腾讯动漫\",\"naturalWidth\":422,\"naturalHeight\":910},{\"id\":\"phoneVerticalItem_GzxFO\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251226145005_510369.jpg\",\"caption\":\"起点读书\",\"naturalWidth\":422,\"naturalHeight\":910}]}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5017,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-09-22 17:48:17"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-18 16:52:08",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

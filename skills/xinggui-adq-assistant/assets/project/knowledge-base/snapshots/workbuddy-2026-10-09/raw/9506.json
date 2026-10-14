@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9506,
+    "title": "自定义卡片",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "账户概览页的所有卡片均可进行设置，并且支持自定义拖拽位置和大小（拖拽卡片边缘，或右下角进行放大和缩小）\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115322_702964.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115322_702964.png\"/></a>\r\n# 一、卡片设置\r\n点击首页右上角的“卡片设置”，可以打开设置窗口，选择首页展示哪些类别的卡片。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115613_673391.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115613_673391.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115710_893949.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115710_893949.png\"/></a>\r\n# 二、核心数据\r\n默认展示4项汇总数据，用户也可以点击卡片右侧的设置按钮，修改要展示的指标项，支持设置的指标项包括：\r\n今日花费（元）、当前余额（元）、曝光量、点击量、点击率、目标转化量、目标转化率、目标转化成本（元）、深度转化量、深度转化率、深度转化成本（元）、有消耗的账户、我管理的账户。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115834_377276.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115834_377276.png\"/></a>\r\n# 三、 账户列表卡片\r\n展示多营销账号基本信息和基础报表数据，包括您所管理的所有ADQ账户和投放平台账户\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115905_778137.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115905_778137.png\"/></a>\r\n# 四、智能投手卡片\r\n展示当前用户所管理账号的托管状态\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115940_405783.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016115940_405783.png\"/></a>\r\n# 五、每日TOP账户\r\n展示用户当前管理的所有账户根据某一项指标进行TOP排行，客户可通过卡片左侧的设置按钮，设置想查看排行的指标和TOP账户数。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120007_087835.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120007_087835.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120045_005515.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120045_005515.png\"/></a>\r\n# 六、快捷入口\r\n默认4项快捷入口，用户也可以通过卡片右侧的设置自定义添加其他URL或删除。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120114_876376.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120114_876376.png\"/></a>\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120133_996764.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120133_996764.png\"/></a>\r\n# 七、趋势图\r\n账户趋势图：用户指定2个账户和1个指标进行对比，最长可选择区间为2周。\r\n\r\n指标趋势图：用户所有ADQ或投放平台账户、指定2个指标进行对比，最长可选择区间为2周。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120200_759206.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231016120200_759206.png\"/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3748,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:41:53"
+      },
+      {
+        "catalog_id": 4599,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:32:25"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741082263635,\"videoId\":\"f9a8e393-3691-4049-b557-7cc99a5c62dc\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-16 12:07:51",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

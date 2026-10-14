@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10785,
+    "title": "第7期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "腾讯营销致力于打造健康良好的营销生态环境，鼓励优质原创的营销素材内容，为保护相关用户及腾讯公司的合法权益，腾讯营销平台于2023年启动侵权素材专项治理，并在腾讯营销官网公示，但近期我们发现仍有客户未经授权、盗用他人肖像、资质，通过搬运、剪辑拼接、假冒官方机构等形式进行非授权的商业推广违规行为，此行为严重侵犯了他人的合法权益，根据相关法律法规及《[腾讯平台客户管理规范](https://support.e.qq.com/detail?cid=3834&pid=6295) 》 将对违规主体严格执行包括但不限于：\r\n\r\n**终止存量合作、自动驳回营销、下线违规素材、封停违规账户、扣罚保证金并要求赔偿损失等处置措施。**\r\n\r\n<font color=\"#FF0000\">\r\n腾讯营销于2024年1月起，针对侵权违规素材和主体进行集中治理，进行存量营销下线、自动驳回新进营销、封停违规账号和扣罚保证金等违规处罚措施，本月累计下架263,000+条营销，处罚42+主体。\r\n\t\r\n\r\n\t\r\n### 部分违规示例\r\n\t\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240827163038_608873.png)\r\n\t\r\n\t\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240827163049_569840.png)\r\n\t\r\n\t\r\n\t\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240827163059_251588.png)\r\n\t\r\n\t\r\n\t\r\n<font color=\"#000000\">\r\n\r\n\r\n|  | **部分违规账号示例** |  |\r\n| -------- | -------- | -------- |\r\n|  XXXX资本管理有限公司    | 长沙xx健康管理有限公司     | 阜阳XX化妆品有限公司   |\r\n| 西咸新区空港新城XXX百货商行    | 广州XX商贸有限公司    | 杭州XXX文化传媒有限公司     |\r\n| XXXX互联科技有限公司    | 深圳市XX传媒有限公司     |永顺县XXX百货店 |\r\n| 广州XXXX信息科技有限公司     | 湘潭XX商贸有限公司    | 广州XX网络科技有限公司     |\r\n\t\r\n\t\r\n\t\r\n腾讯营销为建立健康有序的生态环境，避免造成社会不良影响，会持续加大力度进行违规素材的清理行动，请广大客户务必自查并及时删除各类侵权素材，严格遵守腾讯营销平台投放规则，避免投放违规营销！",
+    "catalogs": [
+      {
+        "catalog_id": 4765,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-08-29 09:18:12"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-08-27 16:39:49",
+    "updated_at": "2025-06-12 11:52:54",
+    "nav_flag": 0
+  }
+}

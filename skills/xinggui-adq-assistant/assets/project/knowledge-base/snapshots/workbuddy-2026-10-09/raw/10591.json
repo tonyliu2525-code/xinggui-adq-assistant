@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10591,
+    "title": "旅游出行审核规则",
+    "sub_title": "V4-20240730-版3",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、平台要求\n\n1. 推广XX平台卡禁止出现第三方权益，其权益内容仅限XX平台内部业务\n\n2. 推广OTA线上平台（如携程/去哪儿/同程）与其他品牌官方联合营销行为，需满足以下条件：<br>\n\n   （1）在营销内说明携程/去哪儿/同程与推广品牌的合作业务点，如携程/同程用户凭携程/去哪儿/同程订单/携程/去哪儿/同程会员至XXX品牌店铺可享受折扣优惠，或礼品优惠\n\n   （2）内外层素材有携程/去哪儿/同程元素（如名称和logo）展示\n\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![开户与素材行业或商品不一致 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705150810_661094.png)    |   ![开户与素材行业或商品不一致 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705150920_139484.png)   | ![开户与素材行业或商品不一致.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705151336_361604.png)   |\n| <font color=\"#FF0000\">**×** 素材与开户不一致    | <font color=\"#FF0000\">**×**素材与开户不一致     | <font color=\"#FF0000\">**×** 素材与开户不一致     |\n\n\t\n\t\n**支持场景：**\n- 支持投放客户要内容为旅游相关产品的内容，旅游相关产品包含：<br>\n\t酒店住宿、旅游景点、代订服务、旅行社、旅游局、旅游OTA综合平台、交通服务、免税店（不包含主要投放异业品牌，引导至当地免税店的情况）\n\t\n\n| **正确元素示例** | **正确元素示例** | **正确元素示例** |\n| -------- | -------- | -------- |\n|  ![OTA-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705151751_740755.png)   | ![OTA-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705151840_103177.png)     | ![OTA-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705151942_404768.png)     |\n| <font color=\"#008000\"> **√** 仅供参考     | <font color=\"#008000\"> **√** 仅供参考     | <font color=\"#008000\"> **√** 仅供参考    |\n\n\t\n\t\n\t\n3. 推广港澳综合酒店需使用蹊径落地页/原生推广页/附近推二维码落地页\n\t\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![港澳综合酒店外链推广.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152209_437667.png)     | ![港澳综合酒店外链推广 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152308_899460.png)     | ![港澳综合酒店外链推广 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152406_537866.png)     |\n| <font color=\"#FF0000\">**×** 港澳综合酒店外链推广     | <font color=\"#FF0000\">**×** 港澳综合酒店外链推广     | <font color=\"#FF0000\"> **×** 港澳综合酒店外链推广     |\n\n\n\t\n\t\n4. 推广旅游出行的攻略评论类落地页需使用蹊径落地页/原生推广页\n\n\n|  **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![外链不合规.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152610_038309.png)     | ![外链不合规 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152700_106478.png)     | ![外链不合规 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240705152755_399946.png)    |\n| <font color=\"#FF0000\">**×** 外链不合规     | <font color=\"#FF0000\"> **×** 外链不合规     |    <font color=\"#FF0000\"> **×** 外链不合规  |\n\n\n\t\n\t\n5. 低于100块或低于2折的机票，需要在后台上传一个月内对应有效的价格截图证明\n\t\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![低价机票 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240718140936_684365.png)     | ![低价机票 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240718141031_823923.png)    |  ![低价机票.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240718141541_662428.png)   |\n| <font color=\"#FF0000\"> **×**低价机票     |  <font color=\"#FF0000\"> **×** 低价机票     | <font color=\"#FF0000\"> **×** 低价机票   |\n\t\n\t\n\t\n6. 推广旅游出行行业的国际船舶运输业务时，需提供：<br>\n\t《国际船舶运输经营许可证》或 《国际班轮运输经营资格登记证》\n\t<br>\n\t<br>\n\n\t\n7. 推广景区年卡业务需满足以下条件：<br>\n（1）推广内容为国家评定的4A-5A景区，可支持主体来投放，需提交资质证明\n\t\n   （2）归属于国家评定的4A-5A景区集团，需提交归属证明关系和景区证明资质\n\t\n   （3）不属于4A-5A景区，但归属政府或由政府指定企业运营，以政府出具证明进行准入，要求政府出具证明，且上传到<br><br>\n\t\n8. \t推广境内线路游产品，出现价格宣传，需满足以下要求： <br>\n（1）价格标准：不含机票的价格不得低于200元/人/日，含机票的价格不得低于700元/人/日\n\t\n       （2）信息展示：必须在图片、视频中清晰体现人均费用、交通费用及商品总价",
+    "catalogs": [
+      {
+        "catalog_id": 4831,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-30 17:37:04"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-07-05 15:29:56",
+    "updated_at": "2025-06-12 16:33:08",
+    "nav_flag": 0
+  }
+}

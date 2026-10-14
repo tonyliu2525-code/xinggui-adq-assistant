@@ -1,0 +1,57 @@
+{
+  "data": {
+    "post_id": 7711,
+    "title": "微信搜索超级品牌专区审核规范",
+    "sub_title": "物料审核规范",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 物料审核规范\n### 1. 关键词、创意、落地页关联性审核规范\n\na. 关键词需与账户信息相关\n\n\n| 客户名称 | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| 浦林轮胎 | 浦林电动车轮胎&nbsp;&nbsp;&nbsp;<br> 浦林新能源轮胎&nbsp;&nbsp;&nbsp;<br> 浦林prinx | ![1_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208113518_935174.png)|**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放关键词与账户信息指向一致     |\n| 六凌轮胎 | 六凌汽车<br>六凌维修 <br>六凌道路救助|![2_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208114819_937146.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">投放关键词与账户信息不相关 |\n\n<br> \nb. 关键词需与物料创意相关\n\n\n| 客户名称 | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| 资生堂    | 御银座水乳<br>御银座套装<br>御银座洁面 | ![3_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208115524_375248.png) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">物料中包含御银座+通用系列词内容，与投放词指向一致     |\n| 美岚 | 美岚座银石广场<br>美岚开业 | ![4_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208115705_823295.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">物料中未包含投放词内容，与投放词指向不一致 |\n| 美岚 | 双11<br>双十一 |  |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持投放的活动词无品牌前缀|\n| 美岚 | 美岚618<br>美岚七夕|  |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持已过投放期的活动词，活动词需在时效范围内 |\n| 娇兰 | 娇兰双十一赠礼<br>娇兰双11<br>娇兰双十一| ![5_副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208115959_324954.jpg) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">活动词符合双11活动的时效性，物料中包含品牌词+活动词与投放词指向一致  |\n\n<br> \nc. 关键词、创意需与所指向页面内容相关<br> \n相关性要点：<br> \n● 关键词如仅包含一类内容的，需在专区有所体现\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| 剑侠世界3    | 剑侠世界3<br> 剑侠世界3游戏 | ![6_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208120306_979948.png)  |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放词剑侠世界3在物料专区有体现，符合审核规范     |\n\n● 关键词如包含多类内容的，需在物料中均有体现\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| 肌肤之钥   | 4D精雕眼霜<br> 4D精雕面霜<br> 4D紧颜精华<br> 4D抚纹精华 | ![7_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208120552_949045.png)     |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放词包含多类内容均在物料中体现，符合审核规范     |\n\n\n● 如物料仅包含品牌其中一类内容的，则不允许使用其他类内容关键词进行投放，建议一套物料对应一类内容的关键词<br>\n### \t2. 品牌名称审核规范\na. 需具备商标注册证<br>\nb. 商标注册证需涵盖品牌方核心主营业务分类（*如主营业务为服装，商标注册证的核定商品项目需包括服装*）<br>\nc. 国外品牌使用国内主体注册，提供国外授权文件核对后无误即可。*比如：7喜归属百事（中国）有限公司*<br>\nd. 如品牌方商标涉及中文、英文或Logo，请一并提供对应商标的商标证（*如兰蔻、lancome及其logo*）<br>\ne. 如主体为分公司、代理或区域性代理，则官方区名称需要作出明确区分，且配置词不能完全和主体品牌名一致。*比如：云南联通、中国移动陕西10086*<br>\nf. 如申请人为商标被授权方，除提供商标注册证外，还需提供商标授权书<br>\n\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| 黄蜂旅行   | 黄蜂旅行<br>黄蜂旅游    | ![8副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208123309_126876.jpg)  | **<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">品牌名称使用错误，未使用固定的品牌名称    |\n| 同程旅行 | 同程旅行<br>同程旅游 | ![9副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208123721_835827.jpg) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">品牌名称使用的是固定品牌，符合品牌推广 |\n\n\n### 3. 主体一致性审核规范\n\na. 品专内所使用的公众账号、视频号账号、小程序账号主体需与客户主体一致；<br>\nb. 如为不同主体，仅支持集团下同品牌的相关公司，在提供商标注册主体授权后进行品专区账号配置<br>\n\n### 4. 资质类审核规范\na. 所在行业、所售卖商品及服务需符合AMS的行业及品类资质要求<br>\nb. 使用第三方名称（含明星/IP/非自有品牌等），需提供授权证明<br>\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |-------- |\n| UGG     | UGG+明星词<br>UGG    | ![10_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208140857_901130.png)    |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">物料包含品牌及代言人，支持品牌+明星词    |<br>\n\t\n\t\n### 5. 创意审核规范\na. 合规性审核规范：物料内容均需不得涉政涉爆涉黄，均需符合要求<br>\nb. 创意审核规范<br>\n创意审核规范需符合[微信营销创意审核规范](https://support.e.qq.com/detail?cid=3829&pid=9667)\n<br>重点规范如下：<br>\n● 文案审核规范<br>\n○ 语句内容应完整，禁止出现语病性质的断句，或表达错误<br>\n○ 不能出现误导性带歧义的文案<br><br>\n● 图片审核规范<br>\n○ 内容清晰准确，图片物料中文字不能过小影响阅读<br>\n○ 不得使用高饱和度背景色和文字颜色，背景色与文字色差对比不能过大，或颜色过亮<br>\n○ 主视觉应包含品牌信息<br>\n○ 禁止大量空白，禁止不必要的描边效果<br>\n○ 图片上不得使用二维码<br>\n○ 不得出现联系方式或网站地址等信息<br>\n○ 不得使用引导或诱导关注、诱导分享类营销活动文案<br><br>\n● 视频审核规范<br>\n○ 口播内容清晰，视频清晰度高<br>\n○ 不得为GIF式或PPT式的视频播放效果<br>\n○ 设计类其他规范与图片设计要求相同<br><br>\n● 推广页审核规范<br>\n○ 若营销落地页为自定义链接，须遵循[微信公众平台要求](https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_external_links_content_management_specification)<br>\n○ 不得在推广页中出现非客户主体的公众账号/无主体的个人公众账号/个人微信号/个人名片信息，展现形式包括但不限于微信公众账号二维码、微信公众账号账号 ID 及微信公众账号账号名称<br>\n○ 不得投放诱导关注内容<br>\n\n### 6. 活动审核规范\n● 遵循[微信营销整体活动类审核规范要求](https://support.e.qq.com/detail?cid=3888&pid=10760)<br>\n● 活动如有人群或地域范围限制，须在外层图片进行描述说明<br>\n\n### 7. 组件审核规范\n● 在线客服：仅支持使用企业微信，不支持使用个人微信号<br>\n● 电话：需为可查询官方电话，不得使用私人电话号码<br>\n● 门店地址需为品牌使用的相关门店地址，不得出现无品牌名称的门店内容，如有特殊情况，需通过销售接口人向审核进行反馈及说明<br><br>\n常见审核案例示意<br>\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |------- |\n| OUIA    | xiaomi<br>xiaomi11<br>红米手机<br>小米K40     | ![11_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208142002_272693.png)    |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">投放词与自身品牌不一致     |\n| vivo | iqoo手机<br>vivo手机 | ![12副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208142314_827313.jpg) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放词为自身品牌词 |\n| 拓驰汽车 | 拓驰多少钱<br>拓驰有什么颜色<br>拓驰几缸发动机<br>拓驰SUV是不是电车 | ![13_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208142739_861810.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持使用品牌词+疑问语意的需求词 |\n|梅赛德斯一奔驰 | 梅赛德斯-奔驰<br>奔驰汽车<br>奔驰轿车 | ![14_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208142837_300631.png) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">设放词为品牌+行业词 |\n| 安军证券 | 安军集团 | ![15_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208142920_443844.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">投放词为主品牌词，不支持子品牌使用主品牌作为投放词 |\n| 平安证券 | 平安证券<br>平安证券投资助手 | ![16_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143002_935493.png) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">仅有与平安证券相关的物料内容，与投放词指向一致 |\n| 星际光年 | 星际广年<br>星际咣年<br>星际光粘 | ![17_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143038_632474.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">投放词不支持使用错别字 |\n| 美兰         MEILAN | MEIEILL<br>MEILLAN<br>meilan兰 |  |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">投放词不支持使用语义不通顺/拼写不正确的词 |\n| 美兰         MEILAN | 香水<br>美兰眼霜<br>美兰粉底<br>美兰精华 | ![18副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143203_594963.jpg) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">图片素材未展示美兰品牌+通用系例相关信息 |\n| 兰蔻 | 兰蔻官方<br>兰蔻<br>LANCOME<br>法国兰蔻 | ![19_副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143318_037410.jpg) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放词为兰蔻品牌词符合投放要求 |\n| 怡瘦 | 瘦吧减肥<br>瘦吧瘦身<br>瘦吧减脂 |  |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持普通食品投放词涉及功效描述 |\n| 三生奶粉 | 羊奶粉<br>进口奶粉<br>牛奶粉<br>国产奶粉 |  |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持品类广义词 |\n| 丝格拉 | box单肩包<br>canlini手提包 | ![20_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143611_546595.png) |**<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">不支持品牌词+具体产品词 |\n| 菲拉格慕 | ferragamo男士包袋<br>Tirfollo女包 | ![21_副本.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2022/283_20221208143621_928117.jpg) |**<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">投放词包含菲拉格慕品牌系例词与素材内容一致 |\n\t\n\t\n\t\n### 8. 品专顶部运营位设计规则\n\t\n- 背景图的色层一致，底色不能有断层\n- 背景图的营销信息须集中，不能有割裂的排版\n- 背景图的文案占背景图的比例不得超过30%，若图片整体设计体验较好可放宽至40%\n\t\n\t\n\n| 客户名称&nbsp;&nbsp; | 投放关键词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物料投放示例 |审核结果示例 |\n| -------- | -------- | -------- |------- |\n|  XX旅行  |  XX旅行<br>九寨沟旅行<br>西安城墙门票 |      ![未命名图片 (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113103953_171272.png)        |  **<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">素材背景图设计底色断层，不支持使用，建议修改素材   |\n|  XX旅行  |   XX旅行<br>九寨沟旅行<br>西安碑林门票 |    ![未命名图片 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113104518_107814.png)          | **<font color=\"#00B24F\">正确示例**：<font color=\"#000000\">素材背景图色层一致，且无其他违规点，可通过   |\n| XX旅行  |  XX旅行<br>布达拉宫旅行<br>大昭寺门票 |   ![未命名图片 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113105123_593471.png)       |  **<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">素材背景图营销信息未集中展示，不支持使用，建议修改素材       |\n| XX旅行  | XX旅行<br>布达拉宫旅行<br>大昭寺门票 |   ![未命名图片 (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113105550_117538.png)         | **<font color=\"#00B24F\">正确示例**：<font color=\"#000000\"> 素材背景图营销信息集中展示未割裂，且无其他违规点，可通过          |\n| XX旅行  |  XX旅行<br>赛里木湖旅行<br>赛里木湖门票 |  ![未命名图片 (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113105622_925643.png)             |  **<font color=\"#FF0000\">错误示例**：<font color=\"#000000\">素材背景图文案占比超过背景图30%，不支持使用，建议修改素材           |\n| XX旅行  |  XX旅行<br>赛里木湖旅行<br>赛里木湖门票 |    ![未命名图片 (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20231113105732_427510.png)         | **<font color=\"#00B24F\">正确示例**：<font color=\"#000000\"> 素材背景图文案占比符合限制，且无其他违规点，可通过          |",
+    "catalogs": [
+      {
+        "catalog_id": 4793,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 09:52:42"
+      }
+    ],
+    "created_by_name": "leilatang",
+    "tags": [
+      {
+        "tag_id": 2,
+        "name": "首页-热门问题",
+        "tag_category_name": "官网帮助中心",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 510,
+        "name": "搜一搜",
+        "tag_category_name": "微信",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-12-08 13:40:29",
+    "updated_at": "2025-06-12 15:07:13",
+    "nav_flag": 0
+  }
+}

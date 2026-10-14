@@ -1,0 +1,14 @@
+{
+  "note": "Imported source inventories; not a full-read certification.",
+  "ocrRecords": 445,
+  "ocrStatuses": {
+    "fail": 20,
+    "ok": 425
+  },
+  "sourceFiles": [
+    "knowledge/03-构建产物/ocr_results.jsonl",
+    "knowledge/03-构建产物/related_images.json",
+    "knowledge/03-构建产物/related_posts.json"
+  ],
+  "documents": []
+}

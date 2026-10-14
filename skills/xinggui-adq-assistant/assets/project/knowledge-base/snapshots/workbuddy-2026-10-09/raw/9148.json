@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9148,
+    "title": "收据申请",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 开具充值收据\n\n| *更新日期* | *2023-12-27* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 对已支付款项开具发票，但暂时无法开具时，可申请开具收据，请通过以下方式发起：\n\n\n\n# 邮件申请\n\n*\n## 收件人\n收件人：*[ 您的销售经理/渠道经理 ]*\n\n抄送人：AMS_JS@tencent.com\n\n*\n## 邮件主题\n【腾讯营销】收据申请 - *[ 客户名称 ]*\n\n*\n## 邮件正文\n我司已完成款项支付，由于无法申请发票，现申请腾讯出具付款收据，具体情况如下：\n\n无法开具发票原因：\n\n收据收款方：*（腾讯主体）*\n\n接收单位名称全称：*（所填信息必须与我方收款凭证上的信息一致，如出现代付的情况必须在接收单位名称全称处备注代付）*\n\n收据金额：\n\n收据摘要：*（款项性质，如: 保证金、赔偿款、资助金等）*\n\n银行信息：*（银行汇款收款名称及帐号)*\n\n**收据原件快递信息如下**\n\n收件人：\n\n联系电话：\n\n收件地址：\n\t\t\t\t\t\t\t\t\t\n\t\t\n*\n## 邮件附件\n\t* [必要附件]支付凭证\n\n# 处理流程\n1. 申请人发起邮件进行收据开具申请\n2. 腾讯营销业务侧在内部系统完成申请后同步材料\n\n# 注意事项\n* 若后续开具发票，需将收据退回\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4066,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 13:57:16"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-07 16:04:40",
+    "updated_at": "2024-12-05 15:49:46",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10146,
+    "title": "搜索场景扩量",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 | \r\n| -------- | -------- |\r\n| 2026年1月27日   | 添加常见问题  | \r\n| 2025年5月8日   | 更新能力介绍  | \r\n| 2024年2月29日   | 新建文档  | \r\n\r\n# 一、能力介绍\r\n客户投放竞价展示营销，支持复用展示营销物料投放到搜索场景，包括「微信搜一搜」、「QQ浏览器等」及其他合作搜索版位。支持客户添加关键词、系统配词、拓展定向、系统优选创意，并且系统会基于客户提交的关键词、创意等数据，对创意文案（标题、描述等）进行优化，以增强营销对用户的吸引力，提升转化效果。  \r\n\r\n*客户应确保所提交的关键词、创意等内容均合法合规，不侵权第三方合法权益。\r\n\r\n# 二、适用场景\r\n搜索场景扩量简化搜索营销的投放操作，适用于希望投放搜索流量，但缺乏搜索营销投放经验或缺乏专门人力优化搜索营销的客户。\r\n# 三、使用门槛\r\n所有已完成资质认证、身份验证、账户充值，且能投放竞价展示营销的客户。\r\n# 四、操作说明\r\n## 1.1 营销创建\r\n创建展示营销，在「营销版位」模块设置搜索场景扩量。搜索场景扩量全量开启，不限展示营销版位和探索策略。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145552_951566.png\" style=\"width: 600px;\">\r\n\r\n### 1.1.1. 关键词\r\n* 系统基于创意内容自动配词；\r\n* 点击「添加」按钮打开「编辑搜索场景扩量关键词」页面，支持自行添加关键词；\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145624_116931.png\" style=\"width: 600px;\">\r\n\r\n* 编辑搜索场景扩量关键词\r\n\r\n系统拓词支持「以词拓词」和「行业拓词」能力，输入1-10个种子词，点击查询，系统输出关键词结果。\r\n\r\n支持对关键词结果做筛选，筛选条件：包含/不包含特定字词、推荐理由、营销已购词过滤、账户已购词过滤、按地域筛选全部关键词的月均搜索量和月均点击量；支持下载结果关键词；可选择添加若干个词或一键添加全部词。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145653_404615.png\" style=\"width: 1040px;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145702_039735.png\" style=\"width: 1040px;\">\r\n\r\n支持手动填写关键词并添加。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145724_248222.png\" style=\"width: 1040px;\">\r\n\r\n每条营销最多添加1000个关键词，单个关键词最长20个字，支持编辑词面、删除关键词，支持一键清空所有关键词。\r\n\r\n关键词匹配类型支持智能匹配，不支持修改匹配类型。 [匹配类型说明](https://doc.weixin.qq.com/doc/w3_AWcAGwafAIQgr1B2a2bQiuiohE0EK?scode=AJEAIQdfAAobNIet3wAWcAGwafAIQ) \r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145751_351400.png\" style=\"width: 400px;\">\r\n\r\n### 1.1.2. 定向拓展\r\n\r\n开启该功能后，搜索流量场景下年龄、性别、学历定向将被设置为不限，不影响其他定向设置和非搜索流量场景下的定向。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145846_500834.png\" style=\"width: 600px;\">\r\n\r\n## 1.2 营销编辑\r\n\r\n* 搜索场景扩量的编辑路径：推广-->营销-->「编辑」操作\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320145909_502667.png\" style=\"width: 1040px;\">\r\n\r\n* 支持在营销管理列表设置否定词，当搜索词匹配到否定词时，营销不展示。\r\n\r\n  点击编辑按钮打开「设置否定词」弹窗。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150001_516252.png\" style=\"width: 1040px;\">\r\n\r\n* 支持设置短语否定词和精确否定词，合计最多设置900个词。短语否定指搜索词包含否定词，精确否定指搜索词与否定词完全一致。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150044_162540.png\" style=\"width: 600px;\">\r\n\r\n\r\n* 单个否定词最长20个字；同一否定词词面不能同时设为短语否定和精确否定。\r\n\r\n   支持编辑、删除单个否定词，支持一键复制和清空全部否定词。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150232_435568.png\" style=\"width: 600px;\">\r\n\r\n## 1.3 报表\r\n* 营销、营销创意、创意组件报表支持筛选「搜索场景」版位\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150335_160085.png\" style=\"width: 1040px;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150347_143459.png\" style=\"width: 1040px;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150354_376018.png\" style=\"width: 1040px;\">\r\n\r\n* 支持关键词报表，客户自行添加的关键词披露具体词面，系统拓词披露词面为「智能拓流」。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320150402_426981.png\" style=\"width: 1040px;\">\r\n# 四、常见问题\r\nQ：**搜索营销竞价排序的规则是怎样的？**  \r\nA：搜索营销竞价排序主要由综合商业价值eCPM决定。eCPM则主要由客户出价 、质量度综合得分等因素决定。排名按eCPM从高到低排序，eCPM越高，营销竞争力越强，胜出概率越大。其中：  \r\n●质量度综合得分：基于相关搜索下历史点击转化数据，主要结合用户搜索意向、用户搜索匹配度、创意及落地页质量与相关性等因素，计算出用户搜索场景对营销综合得分。  \r\n●客户出价：代表客户在投放端表达的出价，出价越高，营销竞争力越强；搜索扩量场景下，支持 oCPM、oCPC、CPM、CPC。\r\n\r\nQ：**搜索竞价投放按什么计费？**  \r\nA：曝光或点击后，按照实际扣费公式计算，实际扣费=下一名eCPM+0.01元。搜索扩量场景下，支持 oCPM、oCPC，平台针对用户意图实时动态出价，满足优化成本的目的。\r\n\r\nQ：**搜索竞价投放一般展示在哪些位置？**  \r\nA：搜索营销一般展示在搜索结果页的首页，具体位置根据竞价排序规则及搜索平台的具体情况会有不同。搜索营销会带有“营销”标识，可通过该标识了解搜索营销展示位。",
+    "catalogs": [
+      {
+        "catalog_id": 3771,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:59:34"
+      },
+      {
+        "catalog_id": 4552,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:07:43"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 10:53:57",
+    "updated_at": "2026-01-29 15:06:49",
+    "nav_flag": 0
+  }
+}

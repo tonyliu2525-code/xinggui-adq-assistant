@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10147,
+    "title": "定向设置指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、能力介绍\r\n定向是指在腾讯营销系统中，根据用户的某些特征，将用户归类到不同的群体中，通过不同的类别多维度触达目标人群，以便更好地投放营销。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319162738_165601.png\" style=\"width: 600px;\">\r\n\r\n# 二、操作说明\r\n## 1. 新建定向\r\n### 1.1. 新建定向：地理位置、年龄、性别、学历等等\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319162915_068912.png\" style=\"width: 600px;\">\r\n\r\n### 1.2. 全部定向：如设置更多定向，如用户行为、自定义人群等等，可展开全部定向进行设置\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319162925_605354.png\" style=\"width: 600px;\">\r\n\r\n### 1.3. 保存为定向模板：支持将常用定向保存为定向模板，最多可创建200个定向模版，下次创建营销可直接选择定向模板进行使用。\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319175145_145046.png\" style=\"width: 600px;\">\r\n\r\n如无特殊特殊投放需求，不建议过多设置，避免定向过窄，影响人群覆盖。\r\n\r\n## 2. 选择定向模版\r\n创建营销是可直接复用定向模板，多个营销可以使用同一个定向模版。\r\n\r\n定向模板可在新建定向过程中保存为定向模板，或在【资产】-【数据营销】-【定向模版管理】进行创建\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319163140_789860.png\" style=\"width: 600px;\">\r\n\r\n## 3. 预估覆盖人群及曝光数据\r\n根据选择的定向，系统会显示预估可覆盖的人群与曝光\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319163151_433218.png\" style=\"width: 600px;\">",
+    "catalogs": [
+      {
+        "catalog_id": 3772,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:07:38"
+      },
+      {
+        "catalog_id": 4596,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:08:37"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销定向能力升级说明\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/TajO9pEA?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910152359_576208.png\",\"uploadTime\":1740735843030,\"videoId\":\"fb5ca760-7b54-4112-b8eb-d9b01829ea47\"},{\"videoName\":\"【全行业】新投放模式营销创建指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/5EDZQGGo?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E6%96%B0%E6%8A%95%E6%94%BE%E6%A8%A1%E5%BC%8F%E5%B9%BF%E5%91%8A%E5%88%9B%E5%BB%BA%E6%8C%87%E5%BC%95.jpg\",\"uploadTime\":1741079479560,\"videoId\":\"1568ceb2-83d2-4577-a70a-eb25ed693d3a\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:01:21",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

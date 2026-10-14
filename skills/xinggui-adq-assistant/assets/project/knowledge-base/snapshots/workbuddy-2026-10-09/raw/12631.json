@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12631,
+    "title": "应用推广",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"应用推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"丰富App触达能力，优化转化效果\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"应用下载\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"支持应用宝/厂商渠道下载能力\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_bQdwi\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021194855_499957.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":932,\"naturalHeight\":1078,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"  \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"应用拉活\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"安卓deeplink / iOS ulink直达\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_OeYCB\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021194900_106242.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":932,\"naturalHeight\":1079,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"  \"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"新游预约\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"游戏预热期提前锁定核心人群\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_7KkNE\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251021194906_238159.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":932,\"naturalHeight\":1079,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5020,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:56:17"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-22 10:30:04",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

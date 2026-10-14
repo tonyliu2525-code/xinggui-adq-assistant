@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 6311,
+    "title": "规范术语",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 腾讯营销\r\n指由腾讯或腾讯关联公司自主研发并运营的营销营销平台，可为客户提供流量采购、营销推广、费用统计、数据查询、素材管理等服务。\r\n\r\n## 客户\r\n指通过腾讯营销向用户宣传、推广产品、服务的主体，客户包括企业客户和个人客户。本规范根据腾讯营销的业务状况，将其分为以下几类：\r\n\r\n**第一类客户**：指自己是商品的直接生产者、服务的直接提供者或商品、服务品牌的权利人等，并直接通过腾讯营销发布与自己直接生产、直接提供的商品或服务相关营销的客户。\r\n\r\n**第二类客户**：指经第一类客户合法授权后，以代理商、经销商、分销商等身份向消费者提供相应商品或服务，通过腾讯营销发布与自己代理、经销、分销等的商品或服务相关营销的客户。",
+    "catalogs": [
+      {
+        "catalog_id": 3843,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 17:27:49"
+      }
+    ],
+    "created_by_name": "nancysi",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-01-10 17:00:13",
+    "updated_at": "2024-07-08 17:27:49",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12629,
+    "title": "PhoneMax系列",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"PhoneMax系列\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"产品优势\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"首页全屏震撼破框，立体打造品牌记忆\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"支持媒体\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯视频、腾讯新闻、QQ音乐、\"},{\"type\":\"text\",\"text\":\"QQ浏览器\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"售卖方式\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"合约：CPM/CPD/第一刷\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"  \"}]},{\"type\":\"videoVerticalPhone\",\"attrs\":{\"id\":\"videoVerticalPhone_7n0d-\",\"dataSource\":[{\"id\":\"videoVerticalPhoneItem_Bq5v1\",\"src\":\"https://bbx-video.gtimg.com/0bc36qarwaabneahkdpwhzufx5gddp2acgya.f0.mp4\",\"poster\":\"\",\"caption\":\"PhoneMax\",\"naturalWidth\":0,\"naturalHeight\":0},{\"id\":\"phoneVerticalItem_xA2-k\",\"src\":\"https://bbx-video.gtimg.com/0bc3gaac4aaasmaeb5pxjbufumgdfyyaalqa.f0.mp4\",\"caption\":\"PhoneMax画廊\",\"naturalWidth\":0,\"naturalHeight\":0},{\"id\":\"phoneVerticalItem_0ADEP\",\"src\":\"https://bbx-video.gtimg.com/0bc37yar2aabliahga7whbufx7wddx7achia.f0.mp4\",\"caption\":\"轮播PhoneMax高光版\",\"naturalWidth\":0,\"naturalHeight\":0}]}}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5032,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-23 11:51:09"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-22 10:26:09",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

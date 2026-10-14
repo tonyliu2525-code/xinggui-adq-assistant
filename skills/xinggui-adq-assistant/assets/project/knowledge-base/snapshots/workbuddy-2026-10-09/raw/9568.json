@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9568,
+    "title": "自助信用金账户资金划转",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 自助信用金账户资金划转\n\n| *更新日期* | *2023-10-19* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要对信用金在不同账户之间进行划转\t，请通过以下方式发起：\n\n\n## 线上自助划转\n\n登录账户后台 → 顶端“财务”标签 → “财务信息” → 进入资金账户总览，可看到信用金的具体余额情况\n\n![划转首页.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231019165747_874601.jpg)\n\n点击“转账”按钮，选择需划转的账户类型，分别为ADQ账户和MP账户\n\n![划转弹窗.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231019165752_737297.jpg)\n\n选择划转账户类型后，系统将自动调取该账户类型下，可划转的具体账号信息\n\n选择具体账号后，再选择投放账户类型，分别为“竞价信用账户”和“合约信用账户”\n\n最后录入转移额度，此处需注意，金额勿超过系统提示的上限金额\n\n![账号和额度选择.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231019165756_551475.jpg)\n\n\n## 划转中的常见问题\n\n* 请于“腾讯营销服务商系统”通过绑定同一集团下不同主体（已签署账期协议或担保函提供互相担保）或者同一主体下不同账号，实现ADQ和ADQ之间信用金跨主体自助互转，ADQ-MP之间同主体自助互转，总授信额度不变；\n* 竞价滚动信用额度和合约滚动信用额度不能互转； \n* 资金账户的账期不一致不能互转；\n* 转移时需转出账户信用金余额大于转出额度；\n* 若因特殊原因无法进行账号绑定，或其他原因无法线上划转，请参照帮助中心内《线下信用金账户资金划转流程》进行线下信用金划转支持。",
+    "catalogs": [
+      {
+        "catalog_id": 4071,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 14:06:02"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-19 18:26:41",
+    "updated_at": "2026-04-28 11:17:59",
+    "nav_flag": 0
+  }
+}

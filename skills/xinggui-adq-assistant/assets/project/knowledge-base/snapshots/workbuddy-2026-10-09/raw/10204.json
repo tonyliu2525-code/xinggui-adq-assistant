@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10204,
+    "title": "营销组件管理",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、能力介绍\r\n* 咨询页效果更优：提供体验更优、引导更强、灵活度高的咨询页面\r\n* 全链路数据跟踪：提供从投放到实际咨询转化的全链路跟踪能力\r\n* 转化数据反哺投放：咨询转化数据应用于OCPX、定向人群优化，进一步提升效果。\r\n* 减少流失：提供客服不在线留言咨询，统一收集用户留资，减少用户流失率；\r\n* 自动获取线索：用户联系方式系统自动抓取，线索平台支持查询和展示；\r\n\r\n# 二、操作说明\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319210708_486265.png\" style='width:1040px; margin-top:10px'>\r\n\r\n[点击参考详情](https://docs.qq.com/slide/DT1JmRlp1VEJnVGp1)",
+    "catalogs": [
+      {
+        "catalog_id": 3782,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:59:54"
+      },
+      {
+        "catalog_id": 4550,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:21:26"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-19 21:09:14",
+    "updated_at": "2025-01-14 14:21:26",
+    "nav_flag": 0
+  }
+}

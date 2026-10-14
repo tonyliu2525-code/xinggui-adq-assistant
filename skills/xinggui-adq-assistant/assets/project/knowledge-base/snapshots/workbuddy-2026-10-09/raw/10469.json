@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10469,
+    "title": "自定义托管",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、功能介绍\r\n\r\n自定义托管（原智能投手-自定义托管）可帮助优化师实现系统实时盯盘和营销优化，如想要控制营销的成本（可选择需要监控的营销范围，设置转化成本超过X元或出价的Y%，自动调低出价或暂停）解放优化师长时间紧盯电脑的人力消耗，盯盘效率每半小时即可检查所有账户，减少损失。\r\n\r\n# 二、规则新建\r\n\r\n1）入口1：新版投放平台-概览，点击托管机器人开启存量规则与执行记录管理弹窗，再点击“新建托管规则”按钮，即可进入自定义托管规则新建界面\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171120_066640.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171120_066640.png\" style='width:600px'/></a>\r\n\r\n2）入口2:工具-自定义托管，在存量规则与执行记录管理界面点击”新建托管规则“按钮，即可进入自定义托管规则新建界面\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171124_787892.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171124_787892.png\" style='width:600px'/></a>\r\n\r\n3）规则命名\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607163839_276845.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607163839_276845.png\" style='width:600px'/></a>\r\n\r\n4）执行范围：支持账户维度、营销维度\r\n\r\n● 账户维度（托管所选账户下所有营销）：支持指定账户、全选账户\r\n\r\n● 营销维度（托管指定账户下的指定营销）：必须先选择账户，再选择账户下需要托管的营销\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607163938_228392.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607163938_228392.png\" style='width:600px'/></a>\r\n\r\n5）满足条件：可设置规则的触发条件（如消耗小于x时执行操作）\r\n\r\n● 数据口径：仅支持转化回传口径\r\n\r\n● 指标类型：支持营销属性指标、营销数值指标\r\n\r\n  营销属性指标：仅营销维度托管时支持，可使用如”营销版位”、“出价类型”、“日预算”等营销属性指标作为条件</br>\r\n\t营销数值指标：支持使用报表数据，如”花费“、”曝光次数“、”目标转化成本“等报表指标作为规则触发条件\r\n\r\n● 条件：支持等于、小于、大于、等触发条件\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164235_079651.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164235_079651.png\" style='width:600px'/></a>\r\n\r\n6）执行操作：支持启停营销、删除营销、修改投放开始日期、修改日预算、开关一键起量、修改出价、修改深度出价等托管操作；同时，可支持设置单日的执行次数上限，超过上限后，该托管操作将在此日内停止执行。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164406_352853.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164406_352853.png\" style='width:600px'/></a>\r\n\r\n7）执行时间：\r\n\r\n规则的运行时间，可选择每半小时、每小时、固定时间对执行范围进行扫描。因运行规则需要时间，实际规则操作时间可能会在开始运行后15分钟内完成。\r\n\r\n● 每半小时：规则创建成功后每半点/整点对运行对象进行一次扫描，如13:05分创建规则，则在13:30进行第一次扫描，之后则每隔半小时进行扫描。\r\n\r\n● 每小时：规则创建成功后每整点对运行对象进行一次扫描，如13:05分创建规则，则在14:00进行第一次扫描，之后则每隔1小时进行扫描。\r\n\r\n● 固定时间：可指定在周一至周日的具体某个时间点进行扫描。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164515_742946.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164515_742946.png\" style='width:600px'/></a>\r\n\r\n# 三、规则管理与查询\r\n\r\n1）可在自定义托管页面，对自己创建的规则或者协作者创建的规则进行查看及操作。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164601_240427.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607164601_240427.png\" style='width:600px'/></a>\r\n\r\n2）通过创建者信息，可查询规则的创建角色\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171128_662162.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611171128_662162.png\" style='width:600px'/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3788,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:21:50"
+      },
+      {
+        "catalog_id": 4528,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:45:56"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-07 16:46:56",
+    "updated_at": "2025-01-14 14:45:56",
+    "nav_flag": 0
+  }
+}

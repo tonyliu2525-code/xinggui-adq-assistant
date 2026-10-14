@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13043,
+    "title": "资产与工具箱",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、投放获取的客户表单线索在哪里查看？\n相关线索可在营销后台-工具-线索管理里面查看，详情可参考线索管理平台帮助中心链接： [腾讯营销 | 帮助中心](http://support.e.qq.com/leads/detail?cid=4041&pid=6836)。\n\n## 二、想要绑定企业微信投放素材该如何操作？\n登录腾讯营销 - 投放管理平台，点击页面上方的“工具”，在“账户管理”下选择“企业微信授权与客服管理”，再在跳转页面中选择“工具箱”- “企业微信授权与客服管理”，按流程操作即可，详情可参考文档介绍：[线索通营销组件授权微信客服](http://docs.qq.com/doc/DY3RUQmlCVGVSSnhY?from_account_guide=1)。\n\n## 三、视频号如何授权推广？\n进入投放管理平台：点击页面上方的“工具”，在“账户管理”下选择“微信生态账户授权”，按流程操作即可，详情可参考文档中“二、授权产品指引 2.视频号授权”  的相关内容 [微信视频号原生营销(竞价)投放指引 ](https://doc.weixin.qq.com/doc/w3_AHUAxAaCACcOGixFcsNSJmLmNZ8ZF?scode=AJEAIQdfAAo1rVrdAyAHUAxAaCACc )。\n\n## 四、线索管理后台的线索涉及隐私保护无法查看完整线索，该如何取消限制？\n如需取消线索加密，需联系账户「超级管理员」或「普通管理员」通过【系统设置-角色权限设置】手动关闭针对该角色数据加密按钮，详见[腾讯营销 | 帮助中心](http://support.e.qq.com/leads/detail?cid=4041&pid=6836)。\n## 五、一个账户能绑定多少个微信公众号？\n一个客户账号暂时只支持绑定一个公众号，一个公众号可授权至多个客户账号使用。\n## 六、若使用客户向平台打款验证，钱会退回吗？具体什么时候平台会退回？\n客户向平台打款金额会在客户打款后原路退回客户（无论打款成功还是打款失败，只要是打款给腾讯平台的，都会退款）；退回时间/退款时间：1-2天系统自动退回。\n## 七、身份验证超次数导致营销账户封停怎么办?\n需要新开账户重新验证，不支持解封账户。",
+    "catalogs": [
+      {
+        "catalog_id": 5153,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-03-12 15:59:54"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-03-12 15:59:38",
+    "updated_at": "2026-07-06 16:59:53",
+    "nav_flag": 0
+  }
+}

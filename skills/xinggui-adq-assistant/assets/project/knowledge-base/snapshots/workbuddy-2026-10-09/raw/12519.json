@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12519,
+    "title": "装修服务",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【装修服务库】适用于推广普通住宅/别墅/商业空间等的新房装修（毛坯/精装改造）和旧房翻新业务，包括全屋整装/局部改造。您可根据实际推广诉求，灵活选用库中和自身生意模式相匹配的资产类型，实现精准投放。\r\n\r\n| 推广产品示例\t| 营销创意示例| \r\n| -------- | -------- | \r\n| 全屋整装 - 普通住宅 _默认(品牌)_ 不限（面积)_传统装修（施工方式）\t|    \r\n![image (16).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161249_210775.png)       | \r\n\r\n# 二、创建推广产品（客户工作台/服务商系统）\r\n在客户工作台或服务商系统左上角/右上角登录进已创建的“业务单元”中，**仅“业务单元”支持创建和管理“装修服务库”的资产**。\r\n## 1、创建入口\r\n进入后点击“资产”，左侧列表展开推广产品，选择装修服务库。如果无法进入到工作台，请参考[【客户工作台】操作手册](https://doc.weixin.qq.com/doc/w3_AXQAsgaGABAGvhwf0N5T5mrc8YELP?scode=AJEAIQdfAAophqJ0z0AXQAsgaGABA)完成前置工作（比如工作台权限、提前创建好业务单元等）。 \r\n![image (17).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161302_705731.png)\r\n## 2、创建流程和要求\r\n1）**创建流程**  \r\n点击【新建产品】-选择【类目】-选择【关键属性】（品牌/面积/施工方式等）-填写【产品名称】。\r\n![image (18).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161318_947138.png)\r\n2）**创建要求**  \r\n同一个“业务单元”不可重复创建【类目】X【关键属性】完全相同的资产，产品新建后不可修改，请谨慎操作。\r\n![image (19).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161329_564343.png)\r\n## 3、管理推广产品\r\n1）**产品查看**    \r\n支持在工作台的列表查看所有创建的产品信息，包括推广产品的产品名称，产品类型，类目等基础信息，以及推广产品在所选时间段内的推广效果数据。支持按照产品名称/ID搜索。管理员和协作者均可查看。\r\n \r\n![image (20).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161340_861198.png)\r\n2）**产品编辑和删除**  \r\n➢编辑：只支持修改“产品名称”，不可修改关键属性。  \r\n➢删除：支持删除没有关联营销、关联的营销已删除的产品。\r\n![image (21).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161352_653609.png)\r\n\r\n# 三、使用推广产品（投放管理平台）\r\n●在[腾讯营销 - 投放管理平台](https://ad.qq.com/)创建3.0营销时，**逐一选择【营销目的】-【推广产品：装修服务】**，点击“选择产品”后可拉取到账户所属业务单元在该推广产品库下创建的所有产品。\r\n![image (22).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161405_762651.png)\r\n●一条营销仅支持选择一个产品，点击“产品信息”可查看具体设置的类目和关键属性。不可对同一个产品创建完全相同的多个营销。\r\n![image (23).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161425_036153.png)\r\n\r\n**特殊情况提醒**：  \r\n如果同一账户同时归属于客户业务单元和服务商业务单元，且两个业务单元都创建了资产时，以下场景需要手动选择业务单元，新建营销时系统仅拉取最新选择的业务单元下的推广产品：\r\n\r\n| 场景\t| 图例| \r\n| -------- | -------- | \r\n| **业务场景一**：在投放管理平台**第一次创建营销**时。添加产品会提醒选择产品来源（来源服务商，来源客户）；\t|    \r\n![image (24).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161438_170963.png)    | \r\n| **业务场景二**：在投放管理平台需要**切换产品来源（业务单元）** 时。在【投放管理平台】-【资产】-【产品库】-右上角【修改】-弹窗【修改产品来源】- 切换后再新建营销\t |    \r\n![image (25).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161453_434042.png)![image (26).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250901161457_989138.png)    |",
+    "catalogs": [
+      {
+        "catalog_id": 4978,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-09-01 16:17:11"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-09-01 16:16:38",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

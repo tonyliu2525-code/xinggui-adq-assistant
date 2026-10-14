@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11157,
+    "title": "第19期-阅读行业投放模式升级",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**Q1：**\r\n当前单营销下只能上传100条创意，开启30条创意，我要是想更多创意在线该怎么办呢？\r\n\r\n**A1：**\r\n同一本书的情况下，30条创意在线会减少创意间挤压，同时减少创意空耗，当一部分劣质创意无转化时，可以暂停并替换部分创意；\r\n\r\n不同书籍可以创建多条营销，多创意在线。如果100条创意满了，后续希望在该营销下继续更新创意，可以把历史不起量/成本差的创意删除，后再新增创意，不影响营销层级的消耗等数据展示，删除的创意可以单独选出来查看\r\n</br>\r\n</br>\r\n**Q2：**\r\n投放免费小说APP，一个账户建议同时跑2个版位吗？比如一个朋友圈营销，一个非微信版位?\r\n\r\n**A2：**\r\n同本书是完全没问题的，测试期可以多版位多投放，但尽量保持书是同类型-男女频，以及OG（深度目标优化）都是7日留存。\r\n比较好的颗粒度是：书的类型*OG，跑量起量后，筛选达标流量点位做放大\r\n</br>\r\n</br>\r\n\r\n**Q3：**\r\n组件化创意，同时添加图片和视频，针对跑量有没有什么帮助？\r\n\r\n**A3：**\r\n阅读赛道，组件化创意下多种类型是对起量有帮助的，可以覆盖更多流量场景\r\n</br>\r\n</br>\r\n**Q4：**\r\n一键起量的数值与消耗有什么关系吗？对比消耗开多少一键起量合适？\r\n\r\n**A4：**\r\n免费业务一般是20个激活出价的预算，付费业务一般1000-2000元/次\r\n</br>\r\n</br>\r\n**Q5：**\r\n什么时候支持批量调整营销出价、定向、投放时间？\r\n\r\n**A5：**\r\n目前已经上线营销粒度的批量开启&暂停、投放日期&时间、出价功能，定向粒度暂时不支持\r\n\r\n### 相关文档：\r\n[【腾讯营销】3.0投放平台-免费小说&免费短剧行业使用指南](https://doc.weixin.qq.com/doc/w3_ARMAHAafAIQ0HJaU7LuQSqUbMrWJa?name=eqq_support_nry)\r\n\r\n[【腾讯营销】3.0投放平台-付费小说&付费短剧行业使用指引](https://doc.weixin.qq.com/doc/w3_AJIARQYqACkh3gZtkSMTIyJetCW3J?name=eqq_support_nry)",
+    "catalogs": [
+      {
+        "catalog_id": 4488,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 14:34:26"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:44:12"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【阅读资讯行业】免费内容新投放模式通关秘技大放送\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/xzoWKNFl?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/KV__1.jpg\",\"uploadTime\":1741146396272,\"videoId\":\"a5b5712a-665f-4e28-b6a6-ad2c7275379a\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 14:34:11",
+    "updated_at": "2025-03-05 16:00:26",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 4446,
+    "title": "创意素材管理",
+    "sub_title": "",
+    "memo": "已生成转换格式文章",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "|  **文档更新日期**\t|  **主要更新内容**|  \r\n| -------- | -------- |\r\n|   2025年6月8日\t|   文件首次发布| \r\n\r\n# 一、什么是【素材】\r\n**腾讯营销（3.0）中定义的素材包含以下两大类——**\r\n\r\n|   **创意素材类型**  |   \t**创意素材支持上传规格**  | \r\n| -------- | -------- | \r\n| 视频-单个视频\t| 16:9、9:16、4:3| \r\n| 图片-单个图片\t| 16:9、9:16、4:3、1:1、3:2、3:4、4:3、5:4、4:5、20:7、7:2、100:9| \r\n\r\n\r\n# 二、创意素材管理\r\n## 1.业务单元（高维）素材管理路径\r\n| **客户工作台**| \t**服务商系统**| \r\n| -------- | -------- |\r\n|   1）**功能入口**：【客户工作台】/→资产→创意资产→创意素材![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123236_950127.png)<BR>2）**操作流程**<BR>✧请先选择所属业务单元；<BR>✧图片/视频素材上传，图片/视频数量限制为50个，单个文件上传限制为500M；<BR>✧完成上传后，可在素材列表刷新查看。<BR>✧🔥**上传素材的同时，系统会记录对应设计师，可通过新增的素材生产数、素材的优化师采纳率、被引入素材投放效果，进行优化师人效分析和管理。**![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123241_284940.png)![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123254_853650.png) | 1）**功能入口**：【腾讯营销服务商系统】投放→资产→创意资产管理→素材管理![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123246_409727.png)<BR>2）**操作流程**<BR>✧请先选择所属业务单元；<BR>✧图片/视频素材上传，图片/视频数量限制为50个，单个文件上传限制为500M；<BR>✧完成上传后，可在素材列表刷新查看。<BR>✧🔥**上传素材的同时，系统会记录对应设计师，可通过新增的素材生产数、素材的优化师采纳率、被引入素材投放效果，进行优化师人效分析和管理。**\r\n![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123250_838207.png)![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123259_785547.png)  |   \r\n\r\n## 2.单账户素材管理路径\r\n投放平台 -> 创意资产 ->创意素材管理\r\n![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123424_539087.png)\r\n\r\n\r\n\r\n## 3.创意素材管理（素材库）基础能力\r\n**以下为素材库的基础能力，不论是业务单元/单账户都支持** —— 若只在一个维度上支持，会在对应功能做额外说明.\r\n\t\r\n   |   **功能点**   |   **功能说明**   |\r\n| -------- | -------- |\r\n   |   素材上传\t   |   ●点击「上传素材」可以从本地进行批量的素材上传\r\n![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123455_854384.png)  |   \r\n   |   筛选管理\t   |   支持如下筛选项：<BR>●搜索：支持视频名称、ID的搜索 （预计6月底支持部分数字、字母的模糊搜索）![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123516_092030.png)<BR>●标签：支持内容管理标签、投放素材标签两种标签的筛选<BR>●所属账户：支持筛选出当前账户的素材 or 经由其他账户授权给该账户的素材<BR>●生成方式：原“素材来源”；支持筛选查看素材的生成来源（来源如图）![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123531_700717.png)<BR>●视频时长：0-15s、16-30s、31-45s、45-60s、60s+<BR>●尺寸筛选<BR>●创建时间：上传素材的时间<BR>●统计时间：素材在这个时间内产生的数据<BR>●自定义列：自定义列支持多指标![image (11).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123545_757788.png)<BR>●下载：支持下载当前页面的素材ID、指标数据  | \r\n   |   素材评估   |   \t支持展示系统对于该素材的质量评估信息，如：首发、低质...   |   \r\n   |   投放素材标签\t   |   详见：[3.0——投放素材标签使用指引](https://doc.weixin.qq.com/doc/w3_ADsAJAZaACo0nXewwsET1y0lTER71?scode=AJEAIQdfAAoyzdNo9XALsAcQaSAD4 )<BR>简介：在营销3.0项目中，营销会做唯一性校验，为满足客户在一次营销推广时，针对不同素材测试出价的诉求，投放平台支持了「投放素材标签」的管理与配置能力。客户可在投放流程进行关联投放素材标签，一次营销推广的营销关联不同投放素材标签后，可创建出价不同的营销，达到测试的目的。![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123635_065410.png)<BR>支持在标签管理-投放素材 添加   |   \r\n   |   内容管理标签   |   \t仅作为投放平台素材管理使用，用于提高素材筛选效率![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123653_794849.png)<BR>支持在标签管理-内容管理标签 添加   |   \r\n   |   素材授权\t   |   支持将当前账户的某种类型素材，全部授权给其他维度的账户（不支持单个图片、视频的授权）![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123705_453828.png)![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250613123709_114454.png)   |   \r\n\r\n\r\n\r\n# 三、联系我们\r\n我们非常重视您的使用体验，您在使用新版创意的过程中，有任何改进建议，欢迎随时向我们反馈：[点击反馈问题](https://wj.qq.com/s2/20534728/fct0/ )，您的每一条建议对我们都至关重要，帮助我们不断优化和完善功能、为您提供更好的服务。\r\n<BR>\r\n<BR>\r\n\t<BR>\r\n\t\t<BR>\r\n\t\t\t<BR>",
+    "catalogs": [
+      {
+        "catalog_id": 3782,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:13:48"
+      },
+      {
+        "catalog_id": 4550,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:23:41"
+      }
+    ],
+    "created_by_name": "aerozhuang",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】AI素材制作工具 - 妙思使用指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/VF2ROq9p?name=eqq_support_nry\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910152857_293735.jpg\",\"uploadTime\":1740736317604,\"videoId\":\"808a6a72-a33a-4c91-9d92-96064edc1130\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-03-01 18:44:49",
+    "updated_at": "2025-06-13 14:06:31",
+    "nav_flag": 0
+  }
+}

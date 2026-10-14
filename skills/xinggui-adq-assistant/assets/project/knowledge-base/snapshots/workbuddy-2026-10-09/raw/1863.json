@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 1863,
+    "title": "优量营销激励视频营销",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "全屏沉浸式体验，营销入口位置灵活，支持营销创建并设置相关定向，助力全屏营销。\r\n\r\n\r\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190808173540_585012.gif'></img>\r\n\r\n## 展示位置：\r\n\r\n\r\n将视频营销或营销页面巧妙融入App内，用户通过主动触发来获取App内对应奖励（如虚拟金币，积分）\r\n\r\n\r\n## 素材规范：\r\n\r\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220909112927_282528.jpg' style='width:400px;margin-left:20px;margin-right:20px'>\r\n\r\n\r\n## 售卖方式：\r\n\r\n\r\n曝光排期、智能投放\r\n\r\n\r\n## 日曝光量：\r\n\r\n\r\n5亿",
+    "catalogs": [
+      {
+        "catalog_id": 3728,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:53:07"
+      }
+    ],
+    "created_by_name": "宇逸-付梦妤",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"优量汇投放指南\",\"videoLink\":\"https://tencentads.com/l/ylhtfzn5\",\"videoImg\":\"https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240910144026_679550.png\",\"uploadTime\":1725950797495,\"videoId\":\"34dac1bc-d665-40c6-8436-621d8de8d95c\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2020-05-19 15:36:08",
+    "updated_at": "2026-04-29 18:24:52",
+    "nav_flag": 0
+  }
+}

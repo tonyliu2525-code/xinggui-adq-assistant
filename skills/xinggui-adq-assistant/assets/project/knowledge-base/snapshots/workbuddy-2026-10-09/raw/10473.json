@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10473,
+    "title": "搜索营销指定样式",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年5月26日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n搜索营销指定样式工具适用于投放搜一搜版位的客户，提供对投放中的搜索直投营销指定若干创意样式进行投放的能力。\r\n\r\n# 二、解决哪些问题\r\n\r\n搜索直投营销组件化投放，由引擎进行组件优选并拼接成最终的创意样式。美奢等行业对创意样式有指定需求，可通过指定样式工具实现。\r\n\r\n# 三、使用门槛\r\n\r\n搜索营销指定样式工具白名单支持；\r\n\r\n客户需要提前创建好投放搜一搜版位的搜索直投营销，且营销状态为投放中；\r\n\r\n部分样式需要确保创意中包含某些组件才可成功播放；\r\n\r\n# 四、操作说明\r\n\r\n## 1、入口\r\n\r\n工具——>投放管理——>搜索营销指定样式\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172604_851471.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172604_851471.png\" style='width:600px'/></a>\r\n\r\n## 2、新建样式组\r\n\r\n点击【+新建样式组】进入新建样式组页面\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172828_936942.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172828_936942.png\" style='width:600px'/></a>\r\n\r\n**2.1 选择绑定的营销**\r\n\r\n● 营销的下拉列表仅展示投放状态=投放中的营销；\r\n\r\n● 请确保所选择的营销其版位包含【搜一搜】，否则不生效；\r\n\r\n● 单账户最多允许绑定500条营销；\r\n\r\n● 支持重新选择营销；\r\n\r\n**2.2 添加创意样式**\r\n\r\n部分创意样式必填某些组件（除营销必填组件外），请确保绑定该创意样式的营销包含这些必填组件，具体为：\r\n\r\n● 竖版视频——9:16视频\r\n\r\n● 横版图片——16:9图片\r\n\r\n● 横版视频——16:9视频\r\n\r\n**2.3 设置样式组名称并点击【添加到营销】**\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607173621_390183.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607173621_390183.png\" style='width:600px'/></a>\r\n\r\n## 3、编辑样式组\r\n\r\n样式组列表——>操作列，点击【编辑】，进入编辑样式组页面\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172921_941895.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172921_941895.png\" style='width:600px'/></a>\r\n\r\n支持重新选择营销、创意样式，重新设置样式组名称。\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607173927_865000.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240607173927_865000.png\" style='width:600px'/></a>\r\n\r\n## 4、其他操作\r\n\r\n● 支持删除样式组；\r\n● 支持下载所有带绑定关系的样式组数据；\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172949_896462.png\" target=\"_self\" style=\"text-align: center;\">\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/285_20240611172949_896462.png\" style='width:600px'/></a>\r\n\r\n# 五、常见问题\r\n\r\n**Q：为什么营销列表中没有可选的营销？**\r\n\r\nA：指定样式仅对搜索直投营销生效；已经创建的搜索直投营销的投放状态必须为投放中",
+    "catalogs": [
+      {
+        "catalog_id": 3789,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:20:31"
+      },
+      {
+        "catalog_id": 4533,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:51:30"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-06-07 17:41:08",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

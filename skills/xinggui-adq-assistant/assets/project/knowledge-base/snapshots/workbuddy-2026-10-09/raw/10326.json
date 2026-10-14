@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10326,
+    "title": "【企微投放指引】绑定多企微主体账户 & 营销可按分配逻辑动态分配客服人员",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、整体功能描述：\r\n\r\n为了解决部份客户在微信流量场景下投放添加企微客服/ 企微群链路时、需要基于不同的分销 / 分流渠道配置对应客服人员的场景服务需求。腾讯营销在投放端工具箱和原生页能力上作了相应升级，支持了以下功能：\r\n\r\n**·** 一个客户账户可以绑定多个跨主体的企微账户（最多20个）      \r\n\r\n**·** 支持按照不同的分配逻辑（均匀分配/ 按地理位置分配）创建多个基于客服组/ 客服群组的集合\r\n\r\n**·** 客户在原生页、蹊径（后续支持）等落地页场景下，当选择了「联系商家」、「添加商家微信」等官方组件时，可以拉取到已创建的多个「客服组集合」、「客服群组集合」，创建落地页后关联到对应营销，则可以营销向用户曝光、且用户主动添加时，按照设定的分配逻辑分配对应客服人员。\r\n\r\n# 二、相关入口：\r\n\r\n1.MP入口：[https://mp.weixin.qq.com/cgi-bin/frame?t=ad_system/common_frame&t1=manager/enterprise_wx&token=360694258#/](https://mp.weixin.qq.com/cgi-bin/frame?t=ad_system/common_frame&t1=manager/enterprise_wx&token=360694258#/)\r\n\r\n路径：客户账户 - 工具 - 投放管理 - 企业微信授权与客服管理\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426161642_285406.png)\r\n\r\n2.ADQ入口：[腾讯营销 - 工具 - 首页](https://ad.qq.com/atlas/95918/tool/index)\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426161857_649398.png)\r\n\r\n# 三、操作指引：\r\n\r\n## 1.工具箱：\r\n\r\na.支持单个客户账户可关联多企微账户\r\n\r\nb.「组」层级：支持选择同一企微账户下的多个客服创建「客服组」、「客服群组」\r\n\r\nc.「分配集层级」：支持跨企微账户选择多个客服组、客服群组，按照不同的逻辑创建「集合」，用户通过原生页等可以被动态分配不同的客服\r\n\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426161919_474463.png)\r\n\r\n（1）账户名称 ：\r\n\r\n 支持快速切换不同的企微账户，切换后，对应的「客服组」、「客户群组」展示该主体下对应信息；「客服组分配集」因涉及跨账户客服信息，不跟随单个账户切换变化，可展示该客户账户下已经创建的所有集合信息\r\n\r\n（2）账号管理：\r\n\r\n点击进入账号管理详情页，可对已有账户配置归因和解除授权；通过右上角「+授权企业微信」，可跳转到对应企微第三方应用授权页，授权完成后即可在当前账号管理列表看到相应账户\r\n\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426161817_103168.png)\r\n\r\n（3）「客服」：\r\n\r\n点击客服入口，支持管理客服上下线状态\r\n\r\n（4）「新建客服组」、「新建客服群组」：\r\n\r\n支持添加同个企微主体下的 1 - N个客服人员 / 客服群到同一个「组」\r\n\r\n（5）「客服组分配集」- 「平均分配」：\r\n\r\n选择了该分配逻辑创建集合，在原生页、蹊径落地页使用相关企微组件（参考下文“原生页部分”）时，可通过指定该集合，与原生页和使用原生页的营销关联，用户通过营销添加企微客服/企微群时，可将集合内状态正常的客服人员作均匀分配承接咨询服务\r\n\r\n（6） 「新建分配集」：\r\n\r\n支持按照「均匀分配」（新增）和「地理位置分配」逻辑创建集合，每个集合只可选一种分配逻辑\r\n\r\n（7）「客服组分配集列表」：\r\n\r\n按照创建时间，最新的排在最前，展示跨主体下所有已创建的集合，且可通过「修改」按钮增删客服组\r\n\r\n## 2.原生页部分：\r\n\r\na.「**添加商家微信**」已升级支持多主体和组中组能力，白名单中的客户可见右侧组件配置逻辑的变更，选择「企业微信授权与客服管理」后将展现支持的配置选项\r\n\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426162135_722548.png)\r\n\r\n| 配置项 | 配置能力选项 | 说明  | 示意 |\r\n| -------- | -------- | -------- | -------- |\r\n| 客服     | 单客服组     | 无组中组的概念：保留原有客服组的能力，用户还是可选择不同主体下的客服     |\r\n![6.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426162945_045137.png)     |\r\n| 客服     | 多客服组-均匀分配     | 有组中组概念：支持拉取客户配置的全部组中组，仅可单选，并支持查看组中组里包含的客服组信息     |\r\n![7.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426162954_280561.png)     |\r\n| 客服     | 多客服组-地理位置     | 有组中组概念：支持拉取客户配置的全部组中组，仅可单选，并支持查看组中组里包含的地理位置集信息     |\r\n![8.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426163003_158069.png)     |\r\n| 客户群     | 单客户群组     | 无组中组的概念：保留原有客户群组的能力，用户还是可选择不同主体下的客户群     |\r\n![9.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426163013_225932.png)     |\r\n| 客户群     | 多客户群组-均匀分配     | 有组中组概念：支持拉取客户配置的全部组中组，仅可单选，并支持查看组中组里包含的客户群组信息     |\r\n![10.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426163021_088675.png)     |\r\n| 客户群     | 多客户群组-地理位置     | 有组中组概念：支持拉取客户配置的全部组中组，仅可单选，并支持查看组中组里包含的地理位置集信息     |\r\n![11.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426163034_942086.png)     |\r\n\r\nb.「**商家二维码**」已升级支持多主体，但组中组能力暂未支持，且仅支持客服组的选择。\r\n\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426163215_971585.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:23:51"
+      },
+      {
+        "catalog_id": 4534,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:55:52"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-26 16:33:02",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

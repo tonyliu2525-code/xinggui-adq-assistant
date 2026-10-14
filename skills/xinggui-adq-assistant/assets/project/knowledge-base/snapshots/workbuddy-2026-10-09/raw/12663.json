@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12663,
+    "title": "腾讯营销（小店版）",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 20,
+    "case_image_url": "",
+    "type_text": "通用模板23Q3",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 4,
+    "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯营销（小店版）\"},{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"是专为小店商家打造的轻量化投放工具。商家可以在\"},{\"type\":\"link\",\"attrs\":{\"id\":\"link_lJu8n\",\"src\":\"https://store.weixin.qq.com/shop/home\",\"text\":\"微信小店管理后台\",\"rightIcon\":\"\"},\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}]},{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"一键开通，高效推广\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"商品\"},{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"或\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"直播间\"},{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"，无转化不扣费，是小店经营必备工具。\"}]},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"一、一键开通\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"首次使用此能力，需由小店超级管理员前往开通。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_6Vq3y\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260511163048_306758.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1348,\"naturalHeight\":1272,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"二、产品优势\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"     \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"1. 成本保障：无转化不扣费，成本确定性强\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"justify\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"若投放后无用户转化，则不扣除任何费用，避免无效点击或展示带来的成本浪费，确保投放成本可控。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_m_XWY\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251016121059_218734.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1120,\"naturalHeight\":1659,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"     \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"2. 操作极简：最少 2 步，轻松开启商品与直播推广\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"justify\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"推广商品和推广直播间两种模式均支持极简创建，最少仅需两步即可完成。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_2m_8A\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2026/458_20260511162426_082163.jpg\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1080,\"naturalHeight\":1132,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"     \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"3. 素材零门槛：支持使用营销智能素材或上传自有素材\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"justify\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"平台智能生成营销素材与文案（AIGC创意由腾讯营销妙思提供），动态适配所有流量，同时支持上传自有素材。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_1hiy0\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251016121127_392914.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1120,\"naturalHeight\":1136,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"     \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"4. 全域流量：全流量触达，潜在客户丰富\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"justify\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"依托腾讯内外海量流量池，营销可投放至视频号、朋友圈、公众号、搜一搜、腾讯新闻、腾讯视频等生态优质流量，覆盖全域消费人群。\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image__1J63\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251016121138_023724.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1002,\"naturalHeight\":1143,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"三、商家案例\"}]},{\"type\":\"theimage\",\"attrs\":{\"id\":\"image_XP-pg\",\"src\":\"https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20251016161701_939302.png\",\"caption\":\"\",\"width\":\"50%\",\"ratio\":\"原比例\",\"naturalWidth\":1920,\"naturalHeight\":933,\"offset\":{\"x\":0,\"xPercent\":0,\"y\":0,\"yPercent\":0},\"markPoint\":{\"startX\":0,\"startY\":0,\"endX\":0,\"endY\":0},\"baseWidth\":960}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\"腾讯营销（小店版）将持续升级产品能力，提升投放效能，助力微信小店商家生意持续增长。\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"comment\",\"attrs\":{\"comment\":null,\"id\":null}}],\"text\":\" \"}]}]}",
+    "catalogs": [
+      {
+        "catalog_id": 5049,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-10-16 16:20:01"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-10-16 12:45:43",
+    "updated_at": "2026-05-11 16:31:00",
+    "nav_flag": 0
+  }
+}

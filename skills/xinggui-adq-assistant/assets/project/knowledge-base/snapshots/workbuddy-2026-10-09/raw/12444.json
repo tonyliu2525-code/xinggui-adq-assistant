@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12444,
+    "title": "游戏",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、定位和适用场景\r\n【PC游戏库】是为游戏行业量身打造的推广产品库，适用于投放所有PC游戏产品，客户需要按照要求完善PC游戏类目属性等特征，有利于模型理解、学习，投放效果更好。\r\n\r\n# 二、创建推广产品（投放端）\r\n## 1、创建入口\r\n在[腾讯营销 - 投放管理平台](https://ad.qq.com/)设置营销内容，推广产品选择「PC游戏」\r\n## 2、创建流程和要求\r\n●**首次投放**的新游（未创建过资产），点击“新建”\r\n![image (41).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182629_399486.png)\r\n➢按提示填写域名与路径以及游戏名称：  \r\n○域名：填写游戏PC游戏主域名  \r\n○一级目录：当一个主域名下有多个游戏产品时，请将不同游戏产品放在不同的一级目录下，创建PC游戏资产时，填写游戏产品所在的一级目录；当一个主域名下仅一个游戏产品时，可以不填写一级目录\r\n![image (42).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182641_975300.png)\r\n\r\n●**非首次投放**（已创建过资产），直接在下拉列表选择要投放的产品。  \r\n➢当选定投放的PC游戏已填写过特征时，系统会拉取特征展现。\r\n![image (43).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182700_504543.png)\r\n\r\n➢选定投放的游戏无特征信息时，请按照系统提示，先到游戏库完善特征信息\r\n![image (44).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182729_742532.png)\r\n○选择「PC游戏」，输入域名和游戏名称\r\n![image (45).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182740_548682.png)\r\n○完善游戏特征信息\r\n![image (46).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182750_530862.png)\r\n○此时PC游戏产品即创建完成并已完善特征信息，可以在游戏库查看已创建的PC游戏\r\n![image (47).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182759_152458.png)![image (48).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250813182803_703775.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4976,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-08-13 18:29:02"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-08-13 18:28:41",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

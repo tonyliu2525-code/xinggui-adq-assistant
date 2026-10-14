@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10344,
+    "title": "国家机构协会和社会工作审核规则",
+    "sub_title": "V4-20240508版1",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、法规条令\n\n1. 投放内容涉及寻找该区域确诊病例密切接触者，投放内容不得涉及用户隐私包括但不限于：<br>\n（1）不能出现具体姓名<br>\n（2）不能出现具体房间号\n\n 2. 推广悬赏类（如老赖）营销，外层素材、落地页不支持出现老赖信息，包括打码处理的信息\n\n\n 3. 不支持悬赏列表形式的素材内容\n \n- 支持场景：支持老赖信息在历史消息、二跳中出现\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![泄露隐私.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508155848_281996.png)     | ![泄露隐私 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508155930_561336.png)    | ![泄露隐私 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508160149_452116.png)     |\n| <font color=\"#FF0000\">**✖** 泄露隐私     | <font color=\"#FF0000\">**✖** 泄露隐私     | <font color=\"#FF0000\"> **✖** 泄露隐私     |\n\n\n\t\n\n4. 不支持公安局/征兵等出现枪支元素时涉及恶搞，歪曲、丑化、亵渎、否定等负面行为\n\t\n- 支持场景：支持公安局、征兵营销在外层素材出现枪支元素\n\t\n| **正确元素示例** | **正确元素示例** | **正确元素示例** |\n| -------- | -------- | -------- |\n| ![枪支-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508161127_494660.png)    | ![枪支-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508161157_685291.png)     | ![枪支-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240508161251_170332.png)    |\n| <font color=\"#008000\"> **√** 仅供参考     | <font color=\"008000\"> **√** 仅供参考   | <font color=\"#008000\"> **√** 仅供参考    \n\t\n\t\n\t\n\n## 二、平台要求\n\t\n\t\n 1. 不支持非政府主体投放政府营销\n\n 2. 不支持政府机关代投放其他客户营销，如推广公益项目时涉及具体当地房产、医疗机构\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![非政府主体投放政府营销.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509101833_466537.png)    |  ![非政府主体投放政府营销 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509101946_831683.png)    |  ![非政府主体投放政府营销 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509102035_687187.png)    |\n| <font color=\"#FF0000\"> **✖** 非政府主体投放政府营销    | <font color=\"#FF0000\"> **✖**  非政府主体投放政府营销     |  <font color=\"#FF0000\">**✖** 非政府主体投放政府营销    |\n\t\n\t\n\t\n3. 不支持疾病知识科普宣传客户体为医院\n\t\n\n4. 不支持疾病知识科普宣传营销出现收集用户信息、商业引流、疾病诊疗、医疗服务项目\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![疾病知识科普宣传主体不一致.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509103557_345706.png)    |   ![疾病知识科普宣传收集信息.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509103835_922633.png)   |  ![疾病知识科普宣传收集信息 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509103945_554218.png)    |\n| <font color=\"#FF0000\"> **✖** 疾病知识科普宣传主体不一致     | <font color=\"#FF0000\">**✖** 疾病知识科普宣传收集信息     | <font color=\"#FF0000\">**✖** 疾病知识科普宣传收集信息    |\n\t\n\t\n\n5. 不支持除国家党政机关及事业单位以外行业推广无偿献血义务\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例**  |\n| -------- | -------- | -------- |\n| ![无偿献血业务.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509104706_498307.png)   |   ![无偿献血业务 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509104808_742646.png)   | ![无偿献血业务 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509104901_436422.png)     |\n| <font color=\"#FF0000\">**✖**  无偿献血业务     | <font color=\"#FF0000\">**✖** 无偿献血业务     | <font color=\"#FF0000\">**✖** 无偿献血业务     |\n\n\t\n\t\n\t\n6. 推广失信人员公告或悬赏，不支持使用非关注类推广目标\n\t\n- 支持场景：支持推广悬赏类营销（如老赖），仅支持推广目标为“关注公众号”\n\t\n\t\n7. 推广疾病知识科普营销，如涉及疾病类描述或图片素材，需在营销外层图片或落地页首屏添加警示语：“公益宣传，面向社会公众发布”\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![未添加警示语.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509105255_117853.png)   |   ![未添加警示语 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509105343_147086.png)  | ![未添加警示语 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509105439_638328.png)     |\n| <font color=\"#FF0000\">**✖**  未添加警示语     | <FONT COLOR=\"#FF0000\">**✖** 未添加警示语     | <font color=\"#FF0000\">**✖**  未添加警示语  |\n\n\t\n\t\n\t\n## 三、资质要求\n\n\t\n1. 推广国家党政机关及事业单位行业的司法拍卖房产业务时，需提供相关房产拍卖公告\t\t\n2. 推广国家党政机关及事业单位行业的司法拍卖房产业务时，非法院主体需提供法院委托发布拍卖的授权委托书\n\n\t\n\t\n\n## 四、企业名称及头像\n\t\n\t\n1. 国家党政机关及事业单位营销需企业名称中明确所属省市区等行政地区，如：深圳工商局、铜川市委员会政法委员会\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![企业名称不正确.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509105942_228877.png)     | ![企业名称不正确（3）.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509110050_288063.png)     | ![企业名称不正确 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240509110142_725861.png)     |\n| <font color=\"#FF0000\"> **✖**  企业名称不正确   | <font color=\"#FF0000\">**✖** 企业名称不正确      | <font color=\"#FF0000\">**✖** 企业名称不正确     |",
+    "catalogs": [
+      {
+        "catalog_id": 4846,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-12 16:51:04"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-05-08 16:12:55",
+    "updated_at": "2025-06-12 16:51:04",
+    "nav_flag": 0
+  }
+}

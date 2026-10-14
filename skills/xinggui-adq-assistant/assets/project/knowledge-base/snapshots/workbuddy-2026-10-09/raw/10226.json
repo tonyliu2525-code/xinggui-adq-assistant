@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 10226,
+    "title": "餐饮审核规则",
+    "sub_title": "V4-0327录入1版-5/7",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、法规条令\n\n### 1. 不支持餐饮行业的月子餐出现保健功效性描述\n\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n|  ![保健功能性描述.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240325172828_918121.png)  | ![保健功能性描述 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240325172938_528923.png)     | ![保健功能性描述 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240325173038_581395.png)     |\n| <font color=\"#FF0000\"> × 保健功能性描述     | <font color=\"#FF0000\"> × 保健功能性描述     |  <font color=\"#FF0000\"> × 保健功能性描述   |\n\t\n\t\n\n\t\n## \t二、平台要求\n\t\n### 1. 不支持使用真实或动漫鹿形象的图片（*包括公众号头像、外层以及推广页素材*）\n\t\n\t\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n| ![真实鹿形象.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240325174457_805315.png)     | ![真实鹿形象 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240325174539_787021.png)    | ![真实鹿形象 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327093233_311941.png)    |\n| <font color=\"#FF0000\">× 真实鹿形象     | <font color=\"#FF0000\">×真实鹿形象     | <font color=\"#FF0000\">× 真实鹿形象 |\n\t\n\t\n\n\t\n### 2. 不支持在营销中未备注梅花鹿品种为“*吉林梅花鹿*”\n\t\n\n| 错误元素示例 | 错误元素示例 | 错误元素示例 |\n| -------- | -------- | -------- |\n|  ![未备注梅花鹿品种.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327094006_551867.png)    | ![未备注梅花鹿品种 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327094403_732168.png)    | ![未备注梅花鹿品种 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327094615_635658.png)     |\n| <font color=\"#FF0000\"> ×未备注梅花鹿品种   | <font color=\"#FF0000\"> × 未备注梅花鹿品种     |  <font color=\"#FF0000\"> × 未备注梅花鹿品种    |\n\t\n\t\n\t\n\t\n### 支持场景：\n\t\n1. 支持描述鹿品种为“*吉林梅花鹿*”\n\n\t\n| 正确元素示例 | 正确元素示例 | 正确元素示例 |\n| -------- | -------- | -------- |\n| ![梅花鹿通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327095131_598251.png)     | ![梅花鹿通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327095247_414581.png)    | ![梅花鹿通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240327095357_903036.png)    |\n| <font color=\"#008000\"> √ 仅供参考     | <font color=\"#008000\">√ 仅供参考     | <font color=\"#008000\"> √ 仅供参考     |\n\t\n\t\n\t\n\n## 三、资质要求\n\t\n\t\n### 1. 推广餐饮行业的月子餐业务时，需按照餐饮美食行业要求提交食品资质\n\t\n\t\n### 支持场景：\n\t\n1. 支持家政服务类月嫂培训会做月子餐等",
+    "catalogs": [
+      {
+        "catalog_id": 4816,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 09:55:34"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-25 14:10:10",
+    "updated_at": "2025-06-12 16:16:25",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10166,
+    "title": "组织定义",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1、组织定义\n\n\n| 集团 | 存在合作关系的组织合集（可以是政策集团 或能提供合作关系的主体集合等）  |\n| -------- | --------\n| 主体  | 即企业类客户唯一营业执照/个人类客户唯一身份证对应主体，管理实体  |\n| 业务单元 | 一个虚拟的营销组织集合，可关联相关组织信息（如账户、成员等），并实现数据资产、资金等资源的共享 |\n![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240314115404_887127.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3752,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:20:51"
+      },
+      {
+        "catalog_id": 4614,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:41:02"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:54:48",
+    "updated_at": "2025-02-19 15:50:31",
+    "nav_flag": 0
+  }
+}

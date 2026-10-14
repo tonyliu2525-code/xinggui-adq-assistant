@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10163,
+    "title": "账户列表",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、 账户来源\r\n账户列表所展示的账户来源包括：\r\n\r\n通过商务管家设置的操作者或观察者。\r\n\r\n通过服务商系统设置的自理投放管理员。\r\n\r\n通过直客投放端-协作者管理设置的管理员、操作者、观察者等。\r\n# 二、账户筛选与排序\r\n登录工作台后，账户列表默认展示您所管理的所有腾讯营销平台账户，所有的报表指标项均支持排序，同时您也可以通过筛选项对所管理的账户进行筛选，筛选项包括：\r\n\r\n按账户名称或ID：账户名称支持模糊匹配查询，账户ID支持完整匹配查询，您可以通过空格或逗号分隔来查询多个搜索条件\r\n\r\n按照新老营销：可筛选对应账户的 新旧营销的各类投放数据\r\n\r\n按所属服务商：支持按账户所属服务商的名称或ID进行筛选\r\n# 三、账户操作\r\n在账户列表中，您可以对投放账户进行一些基本操作，包括：\r\n\r\n跳转到投放平台\r\n\r\n设置标签（标签在组织内生效）\r\n\r\n设置备注（备注仅针对自己生效，其他管理该账户的用户不可见）\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320164930_213778.png\" style=\"\r\n    width: 1040px;\r\n\">",
+    "catalogs": [
+      {
+        "catalog_id": 3753,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:21:35"
+      },
+      {
+        "catalog_id": 4614,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:42:11"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741082396085,\"videoId\":\"2c5978ac-a9f9-472e-9bd1-10f94333b0e8\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:45:32",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

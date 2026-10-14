@@ -1,0 +1,56 @@
+{
+  "data": {
+    "post_id": 2067,
+    "title": "充值未到账退款",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 98422,
+        "name": "充值未到账退款申请表2501版.xlsx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2026/396_20260417122148_070482.xlsx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "is_audit": 1,
+        "size": 14829,
+        "size_format": "14.48KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "# 腾讯营销 充值未到账退款\n\n| *更新日期* | *2025-1-23* | *流程发布* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您 因支付信息错误、多打款等原因，需要对线下转账至腾讯营销对公账户还未进行充值到投放账户的资金进行退款，请通过以下方式发起：\n\n# 邮件申请\n*\n## 收件人\n收件人：AMS_JS@tencent.com\n\n抄送人：*[ 您的销售经理/渠道经理 ]*\n\n*\n## 邮件主题\n【腾讯营销】充值未到账退款 - *[ 退款主体名称 ]* - *[ 金额 ]*\n\n*\n## 邮件正文\n\n需对线下转账至腾讯营销对公账户还未进行充值到投放账户的资金进行退款，详情如下：\n\n |内容大类| 退款信息 | 客户填写 |\n| -------- | -------- | -------- | \n|被委托人信息|\t被委托人姓名  |  | \n|被委托人信息|\t被委托人身份证号码  |  | \n|被委托人信息|\t被委托人与退款主体的关系  | *法人/雇员/其他（具体说明）* | \n|被委托人信息|\t联系电话  |  | \n|被委托人信息|\t联系邮箱  |  | \n|支付信息|\t付款主体名称 |  | \n|支付信息|\t付款主体账号 |  | \n|支付信息|\t付款银行名称 | *XX银行XX省XX市支行* | \n|支付信息|\t收款主体名称 |  | \n|支付信息|\t收款主体账号 |  | \n|支付信息|\t收款银行名称 | *XX银行XX支行* | \n|申请详情|\t退款原因  |*退出合作/企业注销/其他原因* | \n|申请详情|\t具体说明  |  | \n\n\n*\n## 邮件附件\n\t* 付款凭证（转账汇款银行底单等）\n\t* 《腾讯营销退款申请表》扫描件，模板见本文末尾\n\t* 《营业执照副本》扫描件\n\t* 被委托人身份证正反面扫描件\n\n \n\n\n# 注意事项\n* 基于[交易合规要求](https://support.e.qq.com/detail?cid=4066&pid=9784)中交易过程需遵守资金流一致的原则，退款同样需要遵守一致性原则，仅支持退款至付款凭证上的付款方信息进行原路退回\n* 每笔退款只支持一次提交一笔未充值资金流水退款，如有多笔需充值未到账资金退款，请分别邮件发起\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4068,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:50:31"
+      }
+    ],
+    "created_by_name": "zhouzhoufan",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2020-05-25 16:16:45",
+    "updated_at": "2026-04-17 14:07:59",
+    "nav_flag": 0
+  }
+}

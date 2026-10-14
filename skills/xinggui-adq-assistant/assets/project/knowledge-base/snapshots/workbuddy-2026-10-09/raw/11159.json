@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11159,
+    "title": "第20期-消费品行业投放模式升级",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**Q1：**\r\n新投放下需要如何搭建优秀账户结构？\r\n\r\n**A1：**\r\n从消费品行业Top20的客户看有以下共性特征供参考：SPU数2-8个，营销数8-15个，创意数在线40+个；日新增营销2-5个，日新增创意15-20个\r\n\r\n在创意上，建议组件化创意和自定义创意同时测试，优先使用已验证过的优秀素材进行投放\r\n\r\n在预算设置上，建议不限制日预算，新账户余额在2w以上，起量后老户余额确保在前日的3-5倍；新营销建议设置5个付费成本以上的预算\r\n</br>\r\n</br>\r\n**Q2：**\r\n同个素材分多个营销、不同账户投放，会被判定同质化吗？算不算堆基建？\r\n\r\n**A2：**\r\n算，系统鼓励大家做的是正确表达营销内容（营销目的、推广产品、营销载体、优化目标），让系统知道考核维度、系统会基于这一维度来进行效果达成；同时，在同一营销内容基础上，尽可能多地增加原创的新素材，提升营销拿量能力。\r\n</br>\r\n</br>\r\n**Q3：**\r\n商品库对于营销的起量和ROI重要吗？\r\n\r\n**A3：**\r\n是的，在新投放模式下，推广产品（包括商品库的商品、活动等）是创建新营销必须有的内容，系统也会根据推广产品来进行预估及优化。\r\n</br>\r\n</br>\r\n**Q4：**\r\n新投放下营销不起量/掉量怎么办？\r\n\r\n**A4：**\r\n可以通过优化素材、出价和定向来改善和解决不起量和掉量问题，具体：\r\n\r\n素材维度：\r\n\r\n① 建议增加单营销素材的数量；\r\n\r\n② 建议拓宽素材的方向，进行不同类型素材测试；\r\n\r\n出价：\r\n\r\n① 如有提升空间，可以适当提高出价；\r\n\r\n② 建议实际出价超过目标出价＞20%。\r\n\r\n定向：开放定向\r\n</br>\r\n</br>\r\n**Q5：**\r\n新建创意能不能支持引用品牌形象、营销组件、落地页等，每次重新输入，很麻烦、还容易出错\r\n\r\n**A5：**\r\n该能力已支持，可在投放流程新建创意时直接复用已有组件信息，也可以按照组件维度查看效果数据。详细操作流程可参考：\r\n\r\n[【全新】3.0组件化管理功能指引](https://doc.weixin.qq.com/doc/w3_ALsAcQaSAD4XDeCP6CyQ6S5G7Vk98?scode=AJEAIQdfAAo1AaZOJa)\r\n\r\n[【消费品】腾讯营销新投放（3.0）功能指引](https://doc.weixin.qq.com/doc/w3_AKsAyAaCACccIwTwU82RASXowrk0K?name=eqq_support_nry)",
+    "catalogs": [
+      {
+        "catalog_id": 4489,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 14:40:44"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:43:31"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【消费品行业】新投放模式上手指南\",\"videoLink\":\"https://eschool.qq.com/Training/Detail/fa3bbbaf-ea2?name=eqq_support_nry\",\"videoImg\":\"https://cnstatic01.e.vhall.com/upload/saas/webinars/record-cover/20240524/7adf9f47699dc348bb944228ad3de17d.jpg\",\"uploadTime\":1741146556283,\"videoId\":\"2a57b8b6-b2c7-4e5b-adf9-e74e55735732\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 14:40:30",
+    "updated_at": "2025-03-05 16:01:17",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12729,
+    "title": "202510第二期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "### **【规则新增】通用-民间俗语审核规则要求**\r\n1、不支持传播任何宣称个人命运、生辰八字、鬼神意志、风水玄学等超自然力量可决定或改变人事吉凶祸福（如贫富、寿夭、官运），以及涉及装神弄鬼、驱邪扶乩、神符治病等活动的迷信内容导向的俗语。包括但不限于：\r\n<br>“一螺穷，二螺富”（以指纹断命运）\r\n<br>“小指过三关，到老有吃穿”（以手相断福运）\r\n<br>“大门三不冲，客厅三不放”（强调风水决定吉凶）\r\n<br>“穷则搬家，富不迁坟”（将贫富归因于迁坟行为）\r\n<br>2、支持描述生活现象、总结生产经验、反映社会常识或传统文化智慧等俗语。包括但不限于：\r\n<br> “清明前后，种瓜点豆”（反映农耕节气）\r\n<br> “谷不会离开田，鱼不会离开水”（生活常识）\r\n<br>3、支持对民间俗语中特定关键词进行解析或问答。包括但不限于：\r\n<br>“男占凹必发，女占凸必寡”，老祖宗识人术，凹凸指的是什么（关键词解析）\r\n\r\n### <br>【规则新增】电商-护肤彩妆涉及“孕妇/哺乳期妇女适用”描述\r\n护肤彩妆涉及“孕妇/哺乳期妇女适用”需提供对应证明。根据《化妆品分类规则和分类目录》 ，宣称孕妇和哺乳期妇女适用的产品属于C 类（新功效类别）。\r\n\r\n### <br>【规则放宽】电商- 宿迁花苗\r\n营销素材可支持宣传推广【宿迁花苗】",
+    "catalogs": [
+      {
+        "catalog_id": 5050,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-11-03 19:17:18"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-11-03 19:17:03",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 9149,
+    "title": "信用金账单联系人登记/更新",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 信用金账单联系人登记/更新\n\n| *更新日期* | *2023-9-7* | *流程更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 对信用金邮件账单收件人进行新增/更新，请通过以下方式发起：\n\n# 邮件申请\n*\n## 收件人\n收件人：*[ 您的销售经理/渠道经理 ]*\n\n抄送人：AMS_JS@tencent.com\n\n*\n## 邮件主题\n【腾讯营销】信用金邮件账单收件人登记 - *[ 客户名称 ]*\n\n*\n## 邮件正文\n\n我司信用金邮件账单收件人，需做以下变更：\n\n账单集团：\n\n账单主体：*全部主体/具体某个主体*\n\n原收件人：\n\n更新收件人：\n\n原抄送人：\n\n更新抄送人：\n\n\n# 处理流程\n1. 申请人发起邮件进行账单收件人登记/更新\n2. 腾讯营销业务侧复核人员身份并邮件回复更新意见\n3. 结算专员更新收件人并邮件回复更新结果\n\n# 注意事项\n* 账单联系人的登记和更新，已触发的账单不会重新发送，将于下期生效\n* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4072,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 13:54:21"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-09-07 16:46:40",
+    "updated_at": "2024-12-12 12:11:07",
+    "nav_flag": 0
+  }
+}

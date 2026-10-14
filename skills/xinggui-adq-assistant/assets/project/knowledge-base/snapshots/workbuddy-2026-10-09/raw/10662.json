@@ -1,0 +1,67 @@
+{
+  "data": {
+    "post_id": 10662,
+    "title": "保证金管理平台操作手册",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 92660,
+        "name": "保证金涉及线下流程指引及申请表.xlsx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2025/367_20250730185704_505731.xlsx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "is_audit": 1,
+        "size": 37456,
+        "size_format": "36.58KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "保证金管理平台是面向客户开放，为同一主体资质下保证金业务相关账号进行保证金缴纳、充值、开票和退款等业务的自助平台。\r\n\r\n# 一、保证金管理平台简介\r\n##  保证金管理平台操作概览：\r\n![保证金管理平台登录流程概览图-1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/367_20250321163706_127175.png)\r\n![保证金管理平台登录流程概览图 -2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/367_20250321163755_960585.png)\r\n# 二、保证金系统操作流程\r\n## 2.1 保证金管理平台登录\r\n*注：主管理员、管理员、有保证金操作权限的协作者才有保证金管理权限*\r\n\r\n**Step1：客户工作台登录（针对已注册客户工作台的客户）** \r\n\r\n1）若客户未注册工作台，请先注册工作台\r\n\r\n2）登录地址：[客户工作台](https://ad.qq.com/cm/home)\r\n \r\n3）登录路径：登录客户工作台后，点击【**财务 - 保证金管理**】即可\r\n ![工作台登录.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174235_150700.png)\r\n \r\n**Step2：客户工作台的管理员、保证金管理协作者角色配置**\r\n \r\n1）登录客户工作台，切换到“**管理**”模块下的“**成员管理**”\r\n\r\n2）对协作者添加“**保证金管理权限**”，配置后用户获取该主体的保证金操作权限\r\n![工作台角色配置1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174611_917442.png)\r\n![工作台角色配置2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174623_017250.png)\r\n## 2.2 保证金协议签署&管理\r\n\r\n### 2.2.1 保证金协议签署\r\n\r\n1）首次登录点击“**保证金管理**” 系统弹出保证金协议页面，客户确认无误后勾选左下角“**我已阅读，并同意**”，并点击右下角“**确定**”，即可进入保证金管理页面\r\n\r\n2）历史签署的保证金协议发生更新，需重新签署保证金协议\r\n![保证金协议签署.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174739_631794.png)\r\n \r\n### 2.2.2 保证金协议下载\r\n\r\n1）客户签署的保证金协议可在系统进行查看\r\n\r\n2）客户签署的保证金协议可在系统进行下载\r\n![保证金协议下载1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174832_366830.png)\r\n![保证金协议下载2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723174838_386376.png)\r\n## 2.3 保证金余额查看\r\n\r\n1）保证金余额状态：**已缴足、缴纳不足、正常**\r\n\r\n2）当前应补交金额：当前主体命中规则对应的金额—保证金余额\r\n\r\n3）超额可退金额：保证金余额—当前主体命中规则对应的金额\r\n![保证金余额查看.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723175305_145771.png)\r\n## 2.4 保证金规则查看\r\n\r\n1）进入保证金管理模块，点击保证金命中规则查看“**详情**”\r\n\r\n2）查看保证金命中的所有保证金规则详情，可查看需缴纳的保证金类型和应缴纳金额\r\n![保证金规则查看1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723175433_868296.png)\r\n![保证金规则查看2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723175440_688131.png)\r\n## 2.5 保证金充值\t\r\n\r\n*注：需先点击保证金命中规则详情，查看是否命中保证金缴纳规则，若未命中保证金缴纳规则，无需缴纳*\r\n\r\n### 2.5.1  线上充值\r\n\r\n1）登录客户工作台，点击查看“**在线充值**”\r\n\r\n2）输入充值金额后进行确认\r\n\r\n3）进行线上充值\r\n![线上充值1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180048_757649.png)\r\n![线上充值2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180104_284660.png)\r\n![线上充值3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180114_494362.png)\r\n### 2.5.2 线下充值（即线下转账）\r\n\r\n1）登录客户工作台，点击查看“**在线充值**”\r\n\r\n2）点击“**了解更多**”\r\n\r\n3）线下转账/汇款的信息\r\n\r\n完成线下转账汇款后，客户/服务商需发邮件到**guarantee@tencent.com**邮箱申请认款，邮件要求详情如下图所示\r\n![线下充值1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180157_658704.png)\r\n![线下充值2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180205_112821.png)\r\n![线下充值3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180214_056209.png)\r\n![线下充值4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20241111165332_856388.png)\r\n## 2.6保证金退款\r\n\r\n### 2.6.1 全额退款\r\n\r\n1）登录系统后，点击“**退款**”\r\n\r\n2）根据实际需求，退款类型选择**全部退款**，并提交退款申请\r\n\r\n3）提交退款申请后，退款流程进入**30个自然日的退款等待期**\r\n\r\n4）30天后进入退款记录页面，点击“**确认退款金额**”\r\n\r\n5）填写保证金结算函等退款信息，提交审批——需关注审批结果，若审批被驳回，需及时按照要求重新提交退款信息资料\r\n\r\n6）提交后进入退款审批中，等待财务审核完毕后，退款至客户银行账户\r\n![全额退款1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180413_332136.png)\r\n![全额退款2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180420_458953.png)\r\n![全额退款3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180431_891997.png)\r\n![全额退款4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180441_412157.png)\r\n### 2.6.2 超额退款\r\n*注：如已有退款申请，则不支持再次申请退款*\r\n\r\n1）登录系统后，点击“**退款**”\r\n\r\n2）退款类型选择**超额退款**，并提交退款申请\r\n\r\n3）提交退款申请后，退款流程进入**30个自然日的退款等待期**\r\n\r\n4）30天后进入退款记录页面，点击“**确认退款金额**”\r\n\r\n5）填写保证金结算函等退款信息，提交审批——需关注审批结果，若审批被驳回，需及时按照要求重新提交退款信息资料\r\n\r\n6）提交后进入退款审批中，等待财务审核完毕后，退款至客户银行账户\r\n![超额退款1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180642_897999.png)\r\n![超额退款2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180652_818610.png)\r\n![超额退款3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180658_063408.png)\r\n![超额退款4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723180707_681370.png)\r\n## 2.7 保证金扣罚开发票\r\n*注：仅针对已扣罚的保证金可支持开发票*\r\n\r\n1）登录系统进入财务记录模块，勾选可申请的开票记录选择“**申请开票**”\r\n\r\n2）填写开票信息，并提交申请\r\n\r\n3）二次提醒客户开票后无法申诉，确定后进行开具发票\r\n\r\n4）开票单状态变为待处理，等待平台开具发票\r\n\r\n5）过程中可以支持撤销开票申请\r\n![发票1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181202_700356.png)\r\n![发票2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181211_903148.png)\r\n![发票3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240724154302_034334.png)\r\n![发票4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181224_511150.png)\r\n## 2.8 保证金财务记录查询\r\n1）可查看充值记录、扣罚记录等流水的信息\r\n\r\n2）查询扣罚的明细-查询扣罚对应的违规记录\r\n\r\n3）查询扣罚的明细-违规明细\r\n![财务记录1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181319_483350.png)\r\n![财务记录2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181334_062487.png)\r\n![财务记录3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240723181342_055665.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4091,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-09-26 12:04:27"
+      },
+      {
+        "catalog_id": 4433,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-09-26 12:07:00"
+      }
+    ],
+    "created_by_name": "emmagrzhang",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-07-23 18:15:19",
+    "updated_at": "2025-12-11 09:53:53",
+    "nav_flag": 0
+  }
+}

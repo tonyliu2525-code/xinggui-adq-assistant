@@ -1,0 +1,66 @@
+{
+  "data": {
+    "post_id": 7276,
+    "title": "原生推广页(即将下线)",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 原生推广页\r\n全屏原生体验，让用户沉浸在天马行空的创意之中\r\n<br>\r\n<img src='https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715163846_988981.jpg' \r\nstyle='width:200px;margin-top:10px'></img>\r\n\r\n## 推广页特点\r\n\r\n* 支持丰富功能组件，原生、全屏的沉浸式浏览体验\r\n\r\n* 针对不同推广目标，支持不同模板与跳转行动按钮\r\n\r\n* 特别注意，*原生推广页体验要求营销外层素材与内层顶部素材须一致。* 如设置视频营销时仅可以选择顶部素材为视频的自定义原生推广页。\r\n\r\n## 原生推广页使用手册\r\n\r\n为更好地协助客户简便、高效创建原生推广页，微信营销全面升级了原生推广页编辑器，优化了创建流程，并提供了行业优秀模板，全新编辑工作区与货架组件等新能力。\r\n\r\n**[原生推广页使用手册>](https://ad.weixin.qq.com/landing-page-guide.html#/382)**\r\n\r\n## 原生推广页—自定义模板样式规范\r\n\r\n### 推广页整体规范\r\n\r\n* 最终输出的文件总大小 ≤24M，其中除长视频外的资源大小 ≤4M\r\n\r\n* 模块间不可重叠\r\n\r\n* 分享缩略图由系统自动截取（如果是原生图文营销，自动截取外层图正中最大尺寸的正方形图片；如果是原生视频营销，自动截取视频首帧画面正中最大尺寸的正方形图片）\r\n\r\n### 顶部组件规范\r\n\r\n* **顶部图片规格要求**\r\n\r\n![6ulp9uvk_665562be.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715155949_256897.png)\r\n\r\n* **顶部轮播图规格要求**\r\n\r\n![r5ab5985_7dc098c3.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160042_796277.png)\r\n\r\n* **顶部视频规格要求**\r\n\r\n  * 朋友圈信息流营销\r\n![1li8kcl0_9e3e1c1c.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160129_889837.png)\r\n\r\n  * 公众号、小程序营销\r\n ![826mdbsm_0491512f.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160310_295195.png)\r\n \r\n###  图片组件规范\r\n\r\n* **图片规格要求**\r\n![nhxbxect_7984d558.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160455_453601.png)\r\n\r\n* **轮播图规格要求**\r\n![e3ptgwd1_5d205819.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160523_095151.png)\r\n\r\n* **全景图规格要求**\r\n![9tgmjnv0_5d205819.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160554_222619.png)\r\n\r\n### 视频组件规范\r\n\r\n视频规格要求\r\n![hslaqn4d_dd455795.png](https://bbx-pic.gtimg.com/bbx/pictures/2022/211_20220715160645_302957.png)\r\n\r\n* 视频自动播放触发条件：画面露出50%时开始播放，移出50%则停止\r\n\r\n* 声音播放逻辑：原生图文营销，视频自动播放默认无声；原生视频营销，视频自动播放默认有声。可手动通过声控按钮控制声音开关。\r\n\r\n* 需要注意的是，如若视频时间太长，低端机型可能加载卡顿，导致音画不同步的问题。\r\n\r\n### 文本组件规范\r\n\r\n* 文字颜色：自定义\r\n\r\n* 字体：暂时无法支持居中，用户浏览时呈现手机的默认字体（如有特殊字体需求，请使用图片模块）\r\n\r\n* 字体大小：14~36 像素\r\n\r\n* 字体类型：可选择普通或加粗\r\n\r\n* 顶部及底部边距：默认 22 像素，如需调整，可点击“更多高级设置”\r\n\r\n### 按钮组件规范\r\n\r\n* 可选样式：实心或空心的直角按钮，颜色可自定义，按钮文案不超过10个字\r\n\r\n* 按钮尺寸： 80 X 380 像素\r\n\r\n* 排列方式：居中，一行只有一个按钮，且不能叠放在其他模块上\r\n\r\n* 模块背景：无（按钮置于背景色上，可通过调节页面颜色设置按钮背景色）\r\n\r\n* 按钮功能：可根据推广目标选择设置跳转普通外链、跳转公众号原生介绍页、跳转微信卡券领取页、跳转移动应用下载页，*但须与推广目标保持一致性。* 如推广目标为公众号关注，则自定义原生推广页中必须有一个按钮跳转关注公众账号，同理，如推广目标为移动应用推广，则详情推广页中需有一个按钮跳转下载应用。\r\n\r\n* 按钮文案：应用下载的文案必须为：应用下载、APP 下载、立即下载、下载四种之一\r\n\r\n### 翻页效果组件规范\r\n\r\n翻页效果组件可以应用于不同的页面内容之间，做页面信息的区分。加了翻页效果的页面将会分为两段，用户需要滑动才能进行翻页。\r\n\r\n### 其他建议规范\r\n\r\n* 长视频建议不连续使用\r\n\r\n* 一屏内建议不同时出现两个视频\r\n\r\n* 全景图片建议不连续使用\r\n\r\n* 轮播图片建议不连续使用\r\n\r\n* 为了阅读体验更优，图片内字体大小建议不小于 18 像素\r\n\r\n* 为了营销效果更优，页面总长度建议控制在 10 屏以内\r\n\r\n## 原生推广页—行业模板使用\r\n\r\n*\r\n### 预览模板\r\n\r\n将鼠标移动至对应的模板封面上，点击“预览模板”，可以在线浏览模板内容，或者扫描右侧的二维码进入手机端浏览模板。\r\n\r\n*\r\n### 使用模板\r\n\r\n将鼠标移动至对应的模板封面上，点击“使用模板”，即可进入编辑器使用该模板。2\r\n\r\n*\r\n### 使用空白模板\r\n\r\n点击“使用空白模板”，进入编辑器，自定义创建你的原生推广页。",
+    "catalogs": [
+      {
+        "catalog_id": 3703,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 11:49:04"
+      },
+      {
+        "catalog_id": 3794,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:44:15"
+      },
+      {
+        "catalog_id": 4551,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:25:29"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销官方建站工具介绍\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/KzvizqnX?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E6%9C%AA%E6%A0%87%E9%A2%98-1(2).jpg\",\"uploadTime\":1741080604391,\"videoId\":\"d19185ca-7baa-4b54-ba3a-3334c360df6f\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-07-15 16:12:35",
+    "updated_at": "2026-04-29 18:24:53",
+    "nav_flag": 0
+  }
+}

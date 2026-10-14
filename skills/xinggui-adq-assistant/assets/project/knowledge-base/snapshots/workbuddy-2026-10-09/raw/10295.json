@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10295,
+    "title": "保证金发票申请",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 腾讯营销 保证金发票申请\n\n| *更新日期* | *更新日期 2024-4-12* | *流程更新* |\n| -------- | -------- | -------- |\n\n全国各省级税务机关陆续发布《关于开展全面数字化的电子发票试点工作的公告》，全国各地已经开始试点并持续加大全面数字化的电子发票（以下简称“数电票”）的推广使用力度，腾讯营销的各签约主体公司均列入试点单位，于2024年3月起全面切换数电票。保证金扣罚产生的发票，需以电子发票的方式提供，请按以下方式申请发票：\n\n\n## 保证金扣罚开发票\n*注：仅针对已扣罚的保证金可支持开发票*\n\n1）登录保证金管理平台进入保证金财务记录模块，勾选可申请的开票记录选择“申请开票”\n\n2）填写开票信息，并提交申请\n\n3）二次提醒客户开票后无法申诉，确定后进行开具发票\n\n4）开票单状态变为待处理，等待平台开具发票\n\n5）过程中可以支持撤销开票申请\n![发票1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240724152413_131503.png)\n![发票2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240724152422_201332.png)\n![发票3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240724154302_034334.png)\n![发票4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/367_20240724152433_911085.png)\n\n## 其他相关文章\n* [腾讯营销全面数字化的电子发票切换、自助开票和电子化交付的通知](https://support.e.qq.com/detail?cid=4078&pid=10119)\n\n* [营销金发票](https://e.qq.com/ads/helpcenter/detail?cid=3526&pid=9562)\n\n* [预付费发票自助申请](https://support.e.qq.com/detail?cid=4075&pid=2069)",
+    "catalogs": [
+      {
+        "catalog_id": 4075,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 12:01:46"
+      },
+      {
+        "catalog_id": 4091,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 12:02:08"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-17 16:20:12",
+    "updated_at": "2026-04-17 14:14:39",
+    "nav_flag": 0
+  }
+}

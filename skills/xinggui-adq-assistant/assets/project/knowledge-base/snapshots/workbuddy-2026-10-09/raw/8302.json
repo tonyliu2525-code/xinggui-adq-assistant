@@ -1,0 +1,81 @@
+{
+  "data": {
+    "post_id": 8302,
+    "title": "第1期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "尊敬的客户您好，\r\n\r\n近期腾讯营销平台接到多起涉及未事先取得合法有效授权在营销中使用他人(*含自然人和企业等组织*)名义、形象的营销投诉，经腾讯营销评估，认为此类素材存在“未经他人授权，使用侵犯他人知识产权的内容、产品或服务(*包括但不限于著作、版权、姓名、肖像、专利、商标、声音等*) 进行商业推广”的违规场景，已构成违反《腾讯平台客户管理规范》第三章B2 涉及侵权类 [腾讯营销平台客户管理规范](https://support.e.qq.com/detail?cid=3834&pid=6295)\r\n \r\n \r\n为保护相关主体合法权益，避免造成社会不良影响，请客户务必自查并及时删除此类侵权素材，严格遵守腾讯营销平台投放规则，避免投放违规营销。\r\n\r\n若后续发现仍有客户提交此类素材的，腾讯营销平台将对违规主体严格执行包括但不限于下线侵权素材、要求赔偿损失、封停违规账户等处置措施。感谢您的理解与配合!",
+    "catalogs": [
+      {
+        "catalog_id": 4765,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:00:59"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [
+      {
+        "tag_id": 533,
+        "name": "概览页branner",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 532,
+        "name": "概览页",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 647,
+        "name": "全部文章",
+        "tag_category_name": "服务商效维客小程序",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 646,
+        "name": "推荐列表",
+        "tag_category_name": "服务商效维客小程序",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 642,
+        "name": "new",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 640,
+        "name": "最新推荐",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-06-21 18:01:20",
+    "updated_at": "2025-06-12 11:50:25",
+    "nav_flag": 0
+  }
+}

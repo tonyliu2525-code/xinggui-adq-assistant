@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 4435,
+    "title": "优量汇流量筛选工具介绍",
+    "sub_title": "",
+    "memo": "已生成转换格式文章",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "https://docs.qq.com/pdf/DYWRPeGtiaFhkZlBq",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 功能介绍\r\n\r\n## **流量筛选工具简介**\r\n\r\n流量筛选工具主要用于优量营销的效果优化。对达到一定消耗的客户，提供营销位维度的转化效果明细数据，依据效果数据对优量营销的流量进行屏蔽和定投，从而提升其营销在优量营销的投放效果。\r\n\r\n**开通条件：**\r\n\r\n![图1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301174942_055191.png)\r\n\r\n## **拓展功能**\r\n\r\n### **功能一 账户互通**\r\n\r\n引入商务管家（BM）中的商务账号ID和投放管理平台账户ID对应关系，当商务账号ID下有任意1个投放管理平台账户ID达到了流量筛选工具使用门槛之后，旗下绑定的其他投放管理平台账户也可以使用流量筛选工具，生成屏蔽和定投流量包投放使用，且各账户内查看到的营销位ID均一致。\r\n\r\n**账户互通开通条件：**\r\n\r\n1.直客用户\r\n\r\n2.客户账户有商务管家权限、商务账号ID和投放管理平台账户ID的关联权限。\r\n\r\n3.商务账号ID中有至少一个投放管理平台账户ID达到流量筛选工具准入门槛。\r\n\r\n满足以上3点即可联系运营人员申请开通账户互通功能。\r\n\r\n**注意事项：**\r\n\r\n![图2.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175015_556444.png)\r\n### **功能二 流量包授权**\r\n\r\n通过商务管家（BM），将认领的客户账号的流量包授权到其他客户账号，同一流量包无需各个账户逐一上传。\r\n\r\n![图3.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175021_357344.png)\r\n**账户授权范围：**\r\n\r\n- 指定BM账户下的所有客户ID\r\n- 指定公司主体下的所有客户ID\r\n- 指定客户ID\r\n\r\n**被授权账户下流量包能力：**\r\n\r\n- 绑定营销进行定投/屏蔽\r\n- 在被授权账户下删除流量包，不影响授权账户的流量包使用\r\n\r\n**授权账户下流量包能力：**\r\n\r\n- 绑定营销进行定投/屏蔽\r\n- 若要删除已授权出去的流量包，需先取消授权\r\n\r\n\r\n# 使用指引\r\n## **流量筛选工具使用方法**\r\n\r\n### **步骤一 工具入口**\r\n\r\n在投放端选择工具 – 投放管理 – 腾讯营销联盟流量筛选\r\n\r\n![图4.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175025_185517.png)\r\n### **步骤二 数据分析**\r\n\r\n①选择需要进行流量筛选的应用，以及用于分析的效果数据起止时间\r\n\r\n![图5.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175028_528872.png)\r\n②在“自定义列”中，勾选作为流量筛选依据的效果数据字段，然后点击“确定”\r\n![图6.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175032_975858.png)\r\n\r\n### **步骤三 生成流量包**\r\n\r\n「方法一」投放端选取法\r\n\r\n**流量包中包含营销位较少时建议使用该方法**\r\n\r\n①直接在投放端勾选需要定投或屏蔽的营销位\r\n\r\n②勾选完毕后，点击“生成定投流量包” 或 “生成屏蔽流量包” 按钮\r\n\r\n③填写流量包名称并保存\r\n\r\n![图7.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175035_604208.png)\r\n\r\n\r\n「方法二」批量上传法\r\n\r\n**复杂分析、批量操作或流量包中营销位数量较多时，建议使用该方法**\r\n\r\n①在流量筛选工具中点击“下载报表”，下载明细数据\r\n\r\n②将所需定投或屏蔽的营销位ID，保存为与模板格式一致的txt文件\r\n\r\n③-④点击“上传流量包”按钮，上传上一步中保存的流量包文件，选择流量包类型，填写流量包名称，提交生成流量包\r\n\r\n![图8.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175038_568504.png)\r\n### **步骤四 流量包应用到营销**\r\n\r\n「方法一」单营销绑定\r\n\r\n①创建/编辑营销选择腾讯营销联盟版位\r\n\r\n![图9.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175044_222073.png)\r\n②展开腾讯营销联盟流量包定投/屏蔽，勾选流量包\r\n![图10.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175047_811470.png)\r\n\r\n「方法二」批量营销绑定\r\n\r\n①在投放端营销列表页点击批量操作\r\n\r\n②勾选需要绑定流量包的营销，在【更多】中点击修改流量包\r\n\r\n![图11.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175051_694310.png)\r\n③选择流量包定投/屏蔽，并在操作页面勾选需要绑定或解绑的流量包\r\n![图12.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301175053_982707.png)\r\n\r\n\r\n\r\n# 常见问题\r\n\r\n**Q:为什么要设置消耗门槛？**\r\n\r\nA:进行有效的流量筛选决策需要一定量级的数据积累，为了避免客户在缺乏足够数据积累时进行筛选造成的潜在损失，我们设定了工具使用的最低门槛。\r\n\r\n**Q:我的账户消耗未达标，可以申请白名单开通使用权限吗？**\r\n\r\nA:该功能使用权限为系统根据消耗情况自动判断，无法通过白名单开通。\r\n\r\n**Q:商务管家关联了多个账户，有一个账户满足流量筛选工具的使用门槛了，其他账户也可以使用吗？**\r\n\r\nA:您可以联系运营人员，申请开通同一商务账号ID内多个投放管理平台账户互通功能。\r\n\r\n**Q:为什么流量包需要定期更新？**\r\n\r\n随着投放时间推移，营销可能会展现在新的营销位上，同一营销位效果也有可能发生变化。为保证投放效果，建议定期对投放数据进行分析，并对流量包进行更新。",
+    "catalogs": [
+      {
+        "catalog_id": 3791,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:35:16"
+      },
+      {
+        "catalog_id": 4535,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:56:42"
+      }
+    ],
+    "created_by_name": "wellingchen",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-02-26 17:07:37",
+    "updated_at": "2025-01-14 14:56:42",
+    "nav_flag": 0
+  }
+}

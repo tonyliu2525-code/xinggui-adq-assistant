@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 13148,
+    "title": "AI标识整改",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "日常风控治理过程中，平台发现部分广告主使用未标注“AI 生成”的广告素材容易出现误导、侵权等风险，为了进一步保障用户权益，营造良好的生态环境，近期平台针对 AI 生成广告内容作出如下规范：\n<br>（1）AI生成式广告标识要求 \n<br>在AI生成的内容区域，应全程持续展示AI显式标识。标识需明确带有如“本广告素材使用AI技术生成”、“本广告素材使用深度合成技术生成”、“本广告由AI技术生成”等类似表述，确保用户可明确识别相关内容为AI生成。\n<br>（2）AI虚拟人标识要求 \n<br>在数字虚拟人展示区域，应全程持续展示AI显式标识，标识需明确带有如“AI数字人”或“本广告使用数字虚拟人”等类似表述，清晰提示虚拟人属性。\n<br>发布时间：2026.04.16",
+    "catalogs": [
+      {
+        "catalog_id": 5159,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-04-16 14:18:13"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-04-16 14:18:00",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

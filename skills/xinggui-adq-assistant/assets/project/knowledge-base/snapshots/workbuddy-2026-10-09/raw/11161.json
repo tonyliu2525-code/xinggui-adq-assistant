@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11161,
+    "title": "第23期-腾讯营销妙思自动化应用",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**Q1：**\r\n妙思自动化生成的素材，符合审核标准吗？\r\n\r\n**A1：**\r\n大多数情况下，自动生成的素材会继承原始创意的审核结果，但部分素材仍需正常审核。\r\n</br>\r\n</br>\r\n**Q2：**\r\n自动化能否生成视频素材？\r\n\r\n**A2：**\r\n可以。支持的视频生成功能包括视频长剪短、视频换尺寸、视频混剪等。新功能如换背景、换语言正在规划中。\r\n</br>\r\n</br>\r\n**Q3：**\r\n账户A上传素材后再授权给账户B，素材是否会再次自动化生成新素材？\r\n\r\n**A3：**\r\n如果账户A整体授权，自动化生成的素材也会授权给账户B。未经过自动化二创的原始素材授权后，账户B仍有机会生成新素材。\r\n</br>\r\n</br>\r\n**Q4：**\r\n素材库内已有的素材，会进行自动化加工生成新素材吗？\r\n\r\n**A4：**\r\n满足条件的客户，素材库内的爆款素材和新上传的素材，都有机会生成新素材，通常在1-2天内完成。\r\n</br>\r\n</br>\r\n**Q5：**\r\n自动化生成的素材，会受到多样性过滤吗？\r\n\r\n**A5：**\r\n系统通常将自动化生成的素材视为新素材，不会被多样性过滤。",
+    "catalogs": [
+      {
+        "catalog_id": 4491,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 14:44:35"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:41:18"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 14:44:20",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10883,
+    "title": "搜索营销-智能拓流指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期| 主要更新内容 | \r\n| -------- | -------- | \r\n|2024年6月29日     | 新建文档    |\r\n\r\n# 一、产品定位\r\n“智能拓流”定位是通过系统能力帮助客户提高关键词购买和优化效率，在保证成本的前提下，提升营销的跑量能力\r\n# 二、产品介绍\r\n## 1.使用场景\r\n仅针对搜索营销直投、 OCPC 场景下开启\r\n## 2.创编流程\r\n客户创建直投营销时，在「营销-定向」模块中，增加「智能拓流」开关，开启智能拓流功能后，系统将提高营销的跑量能力，为自己赢得更多线索的可能性；\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240923112418_845921.png)\r\n## 3.营销管理\r\n**（1）自定义列：支持披露“营销-智能拓流”状态：**\r\n\r\n* 展示逻辑：默认勾选，在推广列表展示，支持手动取消勾选\r\n* 状态逻辑：（该功能仅针对 搜索直投 ocpx 营销开启）\r\n  * 开启：开启智能拓流的营销\r\n  * 未开启：搜索直投 ocpx 营销，单未开启\r\n  * 不支持：非搜索直投 ocpx 营销，展示 --\r\n![de746dd8f45b7c3c303cc2ff42c8b5b.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240923112727_086049.png)\r\n\r\n**（2）筛选：支持筛选 按“智能拓流”开启状态进行营销筛选：**\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240923112849_731214.png)\r\n\r\n**（3）支持进行批量开启或关闭**\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240923112910_055495.png)\r\n![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20240923112919_817848.png)\r\n\r\n## 4.智能拓流逻辑\r\n拓流逻辑：提取营销的业务点、核心关键词、落地页信息等作为基础，采用大模型能力进行关键词拓展，同时会考虑拓展词与该营销的相关性、合规性、雷同性处理后应用到营销召回逻辑当中，利用AMS对平台流量的构成来帮助客户在原有买词的范围内拓展更多商机的可能，补充自提词视角。",
+    "catalogs": [
+      {
+        "catalog_id": 3789,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-09-23 11:35:26"
+      },
+      {
+        "catalog_id": 4533,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:50:16"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-09-23 11:30:00",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

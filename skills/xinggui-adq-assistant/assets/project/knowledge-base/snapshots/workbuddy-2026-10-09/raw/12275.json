@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12275,
+    "title": "营销申诉复审指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 背景：\r\n针对目前客户申诉需要运营沟通或者小助手进行处理的情况，导致链路边长，时间变多；在此背景下，给客户做了一键申诉功能，审核人员可根据客户反馈的诉求进行复审\r\n\r\n# 操作流程：\r\n一、用户登录投放管理平台，找到创意状态为【审核不通过】的创意，对审核不通过的创意下的元素，点击【复审】\r\n<br>（如果复审按钮置灰，请确认①是否次数已用完②是否复审结果已给出但没修改元素）\r\n![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250522142221_822249.png)\r\n![image2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250522142231_050038.png)\r\n\r\n二、选择复审的问题类型、复审原因、以及详细描述\r\n<br>选择原因选择到【历史相同组件元素可通过，本次拒绝】、【已是白名单同样被拒】，会额外出现一个历史可通过元素对应组件id，信息填写（选填项）\r\n![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250522142245_805088.png)\r\n\r\n备注：此处可看提交次数，只要提交了元素复审就会消耗一次额度。\r\n<br>如相同元素（修改后）反复提交依旧会消耗多次额度。\r\n\r\n<br>三、点击确认后，会消耗提交次数，界面上会反馈提交成功，元素会送审到审核侧处理\r\n![image4.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250522142302_471678.png)\r\n\r\n四、审核后，会更新创意上的审核状态，可点击创意【详情】进行查看最新审核状态\r\n![image5.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250522142316_628097.png)\r\n同一个DC下相同元素，一条元素状态更新，则相同元素状态都会更新。\r\n\r\n<br>五、复审状态提示：\r\n<br>1）复审审核中提示：该元素正在申诉复审中，不能再次提交申诉复审\r\n<br>2）元素复审拒绝提示：复审未通过，元素未发生变更，不能再次提交申诉复审\r\n<br>3）元素复审通过：直接刷新元素审核结果，元素审核状态变更为通过",
+    "catalogs": [
+      {
+        "catalog_id": 4739,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-12 10:55:22"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-22 14:23:36",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

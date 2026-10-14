@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12257,
+    "title": "通用规则---业务关键信息披露与警示语规范",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "违规点：营销需规范展示业务关键信息或风险提示语，请修改。\n1. 投放内容必须清晰展示业务的关键信息或风险提示语，禁止模糊、过小、重叠或与背景混淆，以确保用户能够准确理解相关信息\n<br>*透传原因：警示语需清晰完整可识别，不得模糊/过小/重叠/与背景混淆，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **警示语过小** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**警示语模糊** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**警示语与白色底色重叠** |\n| :--------: | :--------: | :--------: |\n|  ![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203641_050016.png)  | ![image2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203651_094073.png)   | ![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203700_874948.png)  |\n\n2. 推广该业务，需添加营销必要要素内容\t\n<br>1)**低价类活动**：投放低价商品时，营销落地页需清晰体现参与条件、活动时间、活动数量和活动路径\n<br>2)**多商品盲盒活动**：推广多商品盲盒活动时，落地页需完整展示商品池中所有商品的质量信息、出现概率及相关售后服务规则\n<br>3)**奖品及概率公示**：活动规则中需标注奖品内容，落地页应明确中奖概率及奖品内容，互动试玩类营销的奖品需与备案及活动内容一致\n<br>4)**下载领取类活动**：不支持在没有活动规则的情况下使用“下载领/下载就领/下载兑换”等描述，避免误导用户下载后可无条件领取；应修改为“下载完成首单任务，可领取/兑换xx”或“新用户满足要求可领xx”等有前提条件的描述\n<br>5)**专利种类和专利号标注**：营销中涉及专利产品或专利方法时，必须标明专利号和专利种类，以确保合法合规\n<br>*透传原因：推广该业务，需添加营销必要要素内容，请修改*\n\t\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\"> **盲盒规则不明确** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**抽奖概率不明** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**涉及专利需提供证明** |\n| :--------: | :--------: | :--------: |\n|  ![image4.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203711_962356.png)  |  ![image5.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203720_038557.png)  | ![image6.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618203729_188548.png)  |",
+    "catalogs": [
+      {
+        "catalog_id": 4783,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-13 10:18:07"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-14 10:50:00",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

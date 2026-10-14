@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 6285,
+    "title": "农药兽药行业审核规则",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、\t农药、兽药营销资质要求\r\n1、农药、兽药等投放营销需提供相应的《农药营销审查表》、《兽药营销审查表》。\r\n\r\n2、《农药营销审查表》、《兽药营销审查表》由省级农牧行政管理机关，如果出现地方签发需要客户提供省级部门同意下放权限的批文。\r\n\r\n3、营销的批准文号应当列为投放内容同时发布（备注：若营销素材篇幅有限，可要求一级落地页能够含有上述内容） 。\r\n\r\n## 二、\t农药、兽药内容审核规则\r\n1、不得表示功效、安全性的断言或者保证。\r\n\r\n2、不得利用科研单位、学术机构、技术推广机构、行业协会或者专业人士、用户的名义或者形象作推荐、证明。\r\n\r\n3、不得说明有效率。\r\n\r\n4、不得违反安全使用规程的文字、语言或者画面。\r\n\r\n5、不得含有“最高技术”、“最高科学”、“最进步制法”、“包治百病”等绝对化的表示。\r\n\r\n6、不得贬低同类产品，与其他农药进行功效和安全性对比（无论是否真实）。\r\n\r\n7、不得使用直接或者暗示的方法，以及模棱两可、言过其实的用语，使人对产品的安全性、适用性或者政府批准等方面产生误解。\r\n\r\n8、兽药营销中兽药的使用范围超出国家兽药标准的规定。\r\n\r\n9、法律、行政法规规定禁止的其他内容。",
+    "catalogs": [
+      {
+        "catalog_id": 4842,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:08:32"
+      }
+    ],
+    "created_by_name": "nancysi",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-01-10 10:52:31",
+    "updated_at": "2025-06-12 16:43:09",
+    "nav_flag": 0
+  }
+}

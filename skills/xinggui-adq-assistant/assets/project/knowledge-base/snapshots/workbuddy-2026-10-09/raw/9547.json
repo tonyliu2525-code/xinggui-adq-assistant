@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9547,
+    "title": "评论管理助手",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 | \r\n| -------- | -------- |\r\n| 2023年12月29日   | 更新删除、批量精选功能   | \r\n\r\n# 一、能力介绍\r\n* 产品定位：\r\n评论管理助手是适用于视频号原生营销的集成评论管理工具，帮助客户更高效的管理、回复、删除、屏蔽评论，实现更优的评论解决方案。\r\n* 适用客户及场景：\r\n适用于投放视频号原生营销时的客户。投放视频号原生营销时，用户刷到营销即可评论。评论管理助手可支持管理投放账户内已授权的视频号和已创建营销专用视频号的关联评论。\r\n# 二、解决问题\r\n* **评论管理交互形式差**：仅支持在**营销创意层级**逐一点击进行评论，评论效率不高\r\n\r\n* **客户评论管理量级巨大**\r\n\r\n* **部分营销/客户无法实现评论管理**\r\n\r\n\r\n# 三、功能说明\r\n\r\n## 1. 评论状态说明\r\n\r\n| 评论状态维度 | 状态 | 说明 | \r\n| -------- | -------- | -------- | \r\n| 处理状态 | 已回复 |客户已回复 |\r\n| 处理状态 | 未回复 |客户未回复 |\r\n| 评论状态 | 普通 |相关动态开启精选功能后，该评论所有人不可见 |\r\n| 评论状态 | 精选 |相关动态开启精选功能后，该评论被所有人可见 |\r\n\r\n## 2. 精选功能说明\r\n\r\n动态/创意可开启精选评论功能，开启后可进一步选择标记精选评论，仅被标记为精选的评论可展示给用户\r\n\r\n\r\n# 四、操作说明\r\n\r\n## 1. 使用入口：【工具】-【投放管理】-【评论管理助手】\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018105625_749947.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018105625_749947.png\" style='width:600px'/></a>\r\n\r\n## 2. 筛选视频号账号和评论：\r\n* 必须筛选视频号名称，支持筛选投放账户下所有已授权的视频号和已创建的营销专用视频号\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122637_596104.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122637_596104.png\" style='width:600px'/></a>\r\n* 必须筛选评论回复时间，时间段最长可选7天\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122717_941602.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122717_941602.png\" style='width:600px'/></a>\r\n\r\n* 可选筛选视频号动态，在选择视频号后，支持下拉选择视频号下的动态，不属于所选视频号账户下的动态将置灰不可选\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426164740_528778.png)\r\n* 可选筛选关键词，每次更新筛选器后均需要点击【查询】发起查询评论\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122759_722714.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017122759_722714.png\" style='width:600px'/></a>\r\n\r\n## 3.查看视频号评论\r\n\r\n点击展开全部回复，可一键展开或收起评论下的所有回复进行查\r\n\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426164826_969422.png)\r\n\r\n## 4. 回复评论\r\na)回复单条评论\r\n\r\n![改.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426170724_436027.png)\r\n\r\nb)批量回复评论：\r\n勾选需要回复的评论，一次最多支持同时回复20条评论，回复字数上限200字\r\n\r\n* 未回复评论：提交回复后，评论状态更新为“已回复”，展示已回复内容\r\n* \r\n* 已回复评论：支持再次回复，提交新回复后，更新为新回复内容（**支持多次回复，当前仅展示时间最新的回复**）\r\n\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426170254_992631.png)\r\n\r\n## 5. 精选评论（谨慎选择开启）\r\n\r\n**a)动态/创意维度开启精选评论功能**：打开此功能后，动态下仅公开已精选的评论\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018105651_300713.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018105651_300713.png\"/></a>\r\n\r\n**b)批量标记/取消评论和回复精选**\r\n\r\n勾选需要精选的评论或者回复，点亮或者取消操作栏中的星标，可以进行批量精选评论或者取消精选\r\n\r\n* 同时选中未精选、已精选的评论--选择批量精选，只对未精选评论生效\r\n\r\n* 同时选中未精选、已精选的评论--选择批量取消精选，只对已精选评论生效\r\n\r\n![6.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426165117_536545.png)\r\n\r\n注意：精选评论或回复有联动关系，展示规则请点击右侧的评论精选展示规则进行查看\r\n\r\n![7.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426165141_486694.png)\r\n\r\n## 6.删除评论\r\n\r\n勾选需要删除的评论或者回复，点击操作栏中的垃圾桶图标，可以批量进行删除操作\r\n\r\n![8.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426165238_683925.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:24:13"
+      },
+      {
+        "catalog_id": 4534,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:55:18"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-17 12:33:27",
+    "updated_at": "2025-01-14 14:55:18",
+    "nav_flag": 0
+  }
+}

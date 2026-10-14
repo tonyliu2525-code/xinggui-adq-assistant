@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12899,
+    "title": "运动户外",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**运动户外用品**\n<br>● 行业描述\n<br>指制造与经销各类户外装备、体育用品、健身器械的商事主体\n<br>● 行业资质\n<br>无\n<br>● 业务范围资质\n<br>1.如涉及具体商标，需提供《商标注册证》\n<br>2.如涉及国家强制认证的（如电动类装备），需提供《中国国家强制性产品认证证书》(3C证书)\n<br>3.如涉及第三方合作或推广非开户企业所有的产品，须提供《品牌授权书》或销售合作相关的合作协议、供货协议或授权书等\n<br>● 开放流量\n<br>可投腾讯新闻、腾讯视频、QQ、腾讯音乐及游戏、QQ浏览器、QQ浏览器搜索、微信搜一搜、朋友圈、公众号、视频号、优量汇\n<br>● 是否支持个人开户\n<br>否\n\n<br>**运动户外服饰鞋帽箱包**\n<br>● 行业描述\n<br>指专门生产运动户外场景下使用的服饰鞋帽箱包的商事主体\n<br>● 行业资质\n<br>无\n<br>● 业务范围资质\n<br>1.如涉及具体商标，需提供《商标注册证》\n<br>2.如涉及第三方合作或推广非开户企业所有的产品，须提供《品牌授权书》或销售合作相关的合作协议、供货协议或授权书等\n<br>● 开放流量\n<br>可投腾讯新闻、腾讯视频、QQ、腾讯音乐及游戏、QQ浏览器、QQ浏览器搜索、微信搜一搜、朋友圈、公众号、视频号、优量汇\n<br>● 是否支持个人开户\n<br>否",
+    "catalogs": [
+      {
+        "catalog_id": 5137,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-01-04 19:32:31"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-01-04 17:49:50",
+    "updated_at": "2026-05-15 18:19:16",
+    "nav_flag": 0
+  }
+}

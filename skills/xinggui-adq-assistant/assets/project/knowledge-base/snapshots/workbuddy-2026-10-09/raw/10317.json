@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10317,
+    "title": "推广产品设置",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1.推广产品全集及设置方式概括\n\n不同营销目的和行业支持的产品类型不同，全集如下，需在行业及营销目的支持的范围内选择投放的产品。\n\n| 产品类型 | 设置方式概括 |\n| -------- | -------- |\n| 商品     | 1.在商品库创建3.0商品；<br>2.在投放流程中推广产品选择“商品”，再选择可拉取的具体商品即可。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426152200_430907.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426152200_430907.png\" style='width:600px'/></a> |\n| 活动     | 1.在客户工作台/服务商系统业务单元下创建活动。<br>2.在投放流程中推广产品选择“活动”，再选择可拉取的具体活动即可。     |\n| 店铺     | 1.在客户工作台/服务商系统业务单元下创建店铺。<br>2.在投放流程中推广产品选择“店铺”，再选择可拉取的具体店铺即可。     |\n| 商品集合     | 1.在商品库创建3.0商品，并打包商品集合；<br>2.在投放流程中推广产品选择“商品集合”，再选择可拉取的具体商品集合名称即可。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150603_915910.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150603_915910.png\" style='width:600px'/></a><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150610_986585.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150610_986585.png\" style='width:600px'/></a> |\n| 两品一械商品    | 1.在adhome进行药品及资质上传，并进行审核；<br>2.由运营/销售进行风控分配方可进行投放。     |\n| 小说     | 1.在客户工作台/服务商系统业务单元下选择书城的小说创建为产品。<br>2.在投放流程中推广产品选择“小说”，再选择可拉取的具体小说即可。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150937_321863.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425150937_321863.png\" style='width:600px'/></a><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426152258_906637.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426152258_906637.png\" style='width:600px'/></a> |\n| 短剧     | 1.在客户工作台/服务商系统业务单元下选择剧城的短剧创建为产品。<br>2.在投放流程中推广产品选择“短剧”，再选择可拉取的具体短剧即可。     |\n| 影音文娱产品 <br> 平台频道产品 <br> 引流直播间 <br> 教育产品 <br> 金融产品 <br> 交通产品 <br> 丽人产品 <br> 婚恋摄影产品 <br> 综合家政产品 <br> 餐饮休娱产品 <br> 连锁餐饮产品 <br> 商务服务产品 <br> 招商加盟产品 <br> 房产商品 <br> 运营商产品 <br> 装修服务 <br> 家具建材 <br> 景点门票产品 <br> 旅行路线产品 <br> 邮轮航线产品 <br> 酒店服务产品 <br> 航司票务产品 | 1.在客户工作台/服务商系统业务单元下创建对应产品。<br>2.在投放流程中推广产品选择对应产品类型，再选择可拉取的具体产品即可。     |\n| 消费医疗     | 1.在adhome进行资质上传及风控行业分配，并进行审核；<br>2.完成分配后方可进行对应产品投放。     |\n| 门店     | 1.在资产-区域与门店管理中创建门店，也可以将多个门店打包成门店包；<br>2.在投放流程中推广产品选择对应“门店”，再选择可拉取的具体的一个门店/门店包。     |\n| 门店产品组合     | 1.在投放流程中推广产品选择“门店产品组合“；<br>2.选择已创建的门店和产品即可。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425151012_786719.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425151012_786719.png\" style='width:600px'/></a><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153350_943250.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153350_943250.png\" style='width:600px'/></a> |\n| Android应用     | 1.在应用推广管理工具/应用宝上传应用，获取应用ID；<br>2.在投放流程中填写应用ID或选择已投放过的应用即可。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153427_548505.png\" target=\"_self\" style=\"text-align: center;\"></a><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153427_548505.png\" style='width:600px'/></a> |\n| iOS应用     | 在投放流程中填写已上架的ios 应用ID或选择已投放过的应用即可。     |\n| 微信小游戏 <br> QQ小游戏     | 在投放流程中输入小游戏ID进行投放。     |\n| PC游戏     | 在投放流程中填写游戏主域名进行投放。     |\n| 企业微信     | 1.需在工具-企业微信授权与客服管理进行企业微信授权绑定；<br>2.在投放流程中选择已完成授权的企微进行投放。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153521_942000.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240426153521_942000.png\" style='width:600px'/></a> |\n| 视频号直播 <br>视频号直播预约 <br>视频号账号     | 1.需在工具-微信生态授权管理中进行视频号授权绑定；<br>2.在投放流程中选择对应的产品类型，选择已完成授权的视频号账户。<br> **3.注意：不可选择营销专用视频号作为推广产品，如需使用营销专用视频号投放视频号版位，推广产品选择实际推广的内容，如教育产品等，载体选择页面推广，版位需包含视频号版位，创意层级选择营销专用视频号即可；**    |\n| 微信公众号     | 1.需在工具-微信生态授权管理中进行公众号授权绑定；<br>2.在投放流程中选择“公众号“，选择已完成授权的公众号账户。     |\n| 快应用     | 在投放流程中选择或新建快应用进行投放。<br><a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425151205_603385.png\" target=\"_self\" style=\"text-align: center;\"><img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240425151205_603385.png\" style='width:600px'/></a> |\n| 微信小程序     | 在投放流程中输入小程序ID进行投放。     |\n| 个微小店     | 1.在客户工作台/服务商系统业务单元下创建个微小店。<br>2.在投放流程中推广产品选择“个微小店”，再选择可拉取的具体小店即可。     |",
+    "catalogs": [
+      {
+        "catalog_id": 3770,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:22:28"
+      },
+      {
+        "catalog_id": 4587,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:43:39"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】新投放模式营销创建指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/5EDZQGGo?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E6%96%B0%E6%8A%95%E6%94%BE%E6%A8%A1%E5%BC%8F%E5%B9%BF%E5%91%8A%E5%88%9B%E5%BB%BA%E6%8C%87%E5%BC%95.jpg\",\"uploadTime\":1741071902183,\"videoId\":\"0eabc530-fa6c-4f35-84e4-091a88b50170\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-04-25 15:27:15",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

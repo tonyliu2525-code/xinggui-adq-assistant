@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 4442,
+    "title": "门店管理",
+    "sub_title": "",
+    "memo": "已生成转换格式文章",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.7  | \r\n\r\n# 功能介绍\r\n## 1. 什么是门店管理？\r\n在投放管理平台，推广本地门店，吸引周边用户到店消费或参加活动。目前平台支持通过“微信门店”推广腾讯地图上的门店，投放到微信朋友圈营销版位；通过“QQ门店”推广自定义打点的门店，投放到QQ浏览器、腾讯新闻、腾讯视频 / QQ、腾讯音乐及游戏 / 腾讯新闻营销版位。\r\n为了提供更高效的本地门店管理，在ADQ投放管理平台中支持批量录入功能：\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231012163825_030858.png)\r\n## 2. 微信门店\r\n在微信门店管理中，可以看到营销账号下中所有已录入的门店：\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/228_20210301170750_322651.png)\r\n并且支持单个门店的“直接录入”，与多个门店的“批量录入”：\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231012163851_708481.png)\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231012163915_646969.png)\r\n\r\n若你无法搜索到你的门店，可到腾讯地图先进行门店标注。在完成录入并完成投放后，用户看到你推广的营销时，定位地点默认显示离用户最近的门店。\r\n\r\n## 3. QQ门店\r\n在QQ门店管理中，可以看到投放账户中所有已创建的门店：\r\n![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/228_20210301171630_876690.png)\r\n且支持创建单个门店，创建时可搜索地址上已有地点做导入，也可通过地图打点标注新门店：\r\n![6.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/228_20210301171735_464746.png)\r\n支持通过上传csv文件的方式，批量创建门店，请确保上传文件与模版格式一致且数据正确：\r\n![7.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/228_20210301171822_898540.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3780,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:33:38"
+      },
+      {
+        "catalog_id": 4914,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:58:03"
+      }
+    ],
+    "created_by_name": "sucreliu",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-03-01 16:25:44",
+    "updated_at": "2025-06-19 11:51:21",
+    "nav_flag": 0
+  }
+}

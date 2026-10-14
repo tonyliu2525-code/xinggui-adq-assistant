@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10171,
+    "title": "营销目的",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "代表客户在本次投放中想要达成的目的。\n\n1.不同行业支持的一级营销目的不同。如游戏行业仅支持用户增长一级营销目的；\n\n2.不同营销目的支持的推广产品及优化目标不同，实际以行业投放流程中可见的能力为准；\n\n3.部分行业会额外支持选择二级营销目的，如游戏行业投放应用的用户增长一级营销目的时，支持二级营销目的新游预约、新游首发、平推期投放等等；房产、家居行业投放用户增长一级营销目的时，支持二级营销目的未安装用户、长期未活跃用户。\n\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240320115504_521943.png\" style=\"width: 1040px;\">",
+    "catalogs": [
+      {
+        "catalog_id": 3770,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:08:26"
+      },
+      {
+        "catalog_id": 4586,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 11:43:03"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销新投放平台基础认知\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/hraO2zxT?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E6%96%B0%E6%8A%95%E6%94%BE%E5%B9%B3%E5%8F%B0%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5.jpg\",\"uploadTime\":1741071829878,\"videoId\":\"8f2e3153-d38b-4c47-a6d7-31eada2457f9\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 14:42:19",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

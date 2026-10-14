@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12330,
+    "title": "短剧库",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 如何保证短剧创意与推广产品一致\r\n| 更新时间\t| 适配行业\t| 文档解释权\t| 更新人| \r\n| -------- | -------- | -------- | -------- |\r\n| 2025.05.30| \t网服短剧\t| 腾讯营销推广产品资产组\t| xiaoxiaoyan| \r\n\r\n## 1、创意与推广产品一致的判定标准\r\n●短剧创意与推广产品一致的原则：营销选定的短剧「推广产品」与创意元素（文本/图片/视频/落地页）表达的短剧产品是**同一部短剧**\r\n\r\n| 营销选定短剧「推广产品」\t| 创意元素-文本/图片/视频\t| 创意元素-落地页| \r\n| -------- | -------- | -------- | \r\n|  \r\n![image (16).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113752_700748.png)  |   \r\n![image (17).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113758_310104.png)  |   \r\n![image (18).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113804_075126.png)![image (19).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113808_205638.png)   | \r\n\t\t   \r\n\r\n## 2、创意与推广产品不一致拒审及解决方案\r\n●当创意元素表达的短剧与营销推广产品选定的短剧不一致时，创意元素将被拒审，拒审理由“营销创意与推广产品不一致”。**请修改推广产品短剧与创意元素短剧一致再重新提交。**\r\n![image (20).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113852_460903.png)\r\n\r\n●当创意元素因与推广产品不一致倍拒审时，如发现实际是一致的，但**系统误审了，可以点击「复审」**，申诉原因选择”拒绝原因在营销中未涉及“，详细描述填写”创意与推广产品一致“，然后提交复审。\r\n![image (21).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113905_170026.png)\r\n\r\n●**复审通过，不占用当天当账户的复审额度**\r\n![image (22).png](https://bbx-pic.gtimg.com/bbx/pictures/2025/458_20250619113917_940786.png)\r\n<BR>\r\n<BR>\r\n<BR>\r\n<BR>\r\n<BR>",
+    "catalogs": [
+      {
+        "catalog_id": 4915,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-19 12:16:14"
+      }
+    ],
+    "created_by_name": "紫薇",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-06-19 11:41:03",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 0
+  }
+}

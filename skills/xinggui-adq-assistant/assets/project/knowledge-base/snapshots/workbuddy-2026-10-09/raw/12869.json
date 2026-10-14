@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12869,
+    "title": "安全消防物资",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**消防器材**\n<br>● 行业描述\n<br>指制造与经销消防器材的商事主体，包括但不限于：消防栓、灭火毯、灭火器、防火服\n<br>● 行业资质\n<br>无\n<br>● 其他业务范围资质\n<br>如涉及第三方合作或推广非开户企业所有的产品，需提供《品牌授权书》或销售合作相关的合作协议、供货协议或授权书等\n<br>● 开放流量\n<br>可投腾讯新闻、腾讯视频、QQ、腾讯音乐及游戏、QQ浏览器、QQ浏览器搜索、微信搜一搜、朋友圈、公众号、视频号、优量汇\n<br>● 是否支持个人开户\n<br>否\n\n<br>**防盗报警设备**\n<br>● 行业描述\n<br>指制造与经销防盗报警仪器设备的商事主体，包括但不限于：开门报警器、电子保险箱\n<br>● 行业资质\n<br>无\n<br>● 其他业务范围资质\n<br>如涉及第三方合作或推广非开户企业所有的产品，需提供《品牌授权书》或销售合作相关的合作协议、供货协议或授权书等\n<br>● 开放流量\n<br>可投腾讯新闻、腾讯视频、QQ、腾讯音乐及游戏、QQ浏览器、QQ浏览器搜索、微信搜一搜、朋友圈、公众号、视频号、优量汇\n<br>● 是否支持个人开户\n<br>否\n\n<br>**安保器材**\n<br>● 行业描述\n<br>指制造与经销安保器材的商事主体，非电子产品，包括但不限于：防爆八件套\n<br>● 行业资质\n<br>无\n<br>● 其他业务范围资质\n<br>如涉及第三方合作或推广非开户企业所有的产品，需提供《品牌授权书》或销售合作相关的合作协议、供货协议或授权书等\n<br>● 开放流量\n<br>可投腾讯新闻、QQ、腾讯音乐及游戏、QQ浏览器、QQ浏览器搜索、微信搜一搜、朋友圈、公众号、视频号、优量汇\n<br>● 是否支持个人开户\n<br>否",
+    "catalogs": [
+      {
+        "catalog_id": 5107,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2026-01-04 18:58:00"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2026-01-04 16:14:05",
+    "updated_at": "2026-05-15 17:39:03",
+    "nav_flag": 0
+  }
+}

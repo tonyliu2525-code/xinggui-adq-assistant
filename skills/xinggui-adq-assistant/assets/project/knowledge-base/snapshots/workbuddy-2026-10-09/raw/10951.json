@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10951,
+    "title": "搜索品专操作指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- |\r\n| 2024年9月27日 | 新建文档 |\r\n\r\n# 一、能力介绍\r\n\r\n搜索品专支持投放搜一搜超级品牌专区、QQ浏览器移动和PC超级品牌专区和品牌专区，售卖方式为CPT，保价保量。\r\n\r\n# 二、解决哪些问题\r\n\r\n开阔的展示区域凸显官方品质，全方位塑造品牌形象；提供丰富的私域组件，便捷满足用户多元需求。帮助品牌实现品牌塑造及私域转化等营销诉求。\r\n\r\n# 三、操作说明\r\n\r\n### 3.1 投放入口\r\n\r\n点击【品牌推广】——>【搜索营销】进入推广管理页面，点击【新建营销】进入投放主流程\r\n\r\n![1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018164607_145400.png)\r\n\r\n### 3.2 投放主流程\r\n\r\n**3.2.1 创建计划**\r\n\r\n选择营销版位、合约类型。\r\n\r\n微信搜一搜版位支持超级品牌专区，浏览器（移动）和浏览器（PC）支持超级品牌专区、品牌专区。\r\n\r\n![2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165221_491137.png)\r\n\r\n**3.2.2 创建营销**\r\n\r\n配置投放时长、上线时间、地域定向、添加关键词并提交审核。\r\n\r\n![3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165517_352283.png)\r\n\r\n![4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165530_507529.png)\r\n\r\n关键词审核通过后可查询报价，报价有效期21天，超过有效期需重新查询报价\r\n\r\n![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165553_428034.png)\r\n\r\n查询报价后可锁定排期\r\n\r\n![6.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165615_992024.png)\r\n\r\n锁定排期后可点击【下一步】创建创意\r\n\r\n![7.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165637_728712.png)\r\n\r\n**3.2.3 创建创意**\r\n\r\n1个营销下最多支持10个创意，须将关键词分配到创意，保证关键词在所有创意上不重不漏。\r\n\r\n![8.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165717_872393.png)\r\n\r\n创意内容支持设置顶部运营位（素材、跳转、直播等）官方信息、官方账号、热门活动、相关视频等\r\n\r\n![9.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165758_271202.png)\r\n\r\n![10.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165815_900560.png)\r\n\r\n![11.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/48_20241018165828_452931.png)\r\n\r\n页面右侧可查看创意预览。\r\n\r\n# 四、常见问题\r\n\r\nQ1：为什么提交关键词后很长时间没有出询价结果？\r\n\r\nA1：提交关键词后需要先进行关键词审核，审核通过后才能查询报价。",
+    "catalogs": [
+      {
+        "catalog_id": 3763,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-10-18 16:59:36"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:40:36"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741147310217,\"videoId\":\"da2edb30-6967-4b4c-997d-46c64feb8382\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-10-18 16:59:19",
+    "updated_at": "2025-03-05 12:01:59",
+    "nav_flag": 0
+  }
+}

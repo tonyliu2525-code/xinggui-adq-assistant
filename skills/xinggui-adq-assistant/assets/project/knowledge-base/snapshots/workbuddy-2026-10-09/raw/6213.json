@@ -1,0 +1,51 @@
+{
+  "data": {
+    "post_id": 6213,
+    "title": "主体资质要求及审核",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 开户主体资质\n\n* 企业开户\n\t* 《营业执照》、《事业单位法人登记证》、《组织机构代码证》、《个体工商户营业执照》等，国家相关法律法规要求的资质\n\t* 法定代表人身份证正反面复印件、扫描件。\n* 自然人开户\n\t* 以自然人客户进行开户需上传身份证正反面照片或扫描件，手持半身照的照片，不可提交复印件、扫描件。照片需清晰，不得使用合成照片\n## 主体资质审核要点\n* 营业执照\n\n1. 名称：应与系统中录入的、和腾讯签订的相关腾讯营销协议及其它相关文件中出现的客户名称一致。\n\n2. 营业期限：应涵盖营销的投放期限及产品、服务的提供期限。\n\n3. 经营范围：经营范围应涵盖待推广的业务。\n\n4. 年审情况：核查企业登记状态及是否被列入经营异常名录。\n\n* 法定代表人身份证\n \n1. 法定代表人身份证信息需与营业执照法定代表人信息一致，需上传法定代表人身份证正反面扫描件或复印件。\n\n## 主体资质变更\n\n1、账户主体资质信息一旦创建提交便无法修改，需要新开账户来重新提交认证资料；\n<br>2、如果由于工商变更公司名称需要调整，需要提供以下三份材料发送至邮箱申请变更公司名称信息：\n    <br> 国家企业信用信息公示系统中已经完成变更的截图或国家市场监督管理总局更名受理证明。\n     <br>变更后的新营业执照扫描件。\n     <br>法定代表人的身份证。\n<br>您准备好这些材料后，发送邮件到ads_ss@tencent.com，写明账户ID、公司名称及变更需求。",
+    "catalogs": [
+      {
+        "catalog_id": 4777,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 17:25:51"
+      }
+    ],
+    "created_by_name": "v_qiqwu",
+    "tags": [
+      {
+        "tag_id": 1,
+        "name": "目录-常见问题",
+        "tag_category_name": "官网帮助中心",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2022-01-06 10:09:00",
+    "updated_at": "2026-05-11 16:42:56",
+    "nav_flag": 0
+  }
+}

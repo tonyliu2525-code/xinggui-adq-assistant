@@ -1,0 +1,56 @@
+{
+  "data": {
+    "post_id": 7972,
+    "title": "搜索营销商标保护申请指引",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 67778,
+        "name": "商标保护申请表模板.docx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20230321173812_585233.docx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "is_audit": 1,
+        "size": 13967,
+        "size_format": "13.64KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "## 搜索营销商标保护申请指引\r\n<br>\r\n<br>\r\n\r\n <font color=\"#FF0000\"> 针对搜索营销，如品牌方需要做商标保护申请，请提交以下资料发送至邮箱（AMS_helper@tencent.com）\r\n 腾讯营销平台收到申请材料并审核无误后会进行相应处理。\t<font color=\"#000000\">\r\n \r\n 1. 商标保护申请方的营业执照（*如为自然人，请提供身份证等有效证件*）\r\n 2. 需申请保护的商标相应商标注册证\r\n 3. 如商标保护申请方仅作为商标被授权方，则还需补充提供如下资质：\r\n \r\n    1）商标持有方营业执照（*如为自然人，请提供身份证等有效证件*）\r\n\t\t\r\n\t2）商标使用授权文件（*需双方加盖公章/签名*）\r\n\t\r\n4. 商标保护申请表（*具体模板见附件*）\r\n<br>\r\n<br>\r\n   <font color=\"#FF0000\"> 备注：以上所有文件请加盖公章（如为自然人，请签名）\r\n\t\t<br>\r\n<br>\r\n\t<font color=\"#000000\">【邮件示例】：\r\n\t![商标保护申请指引_副本.png](https://bbx-pic.gtimg.com/bbx/pictures/2023/282_20230321173924_541189.png)",
+    "catalogs": [
+      {
+        "catalog_id": 4727,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 17:16:06"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-03-21 17:13:36",
+    "updated_at": "2026-04-29 18:24:53",
+    "nav_flag": 0
+  }
+}

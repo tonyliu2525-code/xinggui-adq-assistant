@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 4450,
+    "title": "推广链接管理",
+    "sub_title": "",
+    "memo": "已生成转换格式文章",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.9  | \r\n# 一、功能介绍\r\n## 自定义落地页链接管理\r\n\r\n### 什么是自定义落地页\r\n除应用推广外其他推广目标下支持自定义落地页，方便客户独立开发H5页面、进行投放，自定义链接投放前需要进行自定义推广链接备案\r\n\r\n\r\n# 二、使用指引\r\n## 2.1.自定义落地页使用流程\r\n落地页模块使用自定义链接,输入 H5地址“https://”开头格式\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301202725_932742.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301202725_932742.png\" style='width:600px'/></a>\r\n\r\n当自定义地址未完成备案时：\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301203555_721621.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301203555_721621.png\" style='width:600px'/></a>\r\n\r\n## 2.2.自定义落地页备案流程\r\n在此处提交待使用的推广链接及对应的ICP备案截图，如审核通过，则可在创建营销时使用此链接。我们会将推广链接的审核结果以邮件和短信形式及时发送至您开户填写的邮箱和电话号码，请关注信息。\r\n### 2.2.1.添加推广链接\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231020125134_831639.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231020125134_831639.png\"/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231020125213_055825.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231020125213_055825.png\"/></a>\r\n\r\n### 2.2.2.填写推广链接、ICP备案电子版\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301203020_180488.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2021/77_20210301203020_180488.png\" style='width:600px'/></a>",
+    "catalogs": [
+      {
+        "catalog_id": 3783,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:36:06"
+      },
+      {
+        "catalog_id": 4550,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:24:26"
+      }
+    ],
+    "created_by_name": "koreychen",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【展开聊聊】新3.0时代的新基建 - 营销链路的进阶玩法\",\"videoLink\":\"https://eschool.qq.com/Training/Detail/eaf56406-ad0?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/training-img/2025/1/2cf665af69fc408aabc4ed16dd65d242.jpg\",\"uploadTime\":1741080259072,\"videoId\":\"8771e27a-3cb8-4aa7-8f2c-c34ab188f971\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2021-03-01 20:12:20",
+    "updated_at": "2025-03-04 17:24:26",
+    "nav_flag": 0
+  }
+}

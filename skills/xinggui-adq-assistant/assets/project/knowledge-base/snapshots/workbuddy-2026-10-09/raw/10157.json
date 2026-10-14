@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10157,
+    "title": "身份验证流程",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一. 身份验证流程\r\n![图1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164447_764356.png)\r\n##  1.1 我是企业员工\r\n### step1: 扫码后填写基础信息\r\n企业员工、姓名、身份证号、手机号\r\n### step2: 进行微信实名认证\r\n可选择 微信实名验证\r\n### step3: 身份验证通过后，需要管理员确认是否本组织员工\r\n如果当前组织没有管理员，可通过首页“邀请管理员” 加入组织\r\n### step4: 已完成全部验证后，可正常使用工作台，弹窗取消\r\n## 1.2 我是企业负责人\r\n### step1: 扫码后填写基础信息\r\n企业员工、姓名、身份证号、手机号\r\n### step2: 人脸识别进行身份验证\r\n### step3: 身份验证通过后，需联系行业销售/运营发送邮件确认负责人\r\n发件人：腾讯营销行业对接的销售or运营（如无对接人，可通过腾讯客服联系）\r\n\r\n收件人：balawang，v_wxixxwang\r\n\r\n抄送：chasexie, felixwwang\r\n\r\n邮件标题：【客户工作台】****主体企业负责人确认\r\n\r\n邮件内容：\r\n\r\nHi all，我已确认以下主体及负责人信息，请帮忙修改负责人身份\r\n\r\n主体名称：\r\n\r\nCMID:\r\n\r\n负责人姓名：\r\n\r\n负责人微信：\r\n# 二、界面样式参考\r\n## 2.1 身份验证界面\r\n![图2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164628_124826.png)\r\n![图3.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164640_318253.png)\r\n![图4.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164650_135716.png)\r\n![图5.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164700_642744.png)\r\n## 2.2 管理员确认员工身份界面\r\n**入口**：账户—成员管理—成员申请审批—审批\r\n![图6.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164713_828052.png)\r\n![图7.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319164723_318609.png)\r\n# 三、常见问题及解决\r\n## 3.1 灰度问题\r\n**Q1: 为什么我会收到弹窗提示？其他客户不会收到**\r\n\r\n如果您名下有派瑞的被灰度的子客，登录工作台后，就会收到提示\r\n\r\n**Q2: 为什么我需要针对多个主体进行身份验证？**\r\n\r\n 如果您名下有多个账户都被灰度，且归属于不同的主体，则需要进行多次身份验证\r\n\r\n（**注意：如果着多个主体不在同一个政策集团，则仅能验证1个主体，其他无法验证**）\r\n## 3.2 角色相关问题\r\n**Q1: 我如何判断我应该选择哪个角色？**\r\n\r\n如果是您是客户员工，请选择客户员工；\r\n\r\n如果您是腾讯合作的服务商员工，请选择服务商员工；\r\n\r\n如果您是与腾讯合作服务商合作的伙伴，请选择合作伙伴员工；\r\n\r\n如果您不清楚自己的身份，可以点击“其他”后，会有专人为您解答疑问\r\n## 3.3 身份验证问题\r\n**Q1: 只支持微信扫码认证么？不支持QQ?**\r\n\r\n由于要进行实名认证，需通过微信扫码进行身份的实名认证\r\n\r\n**Q2: 我的身份可以随意选择么？**\r\n\r\n建议您选择自己在企业的真实身份，因为不同身份后续的认证流程会不同\r\n具体可参考文档中的二：身份验证流程\r\n\r\n**Q3:我是企业员工，实名认证后为什么还是 “未认证员工”？**\r\n\r\n身份验证流程一共需要2步 1、实名认证  2、管理员确认\r\n2的话需要您联系对应企业的管理员进行确认\r\n\r\n**Q4:我是企业法人，为什么提示我的身份证号填写的不对？**\r\n\r\n目前系统是通过企业营资质上的法人身份证号，证明您是否是当前主体的法人；\r\n如果您的确是法人，但是身份证号与资质身份证号不一致，可联系您的行业、渠道经理调整\r\n\r\n**Q5：我是企业负责人，为什么还需要走邮件流程？**\r\n\r\n由于风控要求，需要针对您的身份进行背书。您可联系对应的行业经理发送邮件进行身份调整\r\n\r\n**Q6: 为什么我在验证的时候提示我已经在其他主体验证过？**\r\n\r\n为了保证您信息的唯一性，理论上不允许1个用户同时在多个主体存在；如果您的确管理了多个主体，且这些主体都在同一个政策集团，可联系行业经理进行开白处理\r\n\r\n### 相关文档：\r\n[【客户工作台】操作手册](https://doc.weixin.qq.com/doc/w3_AXQAsgaGABAGvhwf0N5T5mrc8YELP?name=eqq_support_nry)",
+    "catalogs": [
+      {
+        "catalog_id": 3747,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:11:04"
+      },
+      {
+        "catalog_id": 4598,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:31:57"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"腾讯营销新工作台升级指引\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/bNT4ECZH?name=eqq_support_nry\",\"videoImg\":\"https://1500003213.vod2.myqcloud.com/43830c39vodtranscq1500003213/760500ff1253642698401508145/coverBySnapshot/coverBySnapshot_10_0.jpg\",\"uploadTime\":1741080822264,\"videoId\":\"da461fa4-face-440c-a29c-dc79ac58bc93\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:27:55",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

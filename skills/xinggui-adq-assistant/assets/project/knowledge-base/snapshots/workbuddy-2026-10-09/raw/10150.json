@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10150,
+    "title": "关于腾讯营销新工作台",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1. 能力介绍\r\n是腾讯营销提供的，面向客户组织/人/资产/资金的 一站式经营管理平台。\r\n# 2. 产品目标\r\n真实还原组织的管理模式，提升人户/资产/资金的管理效率，规避套户等风险\r\n# 3. 适用角色\r\n管理多账户/多团队/多资产的客户管理者、优化师、数据分析师、财务人员等\r\n# 4. 核心能力\r\n多账户管理：跨账户经营、多维度数据分析，助力客户加速决策部署；\r\n\r\n组织人员管理：分角色授权，组织划分清晰，让管理和协作更敏捷；\r\n\r\n资产管理：明确赛道圈子，资产自动共享，让投放更高效；\r\n\r\n资金管理：建立客户钱包，资金自动共享，提升资金利用率。",
+    "catalogs": [
+      {
+        "catalog_id": 3746,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:20:07"
+      },
+      {
+        "catalog_id": 4536,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:31:32"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741080665900,\"videoId\":\"87e201cd-889e-4c03-9b90-fea5fb76a675\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:08:29",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 11037,
+    "title": "武汉腾讯信息",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "*更新时间 2025-3-21 ，新增主体*\r\n\r\n您好，**武汉腾讯信息** 主体信息如下：\r\n\r\nOU 代码：1H3\r\n\r\n签约机构：武汉市腾讯信息技术有限公司\r\n\r\n## **银行账户**\r\n\r\n开户名：武汉市腾讯信息技术有限公司\r\n\r\n开户银行：招商银行武汉洪山支行\r\n\r\n账号：127915232710101\r\n\r\n\r\n\r\n## **发票信息**\r\n\r\n纳税人识别号： 91420111MA4F0K7H6H\r\n\r\n地址： 湖北省武汉市洪山区雄楚大道468号洪山数谷1-25层25楼2509A-01\r\n\r\n电话： 027-87933488\r\n\r\n开户行： 招商银行股份有限公司武汉洪山支行\r\n\r\n账号： 127915232710101\r\n\r\n## **开票内容**\r\n\r\n营销发布费",
+    "catalogs": [
+      {
+        "catalog_id": 4089,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-11-06 15:21:51"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-11-06 15:21:16",
+    "updated_at": "2025-03-24 11:54:56",
+    "nav_flag": 0
+  }
+}

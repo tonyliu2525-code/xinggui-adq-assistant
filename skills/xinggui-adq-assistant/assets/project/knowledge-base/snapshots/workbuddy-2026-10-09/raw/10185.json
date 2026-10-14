@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10185,
+    "title": "DataNexus",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "DataNexus 作为一方数据接入服务方，支持“一次接入、多处应用”，数据在您的操作下分发至以下腾讯官方应用场景，为您的生意倍增提供更多选择。\r\n[阅读指南 | DataNexus 文档中心 | 腾讯营销](https://datanexus.qq.com/doc/develop)\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/15_20240318152905_201568.png\" style='width:1040px; margin-top:10px'>",
+    "catalogs": [
+      {
+        "catalog_id": 3781,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:00:45"
+      },
+      {
+        "catalog_id": 4530,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:47:18"
+      }
+    ],
+    "created_by_name": "宇逸-于海燕",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-18 15:29:11",
+    "updated_at": "2025-01-14 14:47:18",
+    "nav_flag": 0
+  }
+}

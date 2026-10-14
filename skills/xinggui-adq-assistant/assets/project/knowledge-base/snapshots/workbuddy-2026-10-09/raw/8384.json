@@ -1,0 +1,69 @@
+{
+  "data": {
+    "post_id": 8384,
+    "title": "服饰鞋帽箱包审核规则",
+    "sub_title": "V4行业20240425版1",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "## 一、法规条令\n\n\n 1. 推广儿童内衣内裤，不支持使用未成年人展示内衣穿戴形象\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![未成年穿戴内衣形象.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425155710_466031.png)    | ![未成年穿戴内衣形象 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425155737_390659.png)     | ![未成年穿戴内衣形象 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425155812_153024.png)     |\n| <font color=\"#FF0000\">**✖** 未成年穿戴内衣形象   | <font color=\"#FF0000\">**✖** 未成年穿戴内衣形象 |  <font color=\"#FF0000\">**✖**未成年穿戴内衣形象     |\n\n\n**支持场景：**\n\t\n1. 推广儿童内衣内裤，外层及落地页素材仅支持平铺展示\n\n| **正确元素示例** | **正确元素示例** | **正确元素示例** |\n| -------- | -------- | -------- |\n|  ![儿童内衣-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425160711_988078.png)   | ![儿童内衣-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425160817_191512.png)    | ![儿童内衣-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425160833_014126.png)     |\n| <font color=\"#008000\">**√** 仅供参考    | <font color=\"#008000\"> **√** 仅供参考    | <font color=\"#008000\">**√** 仅供参考     |\n\n\t\n\t\n\t\n2. 女士内衣/裤落地页要求：<br>\n\t\n（1）禁止出现过于暴露，突出敏感部位，色情、诱惑的形象，必须展示全身或半身，内衣类不能超过1/2胸型外漏\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|  ![内衣展示不合规.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425161258_063853.png)    | ![内衣展示不合规 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425161349_090984.png)     | ![内衣展示不合规 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425161438_813852.png)     |\n| <font color=\"#FF0000\">**✖** 内衣展示不合规     | <font color=\"#FF0000\">**✖** 内衣展示不合规    | <font color=\"#FF0000\">**✖** 内衣展示不合规     |\n\t\n\t\n  （2）内裤不支持突出或展示模特下半身内裤位置，必须展示全身或大腿以上，需注意禁止出现情趣内衣相关的内容\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![内裤展示不合规.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425162333_968934.png)     |   ![内裤展示不合规 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425162355_391320.png)   | ![内裤展示不合规 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240425162525_442435.png)    |\n| <font color=\"#FF0000\">**✖** 内裤展示不合规     | <font color=\"#FF0000\">**✖** 内裤展示不合规     | <font color=\"#FF0000\">**✖** 内裤展示不合规     |\n\n\n\t\n\t\n 3. 女士内裤若投放敏感区域为半透明材质商品：<br>\t\n（1）不支持真人模特/假人模特穿着展示（推广页可支持使用假人模特）<br>\n（2）不支持悬挂透视展示（推广页可支持）<br>\n（3）模特手部遮挡展示素材不得作为外层图片素材\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![女士内裤-真人穿戴.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426101528_325264.png)     | ![女士内裤-悬挂透视展示.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426101702_743506.png)    | ![女士内裤-手部遮挡.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426101857_303430.png)     |\n| <font color=\"#FF0000\"> **✖**  真人穿戴   |  <font color=\"#FF0000\"> **✖**  悬挂透视展示      | <font color=\"#FF0000\">**✖**    手部遮挡     |\n\t\n\t\n\t\n\t\n  4. 推广男士内裤：<br>\n（1）禁止使用立体，突出，放大敏感部位的图片<br>\n（2）素材+落地页均禁止真人形象展示<br>\n（3）落地页禁止色情，诱惑，暴露的内容\n\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![男士内裤-立体展示.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426102409_439538.png)     | ![男士内裤-真人穿戴.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426102535_226054.png)     | ![男士内裤-色情导向.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426102642_060380.png)     |\n| <font color=\"#FF0000\">**✖**   立体展示   | <font color=\"#FF0000\">**✖**  真人穿戴     | <font color=\"#FF0000\">**✖**   色情导向   |\n\n\t\n**支持场景：**\n\t\n-  女士内衣：带胸垫无胸托的背心式内衣、运动内衣可出现模特上身展示\n-  男士内裤仅支持四角内裤准入\n-  男士内裤外层素材支持正常平铺展示\n\n| **正确元素示例** | **正确元素示例** | **正确元素示例** |\n| -------- | -------- | -------- |\n| ![女士内衣-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426103703_577528.png)     | ![内裤-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426103805_176852.png)    | ![内裤-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426103938_184224.png)     |\n| <font color=\"#008000\">**√** 仅供参考     | <font color=\"#008000\"> **√** 仅供参考     | <font color=\"#008000\">**√** 仅供参考     |\n\t\n\t\n\t\n\t\n 5. 推广贴身内衣内裤使用真人穿戴展示时，视频拍摄不得出现敏感私密场景，如浴缸、浴室、床等\n\n| **错误元素示例**  | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![敏感私密场景.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426104637_106579.png)     | ![敏感私密场景 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426104653_560328.png)    | ![敏感私密场景 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426104834_379273.png)     |\n| <font color=\"#FF0000\">**✖**  敏感私密场景    | <font color=\"#FF0000\">**✖**  敏感私密场景     | <font color=\"#FF0000\">**✖**  敏感私密场景     |\n\t\n\t\n\t\n\t\n 6. 贴身内衣行业不支持使用“无论什么原因不满意，我们都支持7天无理由退款”描述\n\n|**错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|    ![无理由退换 (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426144148_755510.png)  | ![无理由退换 (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426144217_723261.png)     |  ![无理由退换 (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426144828_047416.png)    |\n| <font color=\"#FF0000\">**✖**  无理由退换    |   <font color=\"#FF0000\"> **✖**   无理由退换   | <font color=\"#FF0000\"> **✖**   无理由退换   |\n\n\t\n\t\n**支持场景：**\n\t\n1. 支持在素材或落地页搭配说明“开包不可退”“不影响二次销售可退换”等条件时，可支持使用无理由退换类宣传描述\n\n\n\n\n## 二、平台要求\n\t\n\n 1. 不得在普通服饰鞋帽箱包行业推广插电类自发热产品，应划分为生活电器行业；如为磁石材质自发热产品，应划分为保健用品行业\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n|   ![行业与推广商品不一致.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426150053_867778.png)   | ![行业与推广商品不一致 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426150201_600815.png)    | ![行业与推广商品不一致 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426150311_463856.png)     |\n| <font color=\"#FF0000\"> **✖**  行业与推广商品不一致     | <font color=\"#FF0000\"> **✖**  行业与推广商品不一致    | <font color=\"#FF0000\"> **✖**   行业与推广商品不一致     |\n\n\n**支持场景：**\n\t\n-  支持服饰箱包鞋帽、户外运动跨一级行业推广\n\t\n\n\t\n\t\n## 三、资质要求\n\t\n\t\n 1. 推广商品涉及以下材质或成分，需提供质检报告<br>\n\t头层牛皮、牛/羊皮、牛/羊毛、真丝、蚕丝、100%棉、真丝棉、海岛绒、石墨烯、羽绒等\n\t\n\t\n\t\n\t\n## 四、舆情导向\n\t\n\n1. 推广贴身内衣，外层素材不得出现以下场景展示：<br>\t\n（1）不得模特手持敏感部位展示内衣/裤形式<br>\n（2）不得使用立体，突出，放大敏感部位的图片<br>\n（3）不得使用接近肤色的产品素材\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![不良-立体突出敏感部位 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426151032_768914.png)   | ![不良-立体突出敏感部位.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426151200_900406.png)     | ![不良-接近肤色产品.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240426151305_016124.png)     |\n| <font color=\"#FF0000\"> **✖**   立体突出敏感部位     | <font color=\"#FF0000\"> **✖**  立体突出敏感部位    | <font color=\"#FF0000\"> **✖**   接近肤色产品    |\n\t\n\n\t\n\n2. 推广常规文胸，外层图片不得使用女性内衣内裤真人穿戴形象\n\t\n| **错误元素示例** | **错误元素示例** | **错误元素示例** |\n| -------- | -------- | -------- |\n| ![不良-女性内裤真人穿戴.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100041_120700.png)    | ![不良-女性内裤真人穿戴 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100057_124115.png)     | ![不良-女性内裤真人穿戴 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100149_989223.png)     |\n| <font color=\"#FF0000\">  **✖**   女性内裤真人穿戴     | <font color=\"#FF0000\"> **✖**  女性内裤真人穿戴     | <font color=\"#FF0000\"> **✖**  女性内裤真人穿戴     |\n\t\n\t\n**支持场景：**\n\t\n- 支持带胸垫无胸托的背心式内衣、运动内衣在外层使用真人模特素材，支持平铺展示\n-  常规文胸可以外层平铺展示，可在外层视频、落地页使用真人模特穿戴\n\n\n| **正确元素示例** | **正确元素示例** | **正确元素示例** |\n| -------- | -------- | -------- |\n|  ![不良-通过.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100557_768189.png)    | ![不良-通过 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100742_740087.png)     | ![不良-通过 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428100847_271601.png)     |\n| <font color=\"#008000\">**√** 仅供参考     | <font color=\"#008000\">**√** 仅供参考     |  <font color=\"#008000\">**√** 仅供参考    |\n\n\n\t\n\n\n3. 推广男性内裤，外层与落地页均不得使用真人穿戴形象\n\n| **错误元素示例**   | **错误元素示例**   | **错误元素示例**   |\n| -------- | -------- | -------- |\n| ![不良-男性内裤真人穿戴.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428101103_226164.png)     | ![不良-男性内裤真人穿戴 (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428101209_452108.png)     | ![不良-男性内裤真人穿戴 (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2024/282_20240428101250_825752.png)     |\n| <font color=\"#FF0000\">  **✖**  男性内裤真人穿戴      | <font color=\"#FF0000\">  **✖**   男性内裤真人穿戴    | <font color=\"#FF0000\">  **✖**  男性内裤真人穿戴     |",
+    "catalogs": [
+      {
+        "catalog_id": 4838,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 09:50:37"
+      }
+    ],
+    "created_by_name": "doriswei",
+    "tags": [
+      {
+        "tag_id": 533,
+        "name": "概览页branner",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 532,
+        "name": "概览页",
+        "tag_category_name": "投放端",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 642,
+        "name": "new",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      },
+      {
+        "tag_id": 640,
+        "name": "最新推荐",
+        "tag_category_name": "AMS服务商知识库",
+        "tag_category_type": ""
+      }
+    ],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-07-13 09:44:35",
+    "updated_at": "2025-06-12 16:39:33",
+    "nav_flag": 0
+  }
+}

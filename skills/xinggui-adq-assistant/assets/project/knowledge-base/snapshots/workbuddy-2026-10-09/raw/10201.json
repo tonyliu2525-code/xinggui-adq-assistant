@@ -1,0 +1,66 @@
+{
+  "data": {
+    "post_id": 10201,
+    "title": "报表中心介绍",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 1.功能介绍\r\n投放平台报表中心以客户营销目标为导向，提供精准的数据报表以及便捷的数据分析操作，客户可自由组合各种维度和各种指标的查询，通过趋势图、柱状图、地区分布图等多种图形化或报表形式，及时、直观地掌握投放效果，辅助客户优化决策，达到营销目标。\r\n\r\n当前报表主要通过腾讯营销工作台-跨账户报表、投放管理平台-报表中心、营销推广-结案报告、投放小程序等产品界面，展示竞价投放或合约投放的投放效果数据，并解决数据获取、指标计算、数据展示相关的客户问题。\r\n\r\n# 2.操作说明\r\n## 2.1 版本说明\r\n【产品入口】\r\n\r\n腾讯营销-投放管理平台-报表\r\n\r\n【产品版本】\r\n\r\n通过旧版工作台登录查看的报表， 由于数据接口访问地址为v2.0，以下统一称为2.0版本； 通过业务单元登录查看新版本多账户报表，由于数据接口访问地址为v3.0，统一称为3.0版本。 \r\n\r\n当前阶段仍有部分2.0版本营销正在投放，需要在2.0查看效果数据；新建营销并在3.0版本中投放，需要在3.0查看效果数据。请注意，2.0和3.0版本的所有效果数据当前是隔离，需要切换产品版本。\r\n\r\n建议您使用3.0版本投放端报表，2.0版本仅保留历史数据，所有功能将不再迭代。\r\n\r\n【版本切换】\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190425_727043.png\" style='width:1040px; margin-top:10px'>\r\n\r\n3.0版本：\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190445_299977.png\" style='width:1040px; margin-top:10px'>\r\n\r\n## 2.2 报表维度\r\n选择报表分析的主题视角，目前支持以投放效果、推广内容、定向包、素材、落地页等视角进行切入，对营销表现数据进行切入，进行下一步的数据分析。投放端2.0和3.0支持的报表请参考下图：\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190506_001905.png\" style='width:1040px; margin-top:10px'>\r\n\r\n## 2.3 数据设置\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190526_453532.png\" style='width:1040px; margin-top:10px'>\r\n\r\n●时间选择及时间维度：目前天报表支持查看最长2年的报表数据，单次查询跨度不超过一年。小时报表支持查看最长3个月的报表数据，单次查询跨度不超过7天。跨长时间周期数据的查询可能影响您的查询性能。\r\n\r\n●指标口径切换：目前支持营销播放、数据上报、激活时间三个口径展示报表数据，不同的报表口径会将营销带来的转化数据统计到不同的发生时点，关于口径的详细介绍请查看文档“报表口径”\r\n\r\n●筛选项：在不同的报表中，支持不同的筛选项，通常包括营销ID/名称、营销版位、数据指标等。\r\n\r\n## 2.4 数据趋势\r\n通过设置图形化表达，帮助您快速了解数据趋势及数据分布。\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190542_517873.png\" style='width:1040px; margin-top:10px'>\r\n\r\n●数据趋势默认为折叠状态，您可以点击“展开趋势图”获取完整的趋势图信息。\r\n\r\n●您可以点击“自定义展示指标”定义趋势图中需要呈现的数据指标，最多支持6个指标进行对比，点击确定后关闭指标筛选器。在趋势图卡片内，您可以点击对应的指标名称，决定是否将该指标展示在趋势图内。目前暂不支持自定义图形类型。\r\n\r\n●**数据细分**：报表中心支持在指定分析主题下，针对部分场景进行进一步的下钻分析，如针对自动扩量营销支持查看扩量内/扩量外的营销效果，针对自动版位/复选版位投放营销，支持查看内容在不同流量版位下的细分表现，帮助您精准定位问题及场景。\r\n\r\n●**数据筛选**：通过数据筛选，可以指定详细条件（如ocpa目标达成情况，具体营销ID、推广目标类型等）筛选您关注营销的报表表现\r\n\r\n## 2.5数据报表\r\n报表数据明细区域可查看内容的明细表现数据，并可以进行数据下载或设置常用查看指标信息\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190354_909332.png\" style='width:1040px; margin-top:10px'>\r\n\r\n### 2.5.1 自定义列\r\n\r\n<img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2024/211_20240319190611_904840.png\" style='width:1040px; margin-top:10px'>",
+    "catalogs": [
+      {
+        "catalog_id": 3802,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:15:39"
+      },
+      {
+        "catalog_id": 3785,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:41:20"
+      },
+      {
+        "catalog_id": 4548,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:29:41"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-19 19:06:39",
+    "updated_at": "2025-01-14 14:29:41",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12821,
+    "title": "202511第三期",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**【规则新增】禁投管控新增**\n<br>不支持投放售卖二手轮胎产品\n\n<br>**【规则新增】禁投管控新增**\n<br>不支持投放售卖虎头蜂（杀人蜂）相关产品，包括但不限于虎头蜂酒等\n\n<br>**【规则新增】禁投管控新增**\n<br>不支持投放“捏捏乐”类软质（橡胶状、硅胶状、泥状、胶状）解压玩具，包括但不限于起泡胶、史莱姆、水晶泥、假水、不沾手的水、软泥等\n\n<br>**【规则新增】通用-汽车养护品资质收取要求新增**\n<br>对汽车养护品（如燃油宝、清洁剂）收取CMA或CNAS资质的第三方质检机构出具的一年以内全项检测报告，报告需包含品牌名称、产品名称和生产单位名称\n<br>备注：2025年12月02日执行\n\n<br>**【规则更新】电商-口腔护理品涉及低质素材**\n<br>1、不支持出现严重牙黄，或伴随病理问题画面，易引发感官不适\n<br>2、支持仅自然展示轻微牙黄（贴近正常牙色）、非病理问题素材，符合真实状态与合规审美\n\n<br>**【规则放宽】电商-杀菌资质核验提醒**\n<br>若产品资质已显示【杀灭对数值≥5.0】，可支持素材中宣传“99.999%杀菌效果”，无需额外提供杀菌报告\n\n<br>**【规则新增】商务服务-兼职律师身份标注**\n<br>1、 个人律师推广业务时，视频、落地页须醒目展示律师姓名、执业证号、所属律所名称\n<br>2、 素材中的律师身份，需与后台提供的律师执业证类别保持一致",
+    "catalogs": [
+      {
+        "catalog_id": 5054,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-12-02 15:55:55"
+      }
+    ],
+    "created_by_name": "朱可欣",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-12-02 15:55:38",
+    "updated_at": "2026-04-29 09:49:26",
+    "nav_flag": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9752,
+    "title": "账单负数条目",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 账单负数条目\n| *更新日期* | *2023-12-5* | *内容更新* |\n| -------- | -------- | -------- |\n\n## 负数条目来源\n\n当合约项目已记账后进行实结或改单，基于财务会计准则，前序结算周期内已录账目不会进行变更。当结算金额减少时，会在实结当月记录负数条目以负数条目补齐投放项目的总金额\n\n\n## 负数条目结款\n\n负数条目无法进行线上自助还款，请按[《线下付款核销》](https://support.e.qq.com/detail?cid=4073&pid=9718)流程中的合约核销流程进行负数条目勾兑\n\n\n## 负数条目说明\n\n* 实结和改单都以实际操作日期记账\n* 若负数条目对应的原项目应收已全额付款，负数可勾兑至贵司其他合约排期以抵充应收\n* 负数勾兑以实际申请时间做为还款时间，若需用于抵充待还款项目，请及时发起",
+    "catalogs": [
+      {
+        "catalog_id": 4073,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 13:57:57"
+      },
+      {
+        "catalog_id": 4072,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 13:58:15"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-12-05 16:22:12",
+    "updated_at": "2024-12-05 15:31:50",
+    "nav_flag": 0
+  }
+}

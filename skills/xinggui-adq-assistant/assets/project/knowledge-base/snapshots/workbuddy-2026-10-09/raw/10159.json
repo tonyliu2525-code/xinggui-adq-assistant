@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10159,
+    "title": "账户列表",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "# 一、 账户来源\r\n账户列表所展示的账户来源包括：\r\n\r\n通过商务管家设置的操作者或观察者。\r\n\r\n通过服务商系统设置的自理投放管理员。\r\n\r\n通过直客投放端-协作者管理设置的管理员、操作者、观察者等。\r\n# 二、账户筛选与排序\r\n登陆工作台后，账户列表默认展示您所管理的所有腾讯营销平台账户，所有的报表指标项均支持排序，同时您也可以通过筛选项对所管理的账户进行筛选，筛选项包括：\r\n\r\n按账户名称或ID：账户名称支持模糊匹配查询，账户ID支持完整匹配查询，您可以通过空格或逗号分隔来查询多个搜索条件\r\n\r\n按照新老营销：可筛选对应账户的 新旧营销的各类投放数据\r\n\r\n按所属服务商：支持按账户所属服务商的名称或ID进行筛选\r\n\r\n按所属新管家：支持按账户所属新管家的名称或ID进行筛选\r\n\r\n按账户类型：支持按直客或子客进行筛选（直客为客户自主注册的投放账户，子客为服务商开通的投放账户）\r\n\r\n按备注：支持按设置的备注名称进行搜索\r\n\r\n按标签：支持按设置的标签名称进行搜索\r\n\r\n展示昨日同比：勾选后将展示各项报表指标与前一天数据的对比\r\n\r\n过滤无数据：勾选后将过滤所有无数据的投放账户\r\n![图1.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319162925_992578.png)\r\n# 三、账户操作\r\n在账户列表中，您可以对投放账户进行一些基本操作，包括：\r\n\r\n跳转到投放平台\r\n\r\n将账户置顶或取消置顶\r\n\r\n设置备注（备注仅针对自己生效，其他管理该账户的用户不可见）\r\n\r\n开启或关闭一键托管功能\r\n\r\n进入智能投手的自定义托管页面\r\n\r\n进入该账户的账户中心\r\n![图2.png](https://bbx-pic.gtimg.com/bbx/pictures/2024/46_20240319162940_668762.png)",
+    "catalogs": [
+      {
+        "catalog_id": 3748,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-09 10:12:08"
+      },
+      {
+        "catalog_id": 4599,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:33:50"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"【全行业】腾讯营销客户工作台营销指南\",\"videoLink\":\"https://eschool.qq.com/lb/course-v4/q1apudQs?name=eqq_support_nry\",\"videoImg\":\"https://training.tencentads.com/uploads/large/%E5%B7%A5%E4%BD%9C%E5%8F%B0-%E5%B0%81%E9%9D%A2.jpg\",\"uploadTime\":1741081002459,\"videoId\":\"862bdddc-1ebc-471b-bf39-d29f4139a011\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-14 11:35:15",
+    "updated_at": "2026-04-29 18:25:00",
+    "nav_flag": 0
+  }
+}

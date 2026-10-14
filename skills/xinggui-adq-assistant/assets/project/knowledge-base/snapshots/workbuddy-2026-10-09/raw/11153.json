@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 11153,
+    "title": "第26期-新投放3.0操作全解（第三弹）",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "**Q1：** 我是否可以通过新建营销来测试创意？\r\n\r\n**A1：** 平台不鼓励为了测试新创意而去建新营销，新营销应该是在有新的经营决策、投放测试信息需要输入的时候才去创建。\r\n</br>\r\n</br>\r\n**Q2：** 如何判断当前营销的创意质量，在哪里看以及如何响应？\r\n\r\n**A2：** 当前平台会针对【重复创意】、【低潜创意】做提示：在营销报表【营销诊断】/【启发建议】提示创意重复较高，看到该提示后建议对重复创意/组件进行删改；在创意报表增加【创意潜力】提示低潜创意，看到该提示后建议对低潜创意进行删除。\r\n</br>\r\n</br>\r\n**Q3：** 什么样的创意是平台鼓励的好创意？\r\n\r\n**A3：** 预计8月平台会规划推出【高潜创意】标签提示，告知客户有跑量潜力的创意，供客户参考\r\n</br>\r\n</br>\r\n**Q4：** 平台引导做组件维度的分析、运营，那组件维度的数据可以去哪里查询呢？\r\n\r\n**A4：** 当前组件维度的数据可以在【创意组件管理中心】、【创意组件报表】下查询，其中【创意组件报表】下支持圈选指定的营销进行多维下钻分析。\r\n</br>\r\n</br>\r\n**Q5：** 创意组件的数据跟创意素材的数据有何不同？\r\n\r\n**A5：** 以图片素材举例说明：一个图片素材会同时在多个版位的营销、同一个营销的不同模块（例如头像、主视觉等处）应用。创意素材的数据是会复计的，且无明确投放场景含义，而创意组件的数据有明确投放场景含义，且不会复计。",
+    "catalogs": [
+      {
+        "catalog_id": 4494,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-12-11 14:26:10"
+      },
+      {
+        "catalog_id": 4579,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-20 19:39:25"
+      }
+    ],
+    "created_by_name": "宇逸-曹旭阳",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-12-11 14:24:15",
+    "updated_at": "2026-04-29 18:25:07",
+    "nav_flag": 0
+  }
+}

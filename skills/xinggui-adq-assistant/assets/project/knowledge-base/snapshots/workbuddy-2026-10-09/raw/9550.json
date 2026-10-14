@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 9550,
+    "title": "公众号授权",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | \r\n|\r\n-------- |\r\n| 2023.10.6   | \r\n# 一、能力介绍\r\n用户在使用公众号推广目标时，需先得到需要推广的公众号主的授权，允许使用相关能力内容或资产进行推广或投放。\r\n# 二、适用范围\r\n* 支持投放端：仅adq投放端\r\n* 支持跨主体商业模式：同集团公司 （需提供股权关系证明）\r\n* 客户主体和公众号主体行业不一致，不支持跨主体投放 \r\n# 三、操作指引\r\n## 1. 使用入口\r\n1.1. 在【工具】—【微信生态授权管理】—【公众号授权】中发起授权\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102503_922960.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102503_922960.png\"/></a>\r\n\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102530_020049.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102530_020049.png\" style='width:600px'/></a>\r\n## 2. 发起授权\r\n2.1. 输入要投放的公众号开发者ID（AppID），点击校验并勾选协议后发起授权。\r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017140753_753308.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017140753_753308.png\" style='width:600px'/></a>\r\na. 同主体授权：授权的公众号与投放营销的客户账户属于同一主体时可直接授权。\r\n\r\nb. 跨主体授权：如果授权的公众号与投放营销的客户账户不属于同一主体：\r\n* 若为同主体子客场景：则需要公众号管理员扫码完成授权\r\n* 若为跨主体直客/子客场景：\r\n  * 则需在“发起授权”后，按对应操作提交相关证明材料。\r\n  * 在公众号管理员扫码确认授权且相关资质材料广审通过后才可以绑定成功\r\n  \r\n<a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017141045_154241.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231017141045_154241.png\"/></a>\r\n## 3. 取消授权\r\n3.1. 对于公众号主，可在腾讯营销助手小程序端管理对应的授权关系，点击“已授权”的绑定关系，可以操作取消授权，取消授权，存量营销会同步做下线处理\r\n  <a href=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102604_396831.png\" target=\"_self\" style=\"text-align: center;\"> <img src=\"https://bbx-pic.gtimg.com/bbx/pictures/2023/211_20231018102604_396831.png\" style='width:600px'/></a>\r\n\t3.2. 对于客户，可直接在投放端-工具箱或营销创建流程中取消公众号授权\r\n# 四、能力说明\r\n* 一个客户账号暂时只支持绑定一个公众号，一个公众号可授权至多个客户账号\r\n* 授权时间：客户可以自定义授权的时间，最短1天，最长永久，公众号管理员可以修改对应授权时间",
+    "catalogs": [
+      {
+        "catalog_id": 3790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 20:23:33"
+      },
+      {
+        "catalog_id": 4534,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-14 14:56:13"
+      }
+    ],
+    "created_by_name": "宇逸-王帅",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-10-17 14:13:38",
+    "updated_at": "2025-01-14 14:56:13",
+    "nav_flag": 0
+  }
+}

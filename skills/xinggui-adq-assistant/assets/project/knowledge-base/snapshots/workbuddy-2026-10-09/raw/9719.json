@@ -1,0 +1,67 @@
+{
+  "data": {
+    "post_id": 9719,
+    "title": "海外发票申请",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [
+      {
+        "attachment_id": 81497,
+        "name": "INVOICE开票申请模板-BEIJING TENCENT.xlsx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2024/396_20240417161343_441173.xlsx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "is_audit": 1,
+        "size": 17675,
+        "size_format": "17.26KB"
+      },
+      {
+        "attachment_id": 94699,
+        "name": "INVOICE开票申请模板-Morespark-250929.xlsx",
+        "type": 4,
+        "url": "https://bbx-pic.gtimg.com/bbx/pictures/2025/396_20251013111912_899981.xlsx",
+        "cover_url": "",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "is_audit": 1,
+        "size": 11719,
+        "size_format": "11.44KB"
+      }
+    ],
+    "content_type": 2,
+    "content": "# 腾讯营销 海外发票申请\n\n| *更新日期* | *2025-9-29* | *模板更新* |\n| -------- | -------- | -------- |\n\n尊敬的合作伙伴，您好\n\n若您需要 开具海外合作的发票，请通过以下方式发起：\n\n\n# 邮件详情\n*\n## 收件人\n收件人：AMS_JS@tencent.com\n\n抄送人：abbeyyao@tencent.com ; bennyren@tencent.com ; *[ 您的销售经理/渠道经理 ]*;\n\n*\n## 邮件主题\n\n【腾讯营销】海外发票申请 - *[ 开票主体名称 ]* - *[ 开票时间范围 ]*\n\n*\n## 邮件正文\n\n以下信用金消耗需开具发票，请安排开票并寄出：\n\n*\n## 填写规范\n![微信截图_20231121165104.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231121171456_291666.jpg)\n **申请表请于本文末尾处下载**\n\n文件内蓝色部分为客户填写项，其余部分无需客户填写，客户填写部分的填写规范如下：\n1. Company Name：请填写开票主体全称\n2. TIN：请填写公司注册营业地址\n3. invoice date：发票申请日期，例 2023/11/21\n4. Amount：请填写币种和金额，在单元格右键“设置单元格格式”，在“货币”栏目内选择货币类型\n![微信截图_20231121172644.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2023/396_20231121172741_326165.jpg)\n\n*\n## 注意事项\n\t* 若申请人发起申请后未在处理时效内收到反馈，或对反馈结果有异议的，请主动[联系结算专员](https://support.e.qq.com/detail?cid=4059&pid=9107)了解具体情况",
+    "catalogs": [
+      {
+        "catalog_id": 4075,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 12:02:57"
+      }
+    ],
+    "created_by_name": "李渊loboli",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2023-11-21 17:36:37",
+    "updated_at": "2026-04-17 14:14:24",
+    "nav_flag": 0
+  }
+}

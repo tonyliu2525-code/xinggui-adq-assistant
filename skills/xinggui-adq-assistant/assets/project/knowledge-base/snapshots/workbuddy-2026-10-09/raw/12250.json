@@ -1,0 +1,44 @@
+{
+  "data": {
+    "post_id": 12250,
+    "title": "通用规则---代言人规范",
+    "sub_title": "202505规则更新",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "违规点：投放内容不符合代言人规范，请修改\n1. 不支持使用未满十周岁未成年人进行任何形式的商业代言\n<BR>*透传原因：禁止违法、失德、未成年人员参与商业推广，请修改*\n\n| <font color=\"#FF0000\">**✖**<font color=\"#000000\">**未满十周岁代言人** | <font color=\"#FF0000\">**✖**<font color=\"#000000\">**未满十周岁代言人** |<font color=\"#FF0000\">**✖**<font color=\"#000000\">**未满十周岁代言**人 |\n| :--------: | :--------: | :--------: |\n|  ![image1.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618191654_285318.png)  |  ![image2.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618191706_613051.png)  | ![image3.png](https://bbx-pic.gtimg.com/bbx/pictures/2025/443_20250618191715_528720.png)  |\n\t\t\n\n2. 不支持涉及不符合实际场景的代言，需要确保代言人真实使用过所推荐商品或服务\n<BR>*透传原因：涉及不符合实际场景的代言，请修改*",
+    "catalogs": [
+      {
+        "catalog_id": 4790,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-06-13 10:19:59"
+      }
+    ],
+    "created_by_name": "肖明",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2025-05-13 10:36:15",
+    "updated_at": "2026-04-29 09:49:25",
+    "nav_flag": 1
+  }
+}

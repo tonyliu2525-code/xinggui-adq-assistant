@@ -1,0 +1,55 @@
+{
+  "data": {
+    "post_id": 10137,
+    "title": "出价优先级说明",
+    "sub_title": "",
+    "memo": "",
+    "keywords": "",
+    "status": 5,
+    "status_text": "已关联目录",
+    "is_webview": false,
+    "webview_url": "",
+    "type": 1,
+    "case_image_url": "",
+    "type_text": "帮助中心",
+    "scope_type": 1,
+    "attachments": [],
+    "content_type": 2,
+    "content": "| 文档更新日期 | 主要更新内容 |\r\n| -------- | -------- | -------- |\r\n|2024年月28日  |搜索营销出价优先级说明  |\r\n\r\n# 说明\r\n\r\n\r\n| 场景| 优先级 |\r\n| -------- | -------- | -------- |\r\n| 营销类型：搜索营销 出价方式：oCPM、oCPC     | 按照设置的营销出价进行竞价，不支持对关键词进行出价    |\r\n| 营销类型：搜索营销 出价方式：CPC     | 设置关键词出价优先使用关键词出价进行竞价，没有设置关键词出价的默认使用营销出价进行竞价 |",
+    "catalogs": [
+      {
+        "catalog_id": 3819,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2024-07-08 19:14:10"
+      },
+      {
+        "catalog_id": 4582,
+        "excerpt": "",
+        "template_id": 13,
+        "cover_type": 5,
+        "cover_name": "",
+        "cover_image_url": "",
+        "cover_video_url": "",
+        "cover_video_name": "",
+        "first_publish_at": "2025-01-16 11:44:20"
+      }
+    ],
+    "created_by_name": "宇逸-赵群",
+    "tags": [],
+    "scopes": [],
+    "projects": [],
+    "cover_resource": "{}",
+    "video_resource": "[{\"videoName\":\"从零开始 玩转搜索\",\"videoLink\":\"https://eschool.qq.com/Learning/HotTopic/25?name=eqq_support_nry\",\"videoImg\":\"https://file.tencentads.com/files/share-img/2022/11/26df3a101a8f4048bcaa8fcf6f06e593.png\",\"uploadTime\":1741146780868,\"videoId\":\"0f176bdb-c58c-4c66-be63-8e8e3ca8e7f5\"}]",
+    "related_posts": [],
+    "has_training": false,
+    "created_at": "2024-03-13 15:40:13",
+    "updated_at": "2025-03-05 11:53:08",
+    "nav_flag": 0
+  }
+}
