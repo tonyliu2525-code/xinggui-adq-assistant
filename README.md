@@ -4,10 +4,10 @@
 
 ## 安装
 
-电脑安装 Node.js LTS 和 Git 后，在终端执行：
+电脑安装 Node.js LTS 和 Git 后，进入目标项目文件夹，在终端执行：
 
 ```bash
-npx -y skills add tonyliu2525-code/xinggui-adq-assistant -g -y
+npx -y skills add tonyliu2525-code/xinggui-adq-assistant -y
 ```
 
 自动识别本机已安装且受支持的 Agent，安装完整技能，无需逐个指定。完成后重新加载技能或新建对话。更新时运行同一命令；客户资料另存到项目目录。安装器尚未支持的平台，可在原生技能入口导入完整目录。
