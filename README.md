@@ -4,11 +4,13 @@
 
 ## 安装
 
+电脑安装 Node.js LTS 和 Git 后，在终端执行：
+
 ```bash
-npx -y skills@1.7.2 add tonyliu2525-code/xinggui-adq-assistant --skill xinggui-adq-assistant -a codex claude-code hermes-agent cursor gemini-cli qwen-code opencode --copy -y
+npx -y skills add tonyliu2525-code/xinggui-adq-assistant -g -y
 ```
 
-以上命令已验证从远程安装到当前项目，支持所列七种 Agent。需要用户级安装时添加 `-g`。安装文件完整性已验证，各客户端运行权限以实际环境为准。未被安装器列出但支持标准 Skill 的平台，可导入完整技能目录。平台是否允许自定义导入、容量和工具权限以当前入口为准；不保证所有 AI 产品支持相同功能。
+自动识别本机已安装且受支持的 Agent，安装完整技能，无需逐个指定。完成后重新加载技能或新建对话。更新时运行同一命令；客户资料另存到项目目录。安装器尚未支持的平台，可在原生技能入口导入完整目录。
 
 ## 使用
 
