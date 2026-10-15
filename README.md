@@ -5,10 +5,10 @@
 ## 安装
 
 ```bash
-npx -y skills add tonyliu2525-code/xinggui-adq-assistant --skill xinggui-adq-assistant -g
+npx -y skills@1.7.2 add tonyliu2525-code/xinggui-adq-assistant --skill xinggui-adq-assistant -a codex claude-code hermes-agent cursor gemini-cli qwen-code opencode --copy -y
 ```
 
-按提示选择目标 Agent。未被安装器列出但支持标准 Skill 的平台，可导入完整技能目录。平台是否允许自定义导入、容量和工具权限以当前入口为准；不保证所有 AI 产品支持相同功能。
+以上命令已验证从远程安装到当前项目，支持所列七种 Agent。需要用户级安装时添加 `-g`。安装文件完整性已验证，各客户端运行权限以实际环境为准。未被安装器列出但支持标准 Skill 的平台，可导入完整技能目录。平台是否允许自定义导入、容量和工具权限以当前入口为准；不保证所有 AI 产品支持相同功能。
 
 ## 使用
 
